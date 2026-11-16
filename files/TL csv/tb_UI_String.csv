@@ -10052,7 +10052,7 @@ Unkown1	Unkown2	Unkown3
 28719	0	{0} Extra Reward	
 28720	0	{0}/{1}	
 28721	0	Attendance	
-28722	0	Attendance check resets every day at 09:00 JST.<br>At reset, members eligible for the bonus reward are tallied, and the reward and the previous day's bonus reward are sent the next day.	
+28722	0	Attendance check resets every day at 09:00 JST.<br>At reset, bonus members are tallied; the reward and previous day's bonus are sent next day.	
 28723	0	{0} has purchased {1} x{2} through a Guild Shop.	
 28724	0	{0} pcs	
 28725	0	Guild Emblem Change	
@@ -12005,7 +12005,7 @@ Unkown1	Unkown2	Unkown3
 83073	0	Soul Mate Info	
 83074	0	Areas of Exploration	
 83075	0	Time	
-83076	0	Scheduled to open at 09:00 JST tomorrow	
+83076	0	Opens tomorrow<br>at 09:00 JST	
 83077	0	Exploring the Area	
 83078	0	Complete!	
 83079	0	Exploration Point:	
@@ -12410,7 +12410,7 @@ Unkown1	Unkown2	Unkown3
 38050	0	Guild EXP Gain: +[{0}%]	
 28758	0	Booster	
 28759	0	Apply Guild Booster	
-28760	0	Purchase → +{0} Days	
+28760	0	Purchase → +{0}	
 28761	0	Purchase Booster	
 28762	0	Do you want to purchase this Booster?	
 28763	0	Purchase Guild Booster	

@@ -1,7 +1,7 @@
 {
-  "version": "2.8.0",
-  "released": "2026-11-15T16:28:58Z",
-  "notes": "Translation now has its own repo",
+  "version": "2026.1116.1353",
+  "released": "2026-11-16T04:53:20Z",
+  "notes": "fix some ui text",
   "files": [
     {
       "path": "TL csv/tb_Achievement_Script.csv",
@@ -101,8 +101,8 @@
     },
     {
       "path": "TL csv/tb_UI_String.csv",
-      "size": 736005,
-      "sha256": "01a80af07586a583c866d24b79d58df1488fc2e0c15753f29bc147d72933112f",
+      "size": 735948,
+      "sha256": "b88ea3210e6890407a11dee3c7ea6899fea22da8354b9c986c293e2dd66df6bd",
       "kind": "translation"
     },
     {
