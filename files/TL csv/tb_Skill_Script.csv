@@ -909,8 +909,8 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6	Unkown7	Unkown8	Unkown9	Unkown10
 30292	Fuel Saving System I	Fuel Saving System	Every 20 sec, recovers 10% Stamina.	.	0	0	0	0	0	
 30293	Fuel Saving System II	Fuel Saving System	Every 15 sec, recovers 20% Stamina.	.	0	0	0	0	0	
 30301	Desperate Attack I	Desperate Attack	When an attack hits, Defense decreases by 50% and Attack increases by 15% for 5 sec. (Cooldown 30 sec)	.	0	0	0	0	0	
-30302	 I		Every 60 sec, recovers 20% SG.	.	0	0	0	0	0	
-30303	 II		Every 60 sec, recovers 30% SG.	.	0	0	0	0	0	
+30302	Be Quiet I	Be Quiet	Every 60 sec, recovers 20% SG.	.	0	0	0	0	0	
+30303	Be Quiet II	Be Quiet	Every 60 sec, recovers 30% SG.	.	0	0	0	0	0	
 30311	Rush Time I	Rush Time	When a critical hit lands, 10% chance to increase Attack Speed by 10% for 4 sec. (Cooldown 40 sec)	.	0	0	0	0	0	
 30312	Rush Time II	Rush Time	When a critical hit lands, 10% chance to increase Attack Speed by 10% for 6 sec. (Cooldown 40 sec)	.	0	0	0	0	0	
 30313	Light but Accurate I	Light but Accurate	When attacked, 20% chance to decrease Attack by 20% and increase Accuracy by 1000 for 5 sec. (Cooldown 60 sec)	.	0	0	0	0	0	

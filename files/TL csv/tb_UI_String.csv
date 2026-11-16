@@ -1034,7 +1034,7 @@ Unkown1	Unkown2	Unkown3
 4021	0	You have received the title {0}.	
 4022	0	Gardening completed	
 4023	0	{0}x garden harvest possible	
-5001	0	Not Learned	
+5001	0	Locked	
 5002	0	Reuse Cooltime:	
 5003	0	sec	
 5004	0	COST：	
@@ -1939,9 +1939,9 @@ Unkown1	Unkown2	Unkown3
 18041	0	No fees will be charged on the sale.	
 18042	0	Quantity to list	
 18043	0	Items {0}, {1} and {2} will be listed. Continue?	
-18044	0	{0} days	
-18045	0	{0} hrs	
-18046	0	{0} min	
+18044	0	{0} d	
+18045	0	{0} h	
+18046	0	{0} m	
 18047	0	Within 1 min	
 18048	0	Sales Period	
 18049	0	Use Item	
@@ -3556,9 +3556,9 @@ Unkown1	Unkown2	Unkown3
 28101	0	Refuse Guild Yes/No	
 28102	0	You cannot apply right now because there are too many applications pending.	
 28103	0	Guild membership application exceeded	
-28104	0	{0} days ago	
-28105	0	{0} hrs ago	
-28106	0	{0} min ago	
+28104	0	{0} d ago	
+28105	0	{0} h ago	
+28106	0	{0} m ago	
 28107	0	You joined the {0} Guild.	
 28108	0	{0} joined the {1} Guild.	
 28109	0	When leaving the Guild, all referenced Information about the Guild will be reset. You will not be able to join a Guild for 1 day.<br>Do you want to leave anyway?	
@@ -3645,9 +3645,9 @@ Unkown1	Unkown2	Unkown3
 28190	0	Member	
 28191	0	President	
 28192	0	Novice	
-28193	0	{0} days	
-28194	0	{0} hrs	
-28195	0	{0} min	
+28193	0	{0} d	
+28194	0	{0} h	
+28195	0	{0} m	
 28196	0	Guild Details	
 28197	0	Last Login	
 28198	0	Position	
@@ -5653,11 +5653,11 @@ Unkown1	Unkown2	Unkown3
 45121	0	Preview	
 45122	0	Empty Basket	
 45123	0	Edit Appearance	
-45201	0	{0}Lv.{1}	
+45201	0	{0} Lv.{1}	
 45202	0	Can revert to {0}	
 45203	0	Reset not possible	
 45204	0	Lv.{0}	
-45205	0	Not Learned	
+45205	0	Unlearned	
 45206	0	Change Character Name	
 45207	0	Change Guild Name	
 45208	0	Megaphone	
@@ -10839,7 +10839,7 @@ Unkown1	Unkown2	Unkown3
 1701	0	Mastery	
 1702	0	Level Required	
 1703	0	SP Required	
-1704	0	(Not Learned)	
+1704	0	(Locked)	
 1705	0	Next Lv.:	
 1706	0	Min Lv.: 	
 1707	0	SP Required: 	
@@ -12005,7 +12005,7 @@ Unkown1	Unkown2	Unkown3
 83073	0	Soul Mate Info	
 83074	0	Areas of Exploration	
 83075	0	Time	
-83076	0	Opens tomorrow<br>at 09:00 JST	
+83076	0	Opens at 09:00 JST	
 83077	0	Exploring the Area	
 83078	0	Complete!	
 83079	0	Exploration Point:	

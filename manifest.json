@@ -1,7 +1,7 @@
 {
-  "version": "2026.1116.1353",
-  "released": "2026-11-16T04:53:20Z",
-  "notes": "fix some ui text",
+  "version": "2026.1116.2324",
+  "released": "2026-11-16T14:24:24Z",
+  "notes": "fix some overlap text on ui",
   "files": [
     {
       "path": "TL csv/tb_Achievement_Script.csv",
@@ -71,8 +71,8 @@
     },
     {
       "path": "TL csv/tb_Skill_Script.csv",
-      "size": 1145635,
-      "sha256": "c9c800d6a8ec68b6b9f21b1b87420948fed5b11e0667c18ed45d4422b32c2444",
+      "size": 1145667,
+      "sha256": "6c2e26091e9e67455c077f4bfc9ad63a60b820ea1b6eea600887141ea5667af6",
       "kind": "translation"
     },
     {
@@ -101,8 +101,8 @@
     },
     {
       "path": "TL csv/tb_UI_String.csv",
-      "size": 735948,
-      "sha256": "b88ea3210e6890407a11dee3c7ea6899fea22da8354b9c986c293e2dd66df6bd",
+      "size": 735904,
+      "sha256": "4449572f6d1fc696298fc858ebcc661377bfbe02aa3a6c38dd72471881d2db41",
       "kind": "translation"
     },
     {
