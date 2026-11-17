@@ -1,7 +1,7 @@
 {
-  "version": "2026.1116.2324",
-  "released": "2026-11-16T14:24:24Z",
-  "notes": "fix some overlap text on ui",
+  "version": "2026.1117.1307",
+  "released": "2026-11-17T04:07:02Z",
+  "notes": "fix some typo formatings/text",
   "files": [
     {
       "path": "TL csv/tb_Achievement_Script.csv",
@@ -72,13 +72,13 @@
     {
       "path": "TL csv/tb_Skill_Script.csv",
       "size": 1145667,
-      "sha256": "6c2e26091e9e67455c077f4bfc9ad63a60b820ea1b6eea600887141ea5667af6",
+      "sha256": "aae25fa01aeb03bde4d8735b9ac73159682eecb2ddbb1c3c875965e054b045da",
       "kind": "translation"
     },
     {
       "path": "TL csv/tb_Speech_String.csv",
-      "size": 22597753,
-      "sha256": "3aaaadde29313e6a57b7d534e193c6487b8c0eb61ebe59833ccf3e91ef733abf",
+      "size": 22597759,
+      "sha256": "271136b0e01979aace7fab10661b43b802e7bcf699ab8f131cd35a3943a4fd02",
       "kind": "translation"
     },
     {
@@ -89,8 +89,8 @@
     },
     {
       "path": "TL csv/tb_Title_String.csv",
-      "size": 120677,
-      "sha256": "305ce20eed34ff4ec52a773a80ab7bb63f5ba0cd016c46166f4b6f7c9d2658e4",
+      "size": 120666,
+      "sha256": "35c11ff7ecb8bbd4809905aa0ceba08e38e282b064d0f862c703a76eb231dcb2",
       "kind": "translation"
     },
     {
@@ -101,14 +101,14 @@
     },
     {
       "path": "TL csv/tb_UI_String.csv",
-      "size": 735904,
-      "sha256": "4449572f6d1fc696298fc858ebcc661377bfbe02aa3a6c38dd72471881d2db41",
+      "size": 735764,
+      "sha256": "86c83240f2c3d18588ed1b0acc6be4af6be1ec98474b3dbb36497eecb2baef0f",
       "kind": "translation"
     },
     {
       "path": "TL csv/tb_item_script.csv",
-      "size": 11855448,
-      "sha256": "48976177238a77111763b220cba08e60cdcc1bcf9d435bc00177068413930f52",
+      "size": 11856259,
+      "sha256": "e165bc09c521139b2484446d58af13e76698ace1f9f0a682e64783de3ac0c8cd",
       "kind": "translation"
     },
     {

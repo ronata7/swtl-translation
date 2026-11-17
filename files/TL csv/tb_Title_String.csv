@@ -43,7 +43,7 @@ Unkown1	Unkown2	Unkown3	Unkown4
 10049	Gurgle	A title sold in limited quantity to commemorate the Gruton World Event.	Event Sale	
 10050	<font color='#FAED7D'>§</font>Chicken<font color='#FAED7D'>§</font>	A title sold in limited quantity to commemorate the Gruton World Event.	Event Sale	
 10051	<font color='#FF0000'>∥</font>Santa<font color='#FF0000'>∥</font>	A title sold in limited quantity to commemorate the Gruton World Event.	Event Sale	
-10052	<font color='#FFBB00'>★</font>Summer<font color='#FFBB00'>★</font	A title sold in limited quantity to commemorate the Gruton World Event.	Event Sale	
+10052	<font color='#FFBB00'>★</font>Summer<font color='#FFBB00'>★</font>	A title sold in limited quantity to commemorate the Gruton World Event.	Event Sale	
 10053	<font color='#F15F5F'>♥</font>Angel<font color='#F15F5F'>♥</font>	A title sold in limited quantity to commemorate the Gruton World Event.	Event Sale	
 20001	Trailblazer	A title given to those who challenged the Last Carnival Subjugation Event.	Event Reward	
 20002	First Experience	A title given to those who challenged the Junk Hive Subjugation Event.	Event Reward	
@@ -650,7 +650,7 @@ Unkown1	Unkown2	Unkown3	Unkown4
 200209	Mission Start	Only the chosen 2nd-generation SoulWorkers remained as Special Forces.	Cleared Tower of Lord	
 100309	Unleash	Even without change, you've still become stronger.	Cleared the promotion quest following the end of Grasscover Camp	
 200309	Loyalty	Even without change, you've still become stronger.	Cleared the promotion quest following the end of Grasscover Camp	
-100409	<font color='#FF8224'>Of the Past<font>	Left the Lords and became a member of the Special Forces.	Cleared Dipulus Horizon	
+100409	<font color='#FF8224'>Of the Past</font>	Left the Lords and became a member of the Special Forces.	Cleared Dipulus Horizon	
 200409	<font color='#FF8224'>Farewell</font>	Left the Lords and became a member of the Special Forces.	Cleared Dipulus Horizon	
 100509	Cutting In	I can't resist that voice.	Cleared the Grasscover Camp quest	
 200509	Voice	I can't resist that voice.	Cleared the Grasscover Camp quest	
@@ -762,13 +762,13 @@ Unkown1	Unkown2	Unkown3	Unkown4
 20369	<font color='#C2FFCF'>I Picked It Up</font>	A title obtainable in the 2023 White Day Event.	Event Reward	
 10345	<font color='#00c4b0'>Me</font><font color='#FD2DC6'>lo</font><font color='#5688fe'>di</font><font color='#c9f2a0'>ou</font><font color='#00c4b0'>s</font>	A title obtainable through the Melodious Aurora Event	Event Reward	
 20345	<font color='#5688fe'>A</font><font color='#00c4b0'>u</font><font color='#5688fe'>r</font><font color='#00c4b0'>o</font><font color='#5688fe'>r</font><font color='#00c4b0'>a</font>	A title obtainable through the Melodious Aurora Event	Event Reward	
-10346	<font color='#9BA2FF'>Me</font><font color='#C39BFF'>lod</font><font color='#9BA2FF'>i</font><font color='#C39BFF'>ous </font><font color='#9BA2FF'>Au</font><font color='#C39BFF'>ro</font><font color='#A28AF0′>r</font><font color='#C39BFF'>a</font><font color='#F39BFF'></font>	A special title obtainable during the Melodious Aurora Event. What tremendous combat power...!	Event Reward	
+10346	<font color='#9BA2FF'>Me</font><font color='#C39BFF'>lod</font><font color='#9BA2FF'>i</font><font color='#C39BFF'>ous </font><font color='#9BA2FF'>Au</font><font color='#C39BFF'>ro</font><font color='#A28AF0'>r</font><font color='#C39BFF'>a</font><font color='#F39BFF'></font>	A special title obtainable during the Melodious Aurora Event. What tremendous combat power...!	Event Reward	
 20346	<font color='#FFFFFF'>Con</font><font color='#FF4343'>queror</font>	A special title obtainable during the Melodious Aurora Event. What tremendous combat power...!	Event Reward	
 10347	<font color='#CCFFE5'>If in </font><font color='#00FFFF'>Trou</font><font color='#CCFFE5'>ble,</font>	A special title obtainable during the Melodious Aurora Event. Your skill is incredible!	Event Reward	
-20347	<font color='#AFFFF'>Le</font><font color='#9EBFFF'>ave </font><font color='#CCFFE5'>It </font><font color='#9EBFFF'>to </font><font color='#CCFFE5'>M</font><font color='#9EBFFF'>e</font><font color='#F39BFF'>!</font>	A special title obtainable during the Melodious Aurora Event. Your skill is incredible!	Event Reward	
-10348	<font color='#FBFFAE'>Let's </font><font color='#FFFFFF′>Punish</font>	A special title obtainable during the Melodious Aurora Event. Wow! Gruton runs away just from seeing you...	Event Reward	
+20347	<font color='#AFFFFF'>Le</font><font color='#9EBFFF'>ave </font><font color='#CCFFE5'>It </font><font color='#9EBFFF'>to </font><font color='#CCFFE5'>M</font><font color='#9EBFFF'>e</font><font color='#F39BFF'>!</font>	A special title obtainable during the Melodious Aurora Event. Your skill is incredible!	Event Reward	
+10348	<font color='#FBFFAE'>Let's </font><font color='#FFFFFF'>Punish</font>	A special title obtainable during the Melodious Aurora Event. Wow! Gruton runs away just from seeing you...	Event Reward	
 20348	<font color='#FF79F2'>Gru</font><font color='#FFAEF8'>ton</font><font color='#FF0000'>!</font>	A special title obtainable during the Melodious Aurora Event. Wow! Gruton runs away just from seeing you...	Event Reward	
-10349	<font color='#E7D9FF'>It </font><font color='#F2D9FF'>is </font><font color='#E7D9FF'>I</font><font color='#F2D9FF′>!</font>	A special title obtainable during the Melodious Aurora Event. As expected!	Event Reward	
+10349	<font color='#E7D9FF'>It </font><font color='#F2D9FF'>is </font><font color='#E7D9FF'>I</font><font color='#F2D9FF'>!</font>	A special title obtainable during the Melodious Aurora Event. As expected!	Event Reward	
 20349	<font color='#CCFFE5'>Skilled One</font>	A special title obtainable during the Melodious Aurora Event. As expected!	Event Reward	
 10350	<font color='#FBFFAE'>Gruton</font><font color='#FFFFFF'> wants</font>	A special title obtainable during the Melodious Aurora Event. Gruton has gone quiet...!	Event Reward	
 20350	<font color='#FFFF00'>to </font><font color='#CCFFE5'>sing...</font>	A special title obtainable during the Melodious Aurora Event. Gruton has gone quiet...!	Event Reward	
@@ -868,8 +868,8 @@ Unkown1	Unkown2	Unkown3	Unkown4
 20460	<font color='#d874a6'>Won't </font><font color='#f08fbf'>You </font><font color='#ffa3d1'>Do It?</font>	A title craftable from materials dropped by Rebellious Star	Rebellious Crafting	
 10461	<font color='#e2ecff'>★</font><font color='#2476ee'>2</font><font color='#c2cafd'>nd</font><font color='#e2ecff'>Anniv</font>	2nd Anniversary Event Crafted Title	Event Reward	
 20461	<font color='#e2ecff'>Set</font><font color='#c2cafd'>&</font><font color='#2476ee'>Live</font><font color='#e2ecff'>★</font>	2nd Anniversary Event Crafted Title	Event Reward	
-10467	<font color='#9cad7b'>Zo</font><font color='#8e3225'>mb</font><font color='#697b53'>ie</font>	2026 Secret Subject Event Title	Event Reward	
-20467	<font color='#d3e4a7'>Don</font><font color='#9cad7b'>'t </font><font color='#8e3225'>Fol</font><font color='#c65338'>low </font><font color='#4d6039'>Me</font>	2026 Secret Subject Event Title	Event Reward	
+10467	<font color='#9cad7b'>Zo</font><font color='#8e3225'>mb</font><font color='#697b53'>ie</font>	2026 Secret Subject Event Title	Event Reward	
+20467	<font color='#d3e4a7'>Don</font><font color='#9cad7b'>'t </font><font color='#8e3225'>Fol</font><font color='#c65338'>low </font><font color='#4d6039'>Me</font>	2026 Secret Subject Event Title	Event Reward	
 10472	<font color='#2e0000'>So</font><font color='#4f000c'>ul</font><font color='#890006'>Wo</font><font color='#b41e30'>rk</font><font color='#ff7287'>er</font>	EP.3 Event Title	Event Reward	
 20472	<font color='#ffa7bd'>Fa</font><font color='#ffc9e1'>ll </font><font color='#ff7287'>fr</font><font color='#b41e30'>om </font><font color='#890006'>G</font><font color='#4f000c'>ra</font><font color='#2e0000'>ce</font>	EP.3 Event Title	Event Reward	
 10473	<font color='#725b79'>W</font><font color='#57425c'>el</font><font color='#594456'>co</font><font color='#84437b'>m</font><font color='#a06ea2'>e </font><font color='#82554c'>to</font>	Fist Event Title	Event Reward	

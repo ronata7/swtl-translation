@@ -93,9 +93,9 @@ Unkown1	Unkown2	Unkown3
 140	0	Break	
 141	0	Miscellaneous	
 142	0	Head	
-143	0	Shoulder Guards	
+143	0	Shoulder	
 144	0	Body	
-145	0	Leg Guards	
+145	0	Legs	
 146	0	Attack Familiar	
 147	0	Defense Familiar	
 148	0	Gestures	
@@ -1691,11 +1691,11 @@ Unkown1	Unkown2	Unkown3
 10522	0	Blue Heart	
 10523	0	Time for Penance	
 10524	0	Clashing Destiny	
-13000	0	Lowest Grade	
-13001	0	Low Grade	
-13002	0	Mid Class	
-13003	0	High Grade	
-13004	0	Highest Grade	
+13000	0	Lowest	
+13001	0	Low	
+13002	0	Mid	
+13003	0	High	
+13004	0	Top	
 13005	0	The verification failed due to system maintenance.	
 13006	0	The verification failed due to an unidentified error.<br>Please contact the Operation Team.<br>Error code: {0}	
 14000	0	Steel Grave	
@@ -2725,9 +2725,9 @@ Unkown1	Unkown2	Unkown3
 24256	0	SoulWeapon	
 24257	0	Sub Weapon	
 24258	0	Head	
-24259	0	Shoulder Guards	
+24259	0	Shoulder	
 24260	0	Body	
-24261	0	Leg Guards	
+24261	0	Legs	
 24262	0	Pendant	
 24263	0	Earring	
 24264	0	Ring	
@@ -2807,9 +2807,9 @@ Unkown1	Unkown2	Unkown3
 24506	0	Soul Weapon	
 24507	0	Sub Weapon	
 24508	0	Head	
-24509	0	Shoulder Guards	
+24509	0	Shoulder	
 24510	0	Body	
-24511	0	Leg Guards	
+24511	0	Legs	
 24512	0	Pendant	
 24513	0	Earring	
 24514	0	Ring	
@@ -2911,9 +2911,9 @@ Unkown1	Unkown2	Unkown3
 24610	0	Soul Weapon	
 24611	0	Sub Weapon	
 24612	0	Head	
-24613	0	Shoulder Guards	
+24613	0	Shoulder	
 24614	0	Body	
-24615	0	Leg Guards	
+24615	0	Legs	
 24616	0	Pendant	
 24617	0	Earring	
 24618	0	Ring	
@@ -2990,9 +2990,9 @@ Unkown1	Unkown2	Unkown3
 24777	0	Soul Weapon	
 24778	0	Sub Weapon	
 24779	0	H-Gear	
-24780	0	Shoulder Guards	
+24780	0	Shoulder	
 24781	0	B-Gear	
-24782	0	Leg Guards	
+24782	0	Legs	
 24783	0	Pendant	
 24784	0	Earring	
 24785	0	Ring	
@@ -5653,7 +5653,7 @@ Unkown1	Unkown2	Unkown3
 45121	0	Preview	
 45122	0	Empty Basket	
 45123	0	Edit Appearance	
-45201	0	{0} Lv.{1}	
+45201	0	{0}	
 45202	0	Can revert to {0}	
 45203	0	Reset not possible	
 45204	0	Lv.{0}	
@@ -8540,7 +8540,7 @@ Unkown1	Unkown2	Unkown3
 66012	0	(SP)	
 66013	0	No dye Information Available.	
 66014	0	Dye Information	
-66015	0	<font color= '＃00CED1」>Dyeable</ font>	
+66015	0	<font color='#00CED1'>Dyeable</font>	
 66001	0	[{0}、{1}、{2}]	
 52061	0	The rank enhancement failed.	
 24338	0	Dye Material	
@@ -10564,21 +10564,21 @@ Unkown1	Unkown2	Unkown3
 7225	0	Favorite	
 7226	0	Voice Wheel List	
 7227	0	Voice Wheel Shortcut	
-74001	0	Greeting 01	
-74002	0	Greeting 02	
-74003	0	Greeting 03	
-74004	0	Thanks 01	
-74005	0	Thanks 02	
-74006	0	Thanks 03	
-74007	0	Warning 01	
-74008	0	Warning 02	
-74009	0	Warning 03	
-74010	0	Join Order 01	
-74011	0	Join Order 02	
-74012	0	Join Order 03	
-74013	0	Farewell 01	
-74014	0	Farewell 02	
-74015	0	Farewell 03	
+74001	0	Greeting 1	
+74002	0	Greeting 2	
+74003	0	Greeting 3	
+74004	0	Thanks 1	
+74005	0	Thanks 2	
+74006	0	Thanks 3	
+74007	0	Warning 1	
+74008	0	Warning 2	
+74009	0	Warning 3	
+74010	0	Join Order 1	
+74011	0	Join Order 2	
+74012	0	Join Order 3	
+74013	0	Farewell 1	
+74014	0	Farewell 2	
+74015	0	Farewell 3	
 74016	0	Summer 01	
 74017	0	Summer 02	
 74018	0	New Year 01	
@@ -10718,7 +10718,7 @@ Unkown1	Unkown2	Unkown3
 27215	0	PLUS Perks [60D]	
 27216	0	PLUS Perks [90D]	
 27217	0	PLUS Booster Effect	
-27218	0	<font color='#ff0000'>* SoulWorker PLUS cannot be canceled once purchased.</font color>	
+27218	0	<font color='#ff0000'>* SoulWorker PLUS cannot be canceled once purchased.</font>	
 27219	0	Use {0}?<br>Additional time has been added to current PLUS Effect applied.	
 27220	0	 - Monster EXP +20%<br> - Clear Rewards EXP +20%<br> - Zenny Drop +20%<br> - Clear Rewards Zenny +20%<br> - Ether Drop +20%<br> - Item Drop +20%<br> - Upgrade Success Rate +50%<br> - Progress Point: +100%<br> - Move Speed Up: District +50%	
 27221	0	Log-In Maintenance Reward<br>Number of Maze Entry Added<br>Maze Results Card Key Bonus<br>Number of Free Respawn Added<br>PLUS-specific Emoticons Added<br>PLUS-specific FP +200	
@@ -10869,7 +10869,7 @@ Unkown1	Unkown2	Unkown3
 1738	0	Not Enough [Skill Tree Reset].	
 1739	0	No SP used at all. Not Possible to Reset All Skills.	
 1740	0	Mastery Point Reset can be done by using [Skill Reset] and [Special Skill Reset].<br>[Special Skill Reset] x1: Enable to Reset Max {0} Point(s).	
-1741	0	Point 5	
+1741	0	5 Points	
 1742	0	MAX	
 1743	0	Cancel	
 1744	0	Apply	
@@ -11513,7 +11513,7 @@ Unkown1	Unkown2	Unkown3
 77003	0	Treasure Hunt	
 77004	0	{0}～{1}	
 77005	0	Items Remaining	
-77006	0	The number you can obtain per day is fixed, and if the drop count is not met, it carries over to the next day.<br><br>When clearing certain Mazes, one of the items in the list below drops with an additional set chance.<br><br><font color='#FF0000′>*Maze List*<br>Field of Raid/Garden of Plenty/Plateau of Solitude</font>	
+77006	0	The number you can obtain per day is fixed, and if the drop count is not met, it carries over to the next day.<br><br>When clearing certain Mazes, one of the items in the list below drops with an additional set chance.<br><br><font color='#FF0000'>*Maze List*<br>Field of Raid/Garden of Plenty/Plateau of Solitude</font>	
 77007	0	Item Drop List	
 77008	0	Items Available (Today)	
 77009	0	Items Available (Today): {0}	
@@ -12274,8 +12274,8 @@ Unkown1	Unkown2	Unkown3
 52901	0	Character Level Too High (Not Possible to Use Soul Jumping)	
 52902	0	Soul Jumping Not Available to This Class.	
 49811	0	Soul Jumping	
-49812	1	Do you want to use Soul Jumping for this Character (Level Up to <font color="#ffa500">{0}</font>)?<br><br>(Soul Jumping x1 will be Consumed. Deleting the character does Not Return the Consumed Soul Jumping Chance.)	
-49813	1	Selected Character Level: <font color="#f15f5f">{0}</font><br>Do you Really want to use Soul Jumping for this Character (Level Up to <font color="#ffa500">{1}</font>)?<br><br>(Soul Jumping x1 will be Consumed. Deleting the character does Not Return the Consumed Soul Jumping Chance.)	
+49812	1	Do you want to use Soul Jumping for this Character (Level Up to <font color='#ffa500'>{0}</font>)?<br><br>(Soul Jumping x1 will be Consumed. Deleting the character does Not Return the Consumed Soul Jumping Chance.)	
+49813	1	Selected Character Level: <font color='#f15f5f'>{0}</font><br>Do you Really want to use Soul Jumping for this Character (Level Up to <font color='#ffa500'>{1}</font>)?<br><br>(Soul Jumping x1 will be Consumed. Deleting the character does Not Return the Consumed Soul Jumping Chance.)	
 52903	0	Success: Soul Jumping	
 52904	0	Processing Failed: Soul Jumping<br><br>Please Try Again Later.	
 52905	0	The Number of [Premium] Soul Jumping has Increased.<br><br>Soul Jumping Left: {0}	
@@ -12382,7 +12382,7 @@ Unkown1	Unkown2	Unkown3
 90032	0	When the EXP transfer is complete, the growth stats of the transferred equipment will be reset.<br>The transferred equipment will not disappear.	
 90033	0	Transfer EXP	
 90034	0	Transfer: {0}%	
-52100	0	Click [OK] → EXP of {0} will be transferred to EXP of {1}<br><font color="#ff0000">Transfer EXP: Exceeded EXP will be Lost.</font>	
+52100	0	Click [OK] → EXP of {0} will be transferred to EXP of {1}<br><font color='#ff0000'>Transfer EXP: Exceeded EXP will be Lost.</font>	
 90035	0	EXP Transfer Available Lists	
 90036	0	Unlocked Mastery Options: Reset	
 90037	0	EXP Up: {0} Mastery Option(s) Unlocked	
@@ -12390,8 +12390,8 @@ Unkown1	Unkown2	Unkown3
 20266	0	Foreigner Quartet	
 20267	0	You are showing the dignity of Vessi.	
 20268	0	{0} shows the dignity of Vessi.	
-58818	0	Item Already Owned.<br><font color="#ff0000">Do you really want to continue crafting?</font>	
-58819	0	For Current Character → This Item is Not Possible to Equip and Store (Bank).<br><font color="#ff0000">Do you really want to continue crafting?</font>	
+58818	0	Item Already Owned.<br><font color='#ff0000'>Do you really want to continue crafting?</font>	
+58819	0	For Current Character → This Item is Not Possible to Equip and Store (Bank).<br><font color='#ff0000'>Do you really want to continue crafting?</font>	
 100039	0	Mystic Fusion	
 100040	0	Mystic Fusion	
 100041	0	Fusion Available Lists	
@@ -12451,7 +12451,7 @@ Unkown1	Unkown2	Unkown3
 2285	0	Select All	
 2286	0	Receive	
 65721	0	Enter	
-65720	0	You cannot enter the Ranking Maze because you do not have the {0} item.<br><br><font color="#ff0000">Can be purchased through NPC Gruton</font>	
+65720	0	You cannot enter the Ranking Maze because you do not have the {0} item.<br><br><font color='#ff0000'>Can be purchased through NPC Gruton</font>	
 18801	0	How Many Boxes Would You Like To Open?	
 18802	0	Box Qty	
 12020	0	Lonely Christmas	
@@ -13135,7 +13135,7 @@ Unkown1	Unkown2	Unkown3
 43483	0	Blazing Whirlwind Diva Poison	
 43484	0	[M] Poison	
 6204	0	<font color='#FFFFFF'><font size="30">Tip。</font>Gruton Water Park Fiesta matching is available for<br>2 hours starting at 11:00, 18:00, and 21:00 JST every day.	
-6205	0	<font color='#FFF'><font size="30">Tip。</font>You don't need to fear death in Gruton Water Park Fiesta.	
+6205	0	<font color='#FFFFFF'><font size="30">Tip。</font>You don't need to fear death in Gruton Water Park Fiesta.	
 10200	0	Gruton Water Park Fiesta	
 15064	0	Enjoy a water gun fight at the Gruton Water Park Fiesta!	
 10702	0	- Gruton Water Park Fiesta is a PvP mode<br>　for up to 8 players.<br>- Dedicated PvP skills are used in the event.<br>- Matching is random, and<br>　you cannot change skills or swap items<br>　while matching.<br>- The event can be entered from 11:00, 18:00,<br>　and 21:00 JST each day, and you can take part for<br>　2 hours from each time.<br>- There is no daily participation limit or reward limit.	
