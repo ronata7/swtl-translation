@@ -1,6 +1,6 @@
 {
-  "version": "2026.1117.1827",
-  "released": "2026-11-17T09:27:52Z",
+  "version": "2026.1117.2148",
+  "released": "2026-11-17T12:48:42Z",
   "notes": "fix non-ascii characters",
   "files": [
     {
@@ -77,8 +77,8 @@
     },
     {
       "path": "TL csv/tb_Speech_String.csv",
-      "size": 22579124,
-      "sha256": "e9f31b6db12cb71fda126c15e53dd1a4df7fe64c5c0f8f420ecd4eedfdf442b8",
+      "size": 22522588,
+      "sha256": "addbc0a80fca40bc2e4f61b7fca114d7570d1800a01059a6cc4a28cb3e58a72c",
       "kind": "translation"
     },
     {
