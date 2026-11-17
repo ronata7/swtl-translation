@@ -1939,9 +1939,9 @@ Unkown1	Unkown2	Unkown3
 18041	0	No fees will be charged on the sale.	
 18042	0	Quantity to list	
 18043	0	Items {0}, {1} and {2} will be listed. Continue?	
-18044	0	{0} d	
-18045	0	{0} h	
-18046	0	{0} m	
+18044	0	{0}d	
+18045	0	{0}h	
+18046	0	{0}m	
 18047	0	Within 1 min	
 18048	0	Sales Period	
 18049	0	Use Item	
@@ -3556,9 +3556,9 @@ Unkown1	Unkown2	Unkown3
 28101	0	Refuse Guild Yes/No	
 28102	0	You cannot apply right now because there are too many applications pending.	
 28103	0	Guild membership application exceeded	
-28104	0	{0} d ago	
-28105	0	{0} h ago	
-28106	0	{0} m ago	
+28104	0	{0}d ago	
+28105	0	{0}h ago	
+28106	0	{0}m ago	
 28107	0	You joined the {0} Guild.	
 28108	0	{0} joined the {1} Guild.	
 28109	0	When leaving the Guild, all referenced Information about the Guild will be reset. You will not be able to join a Guild for 1 day.<br>Do you want to leave anyway?	
@@ -3645,9 +3645,9 @@ Unkown1	Unkown2	Unkown3
 28190	0	Member	
 28191	0	President	
 28192	0	Novice	
-28193	0	{0} d	
-28194	0	{0} h	
-28195	0	{0} m	
+28193	0	{0}d	
+28194	0	{0}h	
+28195	0	{0}m	
 28196	0	Guild Details	
 28197	0	Last Login	
 28198	0	Position	
