@@ -94,7 +94,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 100335	Sky of Lament	The enemy had given up nothing.<br>As Catherine happily said she could no longer hear the voice...<br>The Dignity Snatcher absorbed her<br>and became the Awakened "Amaryllis."<br>Power beyond any Soul Junk.<br>I cannot stop Amaryllis... Catherine!<br>Then that child appeared again,<br>and we swore an oath for new power.<br>To grant her rest...	Save [Catherine] in [Sky of Lament].	Check [Aaron]'s condition	Check on [Aaron]'s condition on the top roof in [Sky of Lament]	
 100340	Cruel Price	The antidote Henry spoke of was not genuine.<br>It was a substance that induced turning into a Soul Junk,<br>made from the Beholder's DNA.<br>When Aaron went to see him after learning of the trick,<br>the place was deserted.<br>According to Ralph, a NED Company mercenary,<br>Henry had left on his private aircraft.<br>We had no choice but to leave.	Check [Henry]'s location from [Ralph] in [Candus City] 	Speak to [Aaron].	Speak to [Aaron] in [Candus City].	
 100345	Pursuit	The wounded Aaron asked me to track down Henry.<br>Suppressing unbearable anger, I headed for my destination.<br>The city of blessings, "Grace City."<br>There is only one thing to do here...<br>I will never forgive Henry...!	Speak to [Victor] and [Brooke] in [Candus City].	Speak to [Toru].	Speak to [Toru] in [Grace City].	
-200010	SHOW　ME　THE　MONEY	0	Collect Vacuum Shards	Speak to [Booker TV].	Speak to [Booker TV] in [District 6].	
+200010	SHOW ME THE MONEY	0	Collect Vacuum Shards	Speak to [Booker TV].	Speak to [Booker TV] in [District 6].	
 200015	Ones I Don't Want to See	0	Eliminate [Soul Junk in District 6].	Speak to [Billy].	Speak to [Billy] in [District 6].	
 200020	A Colossal Being	0	Defeat the giant Soul Junk [The Thing]	Speak to [Billy].	Speak to [Billy] in [District 6].	
 600005	Small and cu... not cute	0	Defeat [Small Cell] in [Control Zone 43]	Speak to [Setsuka].	Speak to [Setsuka] in [Rocco Town].	
@@ -4223,7 +4223,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 1013303	Speak to [Soldier] in [Hopeless Battle]	Speak to [Soldier] in [Hopeless Battle] of [Doom of West]	0	0	0	
 1013304	Speak to [Solar Nox]	Speak to [Solar Nox] in [Grace City]	0	0	0	
 800480	Deep Wounds, Huge Grudge	Back in the east...<br>And the east is...<br>More than I had imagined...	Stop the enemies attacking the [Great Grace Wall]	Speak to [Neb]	Speak to [Tenebris] in [Final Defense] of [Emergency Call]	
-800485	People Who Have Made Up Their Minds	I decided to be Ain of the East again while the kid stayed in the West. At least, I didn’t come to the West for nothing, so I think it worked out for the best.	Report the situation to [Toru] in [Grace City]	Speak to [Toru]	Speak to [Toru] in [Grace City]	
+800485	People Who Have Made Up Their Minds	I decided to be Ain of the East again while the kid stayed in the West. At least, I didn't come to the West for nothing, so I think it worked out for the best.	Report the situation to [Toru] in [Grace City]	Speak to [Toru]	Speak to [Toru] in [Grace City]	
 800490	Great Wave of Change I	In the end I remain a coward who fears change, but those in the west will change. I will be resented, but I brought it on myself.<br>Let me end this record here. The child left in the west will get along with new companions. I do not know what will change... but I hope they never choose to return to the east.<br>That is all. Good luck.	Stop the enemies attacking the [Great Grace Wall]	Speak to [Sedurin]	Speak to [Sedurin] in [Grace City]	
 800495	The Great Waves of Change II	I was left alone. For what purpose did the unit commander leave me behind? For now, all I could do was cling to what was in front of me.<br>I will do my best... for now, that is all.	Stop the enemies attacking the [Great Grace Wall]	Speak to [Sedurin]	Speak to [Sedurin] in [Grace City]	
 8004801	Enter [Final Defense Line]	Enter [Final Defense Line] in [Emergency Call]	0	0	0	
@@ -4247,7 +4247,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 604365	[Expert/Repeat] Time to Stop Tenebris	0	Clear [Where the Last Justice Lies] on [Expert]	Speak to [Worker Support Device: Merchants' Union] in [Arin]'s direction	Speak to [Worker Support Device: Merchants' Union] in [Arin]'s direction in [Grace City]	
 604370	The Remnants of War	0	Collect [Old Baseball] in [Final War in the West] on [Normal] or above	Speak to [Kacha]	Speak to [Kacha] in [Grace City]	
 604375	Everyday Life Near the Front Line	0	Clear [March of Despair] on [Normal] or above	Speak to [Booker TV]	Speak to [Booker TV] in [District 6] near [Grace City] Portal	
-604380	[Expert] A Man's Secret	0	Collect [Someone’s Notebook] in [Stroll of God] on [Expert]	Speak to [Benjamin]	Speak to [Benjamin] in [Grace City]	
+604380	[Expert] A Man's Secret	0	Collect [Someone's Notebook] in [Stroll of God] on [Expert]	Speak to [Benjamin]	Speak to [Benjamin] in [Grace City]	
 604385	[Expert] Battle Situation Report	0	Defeat [Neb] in [Hopeless Battle] on [Expert] 	Speak to [Hype]	Speak to [Hype] in [Grace City]	
 604390	[Repeat] Collect Mechanical Armor	0	Collect [Mechanical Armor] from [Walking Rampart] in [Doom of West] on [Normal] or above	Speak to [Worker Support Device: Merchants' Union] in [Arin]'s direction	Speak to [Worker Support Device: Merchants' Union] in [Arin]'s direction in [Grace City]	
 604395	[Expert/Repeat] Desire Energy Extraction	0	Collect [High-Dose Jelly] from [Polluted Jelly] in [March of Despair] on [Expert]	Speak to [Worker Support Device: Merchants' Union] in [Arin]'s direction	Speak to [Worker Support Device: Merchants' Union] in [Arin]'s direction in [Grace City]	
@@ -4273,7 +4273,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 6043701	Collect [Old Baseball]	Collect [Old Baseball] in [Final War in the West] on [Normal] or above	0	0	0	
 6043751	Speak to [Booker TV]	Speak to [Booker TV] in [District 6] near [Grace City] Portal	0	0	0	
 6043752	Clear [March of Despair]	Clear [March of Despair] on [Normal] or above	0	0	0	
-6043801	Collect [Someone’s Notebook]	Collect [Someone’s Notebook] in [Stroll of God] on [Expert]	0	0	0	
+6043801	Collect [Someone's Notebook]	Collect [Someone's Notebook] in [Stroll of God] on [Expert]	0	0	0	
 6043802	Speak to [Yomi]	Speak to [Yomi] in [Grace City]	0	0	0	
 6043851	Defeat [Neb] 	Defeat [Neb] in [Hopeless Battle] on [Expert] 	0	0	0	
 6043901	Collect [Mechanical Armor]	Collect [Mechanical Armor] from [Walking Rampart] in [Doom of West] on [Normal] or above	0	0	0	
@@ -5668,7 +5668,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 1016454	Defeat [Mecha Lugman]	Defeat [Mecha Lugman] in [Rebellious Star]	0	0	0	
 1016455	Talk with [Arcadia Realm Soldier]	Talk with [Arcadia Realm Soldier] in [Rebellious Star]	0	0	0	
 1016501	Talk with [Heitz]	Talk with [Heitz] of [Arcadia Realm]	0	0	0	
-1016502	Go to [Etheldreda]	Talk with [Lugman] in [Etheldreda]<br>※ You can enter Etheldreda using the Warp Orb provided in your inventory or purchase a Warp Orb from Gruton’s shop	0	0	0	
+1016502	Go to [Etheldreda]	Talk with [Lugman] in [Etheldreda]<br>※ You can enter Etheldreda using the Warp Orb provided in your inventory or purchase a Warp Orb from Gruton's shop	0	0	0	
 1016503	Talk with [Heitz]	Talk with [Heitz] in [Etheldreda]	0	0	0	
 694700	???	Talk with [Martin] of [Arcadia Realm]	Talk to [Martin] in [Arcadia Realm]	Talk to [Martin]	Talk to [Martin] in [Arcadia Realm]	
 6947001	Talk with [Martin]	Talk with [Martin] of [Arcadia Realm]	0	0	0	
@@ -5678,13 +5678,13 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 1016463	Go to [Data Core]	Go to [Data Core] and talk with [Lugman]<br>※ Use the [Data Core Pass] provided in your inventory	0	0	0	
 1016464	Talk with [Arcadia Realm Soldier]	Talk with [Arcadia Realm Soldier] in [Rebellious Star]	0	0	0	
 1016511	Talk with [Heitz]	Talk with [Heitz] of [Arcadia Realm]	0	0	0	
-1016512	Go to [Etheldreda]	Talk with [Lugman] in [Etheldreda]<br>※ You can enter Ezelreda using the Warp Orb provided in your inventory or purchase a Warp Orb from Gruton’s shop.	0	0	0	
+1016512	Go to [Etheldreda]	Talk with [Lugman] in [Etheldreda]<br>※ You can enter Ezelreda using the Warp Orb provided in your inventory or purchase a Warp Orb from Gruton's shop.	0	0	0	
 1016513	Talk with [Heitz]	Talk with [Heitz] in [Etheldreda]	0	0	0	
-684700	？？？	Talk with [Martin] in [Arcadia Realm]	Talk with [Martin] in [Arcadia Realm]	Talk with [Martin]	Talk with [Martin] in [Arcadia Realm]	
+684700	???	Talk with [Martin] in [Arcadia Realm]	Talk with [Martin] in [Arcadia Realm]	Talk with [Martin]	Talk with [Martin] in [Arcadia Realm]	
 6847001	Talk with [Martin]	Talk with [Martin] in [Arcadia Realm]	0	0	0	
-614700	？？？	Talk to [Martin] in [Arcadia Realm]	Talk to [Martin] in [Arcadia Realm]	Talk to [Martin]	Talk to [Martin] in [Arcadia Realm]	
+614700	???	Talk to [Martin] in [Arcadia Realm]	Talk to [Martin] in [Arcadia Realm]	Talk to [Martin]	Talk to [Martin] in [Arcadia Realm]	
 6147001	Talk to [Martin]	Talk to [Martin] in [Arcadia Realm]	0	0	0	
-654700	？？？	Talk to [Martin] in [Arcadia Realm]	Talk to [Martin] in [Arcadia Realm]	Talk to [Martin]	Talk to [Martin] in [Arcadia Realm]	
+654700	???	Talk to [Martin] in [Arcadia Realm]	Talk to [Martin] in [Arcadia Realm]	Talk to [Martin]	Talk to [Martin] in [Arcadia Realm]	
 6547001	Talk to [Martin]	Talk to [Martin] in [Arcadia Realm]	0	0	0	
 101655	Flower That Makes Shackles	[Echeldreda]'s [Lorna] enters Maze and moves to [Enter City Without Light]	[Etheldreda]'s [Lorna] enters Under Town Maze	Talk to [Sophina]	Talk to [Sophina]	
 101660	Contaminated Mine	Test 2	Move to [Contaminated Abandoned Mine]	Talk to [Praksiya]	Talk to [Praksiya]	
@@ -5693,15 +5693,15 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 1016551	Enter [City Without Light]	Clear [City Without Light 1-1]	0	0	0	
 1016552	Talk to [Lugman]	Talk to [Lugman]	0	0	0	
 1016601	Clear [Ominous Resonance]	Clear [Ominous Resonance]	0	0	0	
-1016602	？？？	？？？	0	0	0	
+1016602	???	???	0	0	0	
 1016603	Clear [Restricted Access Zone]	Clear [Restricted Access Zone]	0	0	0	
 1016604	Talk to ???	Talk to ???	0	0	0	
 1016605	Clear [Contaminated Abandoned Mine]	Clear [Contaminated Abandoned Mine]	0	0	0	
 1016651	Clear [Cold Asphalt]	Talk to [H.S]	0	0	0	
 1016652	Talk to [H.S]	Talk to [H.S]	0	0	0	
-1016701	Clear [Cold Asphalt]	Clear [Cold Asphalt]	？？？	？？？	？？？	
-1016702	Talk to ???	Talk to ???	？？？	？？？	？？？	
-1016703	Clear [Into the Darkness]	Clear [Into the Darkness]	？？？	？？？	？？？	
+1016701	Clear [Cold Asphalt]	Clear [Cold Asphalt]	???	???	???	
+1016702	Talk to ???	Talk to ???	???	???	???	
+1016703	Clear [Into the Darkness]	Clear [Into the Darkness]	???	???	???	
 11000	Welcome the Connection	Log in to the game	0	0	0	
 11001	Equip Familiar to your gear	Right-click the Trasion Weapon, go to Socket Management, and insert the provided Familiar into the socket.	0	0	0	
 11002	Let's try enhancing.	Go to NPC Trisha and enhance the Insidious Head equipment to +9.	0	0	0	

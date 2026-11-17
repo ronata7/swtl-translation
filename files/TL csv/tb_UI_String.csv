@@ -136,15 +136,15 @@ Unkown1	Unkown2	Unkown3
 304	0	4	
 305	0	5	
 306	0	Zenny:	
-307	0	Y.P：	
-308	0	BP：	
+307	0	Y.P:	
+308	0	BP:	
 309	0	Repairs all equipped and held items.	
 310	0	Renew all equipped Items.	
 311	0	Renew the selected Items.	
 312	0	Purchase	
 313	0	Enter the amount you want to sell.	
 314	0	Enter the number of items to split.	
-315	0	Do you want to discard the Item ‘{0}'?	
+315	0	Do you want to discard the Item '{0}'?	
 316	0	Sell	
 317	0	Ether:	
 318	0	Dismantle	
@@ -195,8 +195,8 @@ Unkown1	Unkown2	Unkown3
 379	0	◀	
 380	0	Clear	
 381	0	Add slots	
-382	0	Friend Point：	
-383	0	Friend Point：	
+382	0	Friend Point:	
+383	0	Friend Point:	
 391	0	{0} Zenny	
 392	0	{0} Ether	
 393	0	{0} Soul Vapor	
@@ -251,7 +251,7 @@ Unkown1	Unkown2	Unkown3
 456	0	Your stats have decreased by {0}%<br>due to reduced equipment durability.	
 457	0	Do you want to renew all Items carried?<br>Cost to repair: {0} Zenny	
 458	0	Do you want to renew all equipped Items?<br>Cost to repair: {0} Zenny	
-459	0	Do you want to renew the Item ‘{0}'?<br>Cost to repair: {1} Zenny	
+459	0	Do you want to renew the Item '{0}'?<br>Cost to repair: {1} Zenny	
 460	0	The durability of {0} has been renewed.<br>The repair cost {1} Zenny.	
 461	0	The durability of equipped Items has been renewed.<br>The repair cost {0} Zenny.	
 462	0	The durability of all Items has been renewed.<br>The repair cost {0} Zenny.	
@@ -313,7 +313,7 @@ Unkown1	Unkown2	Unkown3
 524	0	Accept	
 525	0	Decline	
 531	0	OFFLINE	
-536	0	Ah	
+536	0	あ	
 537	0	A	
 538	0	Normal	
 539	0	Trade	
@@ -341,7 +341,7 @@ Unkown1	Unkown2	Unkown3
 568	0	{0} hrs {1} min	
 569	0	Summon	
 570	0	The rented Akashic will be inserted into exclusive slots automatically.	
-571	0	Do you want to use the Item ‘{0}'?<br>You cannot sell or trade Akashic Record you received through Items.	
+571	0	Do you want to use the Item '{0}'?<br>You cannot sell or trade Akashic Record you received through Items.	
 572	0	Level Required	
 573	0	SP Required	
 574	0	Points gained next level:	
@@ -580,7 +580,7 @@ Unkown1	Unkown2	Unkown3
 877	0	Underwear	
 881	0	{0} dismantled.<br>Item received: {2}x {1}<br>Ether received: {3}	
 882	0	Dismantle Failed.	
-883	0	Do you want to dismantle the Item ‘{0}'?	
+883	0	Do you want to dismantle the Item '{0}'?	
 884	0	Select Confirm to dismantle the selected items.<br>Dismantle them?	
 885	0	The items to dismantle include a <font color='#A566FF'>high-value item</font>.<br>Select Confirm and the item will be dismantled and cannot be restored. Dismantle it?	
 886	0	Not enough {0} to continue dismantled.	
@@ -1021,7 +1021,7 @@ Unkown1	Unkown2	Unkown3
 4008	0	Maze can be entered	
 4009	0	{0} - {1} {2} Entry open	
 4010	0	Record Achieved	
-4011	0	You earned achievement ‘{0}'.	
+4011	0	You earned achievement '{0}'.	
 4012	0	Sharing Rate achieved	
 4013	0	Sharing Rate level {1} achieved in {0}	
 4014	0	Memorial secured	
@@ -1037,7 +1037,7 @@ Unkown1	Unkown2	Unkown3
 5001	0	Locked	
 5002	0	Reuse Cooltime:	
 5003	0	sec	
-5004	0	COST：	
+5004	0	COST:	
 5005	0	HP	
 5006	0	SG	
 5007	0	ST	
@@ -1130,113 +1130,113 @@ Unkown1	Unkown2	Unkown3
 5517	0	Reset	
 5518	0	Random	
 5519	0	Appearance	
-5800	1	<font color='#FFFFFF'><font size="30">Tip。</font>You can purchase standard Armor from <font color='#00ff9c'>Zyte</font> in districts.	
-5801	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can buy standard consumables from <font color='#00ff9c'>Yomi</font> in every district.	
-5802	1	<font color='#FFFFFF'><font size="30">Tip。</font> In shops, you can <font color='#00D8FF'>[Repair]</font> the durability<br>of your weapons or <font color='#00D8FF'>[Dismantle]</font> your Items.	
-5803	1	<font color='#FFFFFF'><font size="30">Tip：</font>Using functional NPCs such as shops raises your <font color='#00D8FF'>[Customer Grade]</font>.<br>Various benefits are granted depending on your Customer Grade level.	
-5804	1	<font color='#FFFFFF'><font size="30">Tip：</font>Through <font color='#00ff9c'>[Trisha]</font>, you can <font color='#00D8FF'>[Enhance][Refine]</font> weapons and gear.	
-5805	1	<font color='#FFFFFF'><font size="30">Tip：</font>You can upgrade equipment through <font color='#00D8FF'>Enhance</font>, or get<br>enhancement and crafting items for other equipment through <font color='#00D8FF'>Dismantle</font>.	
-5806	1	<font color='#FFFFFF'><font size="30">Tip。</font> At <font color='#B2EBF4'>[Janice]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, Armor and costume Items.	
-5807	1	<font color='#FFFFFF'><font size="30">Tip：</font>You can send mail using <font color='#00ff9c'>HEMS</font>. Sending mail costs a fee.<br>You can also attach items or Zenny as needed.	
-5808	1	<font color='#FFFFFF'><font size="30">Tip。</font> <font color='#00ff9c'>Oden</font> is the one to entrust your <font color='#00D8FF'>Items</font> to for storage in every district.	
-5809	1	<font color='#FFFFFF'><font size="30">Tip。</font> Use the <font color='#00ff9c'>Mini map</font> to check your own position,<br>that of an <font color='#00D8FF'>NPC</font> and see where <font color='#00D8FF'>Mazes</font> are.	
-5810	1	<font color='#FFFFFF'><font size="30">Tip。</font> For details on Progress, press the hotkey<br><font color='#00ff9c'>L</font> and see <font color='#00D8FF'>[Achievements] [Sharing Rate]</font>.	
-5811	1	<font color='#FFFFFF'><font size="30">Tip。</font> Depending on your progress, you will find your rewards in <font color='#00D8FF'>Progress</font> <font color='#00ff9c'>[L]</font>.	
-5813	1	<font color='#FFFFFF'><font size="30">Tip。</font> There are some passive <font color='#00D8FF'>Akashic Record</font> that will trigger<br>automatically in combat if you have added them to your slots.	
-5814	1	<font color='#FFFFFF'><font size="30">Tip：</font>A <font color='#fff94a'>[<font size="30">！</font>]</font> mark appears when a new quest is available, and a <font color='#fff94a'>[<font size="30">？</font>]</font> mark<br>when one can be completed, above the NPC's head and on the minimap.	
-5815	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can see the quests you accepted in <font color='#00D8FF'>Quest Info</font> at<br>the right or by pressing the hotkey <font color='#00ff9c'>[J]</font> to view Quest Info.	
-5816	1	<font color='#FFFFFF'><font size="30">Tip。</font> To bind hotkeys, press <font color='#00ff9c'>ESC</font>. You can change the settings any time in <font color='#00D8FF'>[Settings]</font>.	
-5817	1	<font color='#FFFFFF'><font size="30">Tip：</font>In the Community window, you can use features related to <font color='#00D8FF'>[Friends]</font> and <font color='#00D8FF'>[Block]</font>.	
-5818	1	<font color='#FFFFFF'><font size="30">Tip：</font>To use <font color='#00D8FF'>[Skills] and [A.R Cards]</font>, open the<br>Skill window with the hotkeys <font color='#00ff9c'>[K] [;]</font> or the menu,<br>then register them in a skill slot.	
-5819	1	<font color='#FFFFFF'><font size="30">Tip。</font> Rely on your <font color='#00D8FF'>Skill tree</font> for powerful effects in combat.	
-5820	1	<font color='#FFFFFF'><font size="30">Tip。</font> Invest in <font color='#00D8FF'>passive Skills</font> to enhance your active Skills.	
-5821	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can check your own Progress in the <font color='#00D8FF'>Info window</font> at the bottom left.	
-5822	1	<font color='#FFFFFF'><font size="30">Tip。</font><font color='#00D8FF'>Titles</font> can be set to how you like to have them displayed or applied.	
-5823	1	<font color='#FFFFFF'><font size="30">Tip。</font> You get rewards for <font color='#00D8FF'>Maze Progress</font> and <font color='#00D8FF'>District Progress</font>.	
-5824	1	<font color='#FFFFFF'><font size="30">Tip。</font> Progress in Mazes of a particular zone effect the superordinate <font color='#00D8FF'>Maze progress</font>.	
-5825	1	<font color='#FFFFFF'><font size="30">Tip。</font> When entering a Maze, use <font color='#00D8FF'>[Auto Team<br>Search]</font> to assemble your Team automatically.	
-5826	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can change your Character Info in the <font color='#00D8FF'>profile</font>.	
-5827	1	<font color='#FFFFFF'><font size="30">Tip。</font> Press <font color='#00ff9c'>[ALT]</font> to switch to mouse mode.	
-5828	1	<font color='#FFFFFF'><font size="30">Tip。</font> Once you reach level 55, the </font><font color='#00ff9c'>[Rank]</font> matters.	
-5829	1	<font color='#FFFFFF'><font size="30">Tip：</font>If the current channel is crowded, use the <font color='#00D8FF'>Channel Switch</font> above the minimap<br>to move to another channel.	
-5830	1	<font color='#FFFFFF'><font size="30">Tip。</font> You obtain B.P (<font color='#00ff9c'>BP</font>) for Booker in <font color='#00D8FF'>District 6</font> and <font color='#00D8FF'>Steel Graves</font>.	
-5831	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can buy special PvP Items in the <font color='#00ff9c'>BP shop</font> in <font color='#00D8FF'>Maze 6</font>.	
-5832	1	<font color='#FFFFFF'><font size="30">Tip。</font> Open <font color='#00D8FF'>Quest Info</font> to see <font color='#00ff9c'>[Daily Mission]</font>.	
-5833	1	<font color='#FFFFFF'><font size="30">Tip：</font><font color='#00ff9c'>[S-Coins]</font> can be used at the dedicated shop.	
-5834	1	<font color='#FFFFFF'><font size="30">Tip。</font> Random </font><font color='#00D8FF'>[Hidden Quests] (HQ)</font> appear within the Mazes.	
-5835	1	<font color='#FFFFFF'><font size="30">Tip：</font>Summon the </font><font color='#00D8FF'>[Supporters]</font> you obtained during the game into the Maze.<br>They'll be reliable allies.	
-5836	1	<font color='#FFFFFF'><font size="30">Tip：</font>Register an </font><font color='#00D8FF'>Orb</font> with <font color='#00ff9c'>Eo</font>.<br>Registered Orbs can be used by your friends' Supporters.	
-5837	1	<font color='#FFFFFF'><font size="30">Tip：</font>Fighting solo is hard! Want more company?<br>Then try making friends with </font><font color='#00D8FF'>Party Search</font> [N] and </font><font color='#00D8FF'>Community</font> [O].	
-5838	1	<font color='#FFFFFF'><font size="30">Tip。</font></font> Found a <font color='#00D8FF'>Guild</font> or join an existing </font><font color='#00D8FF'>Guild</font> to make new friends.	
-5839	1	<font color='#FFFFFF'><font size="30">Tip。</font> From Lv.10 you can have a place to call <font color='#00D8FF'>[My Room]</font>.	
-5840	1	<font color='#FFFFFF'><font size="30">Tip：</font>During a Maze, a fragment of memory called<br>a <font color='#00D8FF'>Memorial</font> item may occasionally appear.<br>Collect them and earn rewards in the Memorial window [B].	
-5841	1	<font color='#FFFFFF'><font size="30">Tip。</font> Click on the golden icon at the top right to<br>access <font color='#00D8FF'>[Help]</font>, which has details on a lot of topics.	
-5842	1	<font color='#FFFFFF'><font size="30">Tip。</font> Entering a Maze consumes <font color='#00D8FF'>[FP]</font>.	
-5843	1	<font color='#FFFFFF'><font size="30">Tip：</font>Level up your <font color='#00D8FF'>Skills</font> and <font color='#00D8FF'>Traits</font> to suit your own style.<br>New effects and functions will be added.	
-5844	1	<font color='#FFFFFF'><font size="30">Tip。</font> For favorable combat, it is essential to watch out for <font color='#00D8FF'>[Traumas]</font>.	
-5845	1	<font color='#FFFFFF'><font size="30">Tip：</font>Occasionally you'll meet enemies with <font color='#00D8FF'>[Super Armor]</font> that makes them flinch-proof.<br>Attack to break their Super Armor and the enemy will become groggy.	
-5846	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can attack with a single mouse click when <font color='#00D8FF'>[Dash]</font> and <font color='#00D8FF'>[Jump]</font>.	
-5847	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you attack an enemy while they are<br>in the air, you can deal additional damage.	
-5848	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you complete certain quests in the Mazes, you<br>will receive <font color='#00D8FF'>Soul Vapor</font> and can use the <font color='#00ff9c'>[Break Skill]</font>.	
-5849	1	<font color='#FFFFFF'><font size="30">Tip：</font>During a Maze, a <font color='#00D8FF'>Gruton</font> may randomly appear.<br>Defeating it might earn you a rare item.	
-5850	1	<font color='#FFFFFF'><font size="30">Tip。</font> Collect different <font color='#00D8FF'>Items</font> as you progress through the game to grow stronger.	
-5851	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you have Items with sockets you can attach an <font color='#00D8FF'>Familiar</font> to them.	
-5852	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you have costume Items with sockets,<br>you can attach <font color='#00D8FF'>brooches</font> to add Skills to them.	
-5853	1	<font color='#FFFFFF'><font size="30">Tip。</font> When you defeat enemies, they drop <font color='#00D8FF'>Ether</font>. Ether is required for <font color='#00ff9c'>upgrading</font>.	
-5854	1	<font color='#FFFFFF'><font size="30">Tip。</font> To craft an Item, you need its <font color='#00D8FF'>Material Item</font>.	
-5855	1	<font color='#FFFFFF'><font size="30">Tip。</font> When a weapon's <font color='#00D8FF'>durability</font> drops, the Item's effect is reduced.	
-5856	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you want to visit other districts, you first<br>need to cross the bandit zone known as <font color='#00D8FF'>District 6</font>.	
-5857	1	<font color='#FFFFFF'><font size="30">Tip。</font> In District 6 you can use the<font color='#00D8FF'>Starry Forest League's chopper</font> to cross safely.	
-5858	1	<font color='#FFFFFF'><font size="30">Tip。</font> Sometimes you will find upgrade or crafting<br>materials in <font color='#00D8FF'>Vacuum Cubes</font> in District 6.	
-5859	1	<font color='#FFFFFF'><font size="30">Tip：</font>At Lv. 55, you can enter the <font color='#00D8FF'>Casual Raid</font>, also known as<br>the "Alternate Vacuum", recommended for 2 or more players.	
-5860	1	<font color='#FFFFFF'><font size="30">Tip。</font> When you reach Candus City you can enter the combat training zone <font color='#00D8FF'>Steel Graves</font>.	
-5861	1	<font color='#FFFFFF'><font size="30">Tip：</font>You can enter the combat lab <font color='#00D8FF'>Steel Grave</font> once a day, up to 5 stages.	
-5862	1	<font color='#FFFFFF'><font size="30">Tip。</font> The notorious <font color='#00D8FF'>Very Hard</font> modes yield very special rewards.	
-5863	1	<font color='#FFFFFF'><font size="30"> Tip。</font>You can purchase standard Armor from <font color='#00ff9c'>Zyte</font> in districts.	
-5864	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can buy standard consumables from <font color='#00ff9c'>Yomi</font> in every district.	
-5865	1	<font color='#FFFFFF'><font size="30">Tip。</font> In shops, you can <font color='#00D8FF'>[Repair]</font> the durability<br>of your weapons or <font color='#00D8FF'>[Dismantle]</font> your Items.	
-5866	1	<font color='#FFFFFF'><font size="30">Tip：</font>Using functional NPCs such as shops raises your <font color='#00D8FF'>[Customer Grade]</font>.<br>Various benefits are granted depending on your Customer Grade level.	
-5867	1	<font color='#FFFFFF'><font size="30">Tip：</font>At <font color='#00ff9c'>[Trisha]</font>, you can <font color='#00D8FF'>[Enhance][Exchange]</font> weapons and gear.	
-5868	1	<font color='#FFFFFF'><font size="30">Tip：</font>You can upgrade equipment through <font color='#00D8FF'>Enhance</font>, or get<br>enhancement and crafting items for other equipment through <font color='#00D8FF'>Dismantle</font>.	
-5869	1	<font color='#FFFFFF'><font size="30">Tip。</font> At <font color='#B2EBF4'>[Janice]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, Armor and costume Items.	
-5870	1	<font color='#FFFFFF'><font size="30">Tip：</font>You can send mail using <font color='#00ff9c'>HEMS</font>. Sending mail costs a fee.<br>You can also attach items or Zenny as needed.	
-5871	1	<font color='#FFFFFF'><font size="30">Tip。</font> <font color='#00ff9c'>Oden</font> is the one to entrust your <font color='#00D8FF'>Items</font> to for storage in every district.	
-5872	1	<font color='#FFFFFF'><font size="30">Tip。</font> Use the <font color='#00ff9c'>Mini map</font> to check your own position,<br>that of an <font color='#00D8FF'>NPC</font> and see where <font color='#00D8FF'>Mazes</font> are.	
-5873	1	<font color='#FFFFFF'><font size="30">Tip。</font> For details on Progress, press the hotkey<br><font color='#00ff9c'>L</font> and see <font color='#00D8FF'>[Achievement] and [Progression]</font>.	
-5874	1	<font color='#FFFFFF'><font size="30">Tip。</font> Depending on your progress, you will find your rewards in <font color='#00D8FF'>Progress [L]</font>.	
-5876	1	<font color='#FFFFFF'><font size="30">Tip。</font> There are some passive <font color='#00D8FF'>Akashic Record</font> that will trigger<br>automatically in combat if you have added them to your slots.	
-5877	1	<font color='#FFFFFF'><font size="30">Tip：</font>A <font color='#fff94a'>[<font size="30">！</font>]</font> mark appears when a new quest is available, and a <font color='#fff94a'>[<font size="30">？</font>]</font> mark<br>when one can be completed, above the NPC's head and on the minimap.	
-5878	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can see the quests you accepted in <font color='#00D8FF'>Quest Info</font> at<br>the right or by pressing the hotkey <font color='#00ff9c'>J</font> to view Quest Info.	
-5879	1	<font color='#FFFFFF'><font size="30">Tip。</font> To bind hotkeys, press <font color='#00ff9c'>ESC</font>. You can change the settings any time in <font color='#00D8FF'>Options</font>.	
-5880	1	<font color='#FFFFFF'><font size="30">Tip。</font> The community has lots of features for <font color='#00D8FF'>[friends]</font> for you to use.	
-5881	1	<font color='#FFFFFF'><font size="30">Tip：</font>To use <font color='#00D8FF'>[Skills] and [A.R Cards]</font>, activate them in the Skill window <font color='#00ff9c'>[K]</font>,<br>then register them in a skill registration slot.	
-5882	1	<font color='#FFFFFF'><font size="30">Tip。</font> Rely on your <font color='#00D8FF'>Skill tree</font> for powerful effects in combat.	
-5883	1	<font color='#FFFFFF'><font size="30">Tip。</font> Invest in <font color='#00D8FF'>passive Skills</font> to enhance your active Skills.	
-5884	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can check your own Progress in the <font color='#00D8FF'>Info window</font> at the bottom left.	
-5885	1	<font color='#FFFFFF'><font size="30">Tip。</font><font color='#00D8FF'>Titles</font> can be set to how you like to have them displayed or applied.	
-5886	1	<font color='#FFFFFF'><font size="30">Tip。</font> You get rewards for <font color='#00D8FF'>Maze progress</font> and <font color='#00D8FF'>Maze progress</font>.	
-5887	1	<font color='#FFFFFF'><font size="30">Tip。</font> Progress in Mazes of a particular zone effect the superordinate <font color='#00D8FF'>Maze progress</font>.	
-5888	1	<font color='#FFFFFF'><font size="30">Tip。</font> When entering a Maze, use <font color='#00D8FF'>[Auto Team<br>Search]</font> to assemble your Team automatically.	
-5889	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can change your Character Info in the <font color='#00D8FF'>profile</font>.	
-5890	1	<font color='#FFFFFF'><font size="30">Tip。</font> Press <font color='#00ff9c'>[ALT]</font> to switch to mouse mode.	
-5891	1	<font color='#FFFFFF'><font size="30">Tip。</font> Once you reach level 55, the </font><font color='#00ff9c'>[rank]</font> matters.	
-5892	1	<font color='#FFFFFF'><font size="30">Tip：</font>If the current channel is crowded, use the <font color='#00D8FF'>Channel Switch</font> above the minimap<br>to move to another channel.	
-5893	1	<font color='#FFFFFF'><font size="30">Tip。</font> You obtain battle points (<font color='#00ff9c'>BP</font>) for Booker in <font color='#00D8FF'>District 6</font> and <font color='#00D8FF'>Steel Graves</font>.	
-5894	1	<font color='#FFFFFF'><font size="30">Tip。</font> You can buy special PvP Items in the <font color='#00ff9c'>BP shop</font> in <font color='#00D8FF'>Maze 6</font>.	
-5895	1	<font color='#FFFFFF'><font size="30">Tip。</font> Open <font color='#00D8FF'>Quest Info</font> to see <font color='#00ff9c'>[Daily Mission]</font>.	
-5896	1	<font color='#FFFFFF'><font size="30">Tip。</font> Doing <font color='#00D8FF'>daily quests</font> earns you Gruton Gold, which you can spend in the <font color='#00ff9c'>[Token]</font>.	
-5897	1	<font color='#FFFFFF'><font size="30">Tip。</font> Random </font><font color='#00D8FF'>[Hidden Mission]</font> appear within the Mazes.	
-5898	1	<font color='#FFFFFF'><font size="30">Tip：</font>Summon the </font><font color='#00D8FF'>[Supporters]</font> you obtained during the game into the Maze.<br>They'll be reliable allies.	
-5899	1	<font color='#FFFFFF'><font size="30">Tip：</font>Register an </font><font color='#00D8FF'>Orb</font> with <font color='#00ff9c'>Eo</font>.<br>Registered Orbs can be used by your friends' Supporters.	
-5900	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you use the bathtub/Outputer when wearing underwear costume Items...!	
-5901	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you want to change your Character's appearance,<br>you can get <font color='#00D8FF'>[Appearance Item]</font> from the cash shop.	
-5902	1	<font color='#FFFFFF'><font size="30">Tip。</font> <font color='#00D8FF'>[HP]</font> Output your Character's health points. When<br>they reach 0, you die. Always keep an eye on your HP.	
-5903	1	<font color='#FFFFFF'><font size="30">Tip：</font><font color='#00D8FF'>[SG]</font> is the Soul Gauge, the source of your extraordinary power.<br>It is consumed when you use skills, and each character recovers it differently.	
-5904	1	<font color='#FFFFFF'><font size="30">Tip。</font> You cannot use the Nova Skill <font color='#00D8FF'>[Frenzy][Awakening]</font> in District 6.	
-5905	1	<font color='#FFFFFF'><font size="30">Tip。</font> You cannot use <font color='#00D8FF'>[Draw]</font> in District 6.	
-5910	0	<font color='#FFFFFF'><font size="30">Tip。</font>An Angelic Gruton only appears 1x per map.<br>This just makes their Items more valuable.	
-5911	0	<font color='#FFFFFF'><font size="30">Tip。</font>A Gruton army attacks  to protect ally Grutons in an Invincible state.	
-5912	0	<font color='#FFFFFF'><font size="30">Tip。</font>Grutons disappear after an allotted amount<br>of time; disappearing Grutons do not drop Items.	
+5800	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can purchase standard Armor from <font color='#00ff9c'>Zyte</font> in districts.	
+5801	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can buy standard consumables from <font color='#00ff9c'>Yomi</font> in every district.	
+5802	1	<font color='#FFFFFF'><font size="30">Tip.</font> In shops, you can <font color='#00D8FF'>[Repair]</font> the durability<br>of your weapons or <font color='#00D8FF'>[Dismantle]</font> your Items.	
+5803	1	<font color='#FFFFFF'><font size="30">Tip:</font> Using functional NPCs such as shops raises your <font color='#00D8FF'>[Customer Grade]</font>.<br>Various benefits are granted depending on your Customer Grade level.	
+5804	1	<font color='#FFFFFF'><font size="30">Tip:</font> Through <font color='#00ff9c'>[Trisha]</font>, you can <font color='#00D8FF'>[Enhance][Refine]</font> weapons and gear.	
+5805	1	<font color='#FFFFFF'><font size="30">Tip:</font> You can upgrade equipment through <font color='#00D8FF'>Enhance</font>, or get<br>enhancement and crafting items for other equipment through <font color='#00D8FF'>Dismantle</font>.	
+5806	1	<font color='#FFFFFF'><font size="30">Tip.</font> At <font color='#B2EBF4'>[Janice]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, Armor and costume Items.	
+5807	1	<font color='#FFFFFF'><font size="30">Tip:</font> You can send mail using <font color='#00ff9c'>HEMS</font>. Sending mail costs a fee.<br>You can also attach items or Zenny as needed.	
+5808	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#00ff9c'>Oden</font> is the one to entrust your <font color='#00D8FF'>Items</font> to for storage in every district.	
+5809	1	<font color='#FFFFFF'><font size="30">Tip.</font> Use the <font color='#00ff9c'>Mini map</font> to check your own position,<br>that of an <font color='#00D8FF'>NPC</font> and see where <font color='#00D8FF'>Mazes</font> are.	
+5810	1	<font color='#FFFFFF'><font size="30">Tip.</font> For details on Progress, press the hotkey<br><font color='#00ff9c'>L</font> and see <font color='#00D8FF'>[Achievements] [Sharing Rate]</font>.	
+5811	1	<font color='#FFFFFF'><font size="30">Tip.</font> Depending on your progress, you will find your rewards in <font color='#00D8FF'>Progress</font> <font color='#00ff9c'>[L]</font>.	
+5813	1	<font color='#FFFFFF'><font size="30">Tip.</font> There are some passive <font color='#00D8FF'>Akashic Record</font> that will trigger<br>automatically in combat if you have added them to your slots.	
+5814	1	<font color='#FFFFFF'><font size="30">Tip:</font> A <font color='#fff94a'>[<font size="30">!</font>]</font> mark appears when a new quest is available, and a <font color='#fff94a'>[<font size="30">?</font>]</font> mark<br>when one can be completed, above the NPC's head and on the minimap.	
+5815	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can see the quests you accepted in <font color='#00D8FF'>Quest Info</font> at<br>the right or by pressing the hotkey <font color='#00ff9c'>[J]</font> to view Quest Info.	
+5816	1	<font color='#FFFFFF'><font size="30">Tip.</font> To bind hotkeys, press <font color='#00ff9c'>ESC</font>. You can change the settings any time in <font color='#00D8FF'>[Settings]</font>.	
+5817	1	<font color='#FFFFFF'><font size="30">Tip:</font> In the Community window, you can use features related to <font color='#00D8FF'>[Friends]</font> and <font color='#00D8FF'>[Block]</font>.	
+5818	1	<font color='#FFFFFF'><font size="30">Tip:</font> To use <font color='#00D8FF'>[Skills] and [A.R Cards]</font>, open the<br>Skill window with the hotkeys <font color='#00ff9c'>[K] [;]</font> or the menu,<br>then register them in a skill slot.	
+5819	1	<font color='#FFFFFF'><font size="30">Tip.</font> Rely on your <font color='#00D8FF'>Skill tree</font> for powerful effects in combat.	
+5820	1	<font color='#FFFFFF'><font size="30">Tip.</font> Invest in <font color='#00D8FF'>passive Skills</font> to enhance your active Skills.	
+5821	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can check your own Progress in the <font color='#00D8FF'>Info window</font> at the bottom left.	
+5822	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#00D8FF'>Titles</font> can be set to how you like to have them displayed or applied.	
+5823	1	<font color='#FFFFFF'><font size="30">Tip.</font> You get rewards for <font color='#00D8FF'>Maze Progress</font> and <font color='#00D8FF'>District Progress</font>.	
+5824	1	<font color='#FFFFFF'><font size="30">Tip.</font> Progress in Mazes of a particular zone effect the superordinate <font color='#00D8FF'>Maze progress</font>.	
+5825	1	<font color='#FFFFFF'><font size="30">Tip.</font> When entering a Maze, use <font color='#00D8FF'>[Auto Team<br>Search]</font> to assemble your Team automatically.	
+5826	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can change your Character Info in the <font color='#00D8FF'>profile</font>.	
+5827	1	<font color='#FFFFFF'><font size="30">Tip.</font> Press <font color='#00ff9c'>[ALT]</font> to switch to mouse mode.	
+5828	1	<font color='#FFFFFF'><font size="30">Tip.</font> Once you reach level 55, the </font><font color='#00ff9c'>[Rank]</font> matters.	
+5829	1	<font color='#FFFFFF'><font size="30">Tip:</font> If the current channel is crowded, use the <font color='#00D8FF'>Channel Switch</font> above the minimap<br>to move to another channel.	
+5830	1	<font color='#FFFFFF'><font size="30">Tip.</font> You obtain B.P (<font color='#00ff9c'>BP</font>) for Booker in <font color='#00D8FF'>District 6</font> and <font color='#00D8FF'>Steel Graves</font>.	
+5831	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can buy special PvP Items in the <font color='#00ff9c'>BP shop</font> in <font color='#00D8FF'>Maze 6</font>.	
+5832	1	<font color='#FFFFFF'><font size="30">Tip.</font> Open <font color='#00D8FF'>Quest Info</font> to see <font color='#00ff9c'>[Daily Mission]</font>.	
+5833	1	<font color='#FFFFFF'><font size="30">Tip:</font> <font color='#00ff9c'>[S-Coins]</font> can be used at the dedicated shop.	
+5834	1	<font color='#FFFFFF'><font size="30">Tip.</font> Random </font><font color='#00D8FF'>[Hidden Quests] (HQ)</font> appear within the Mazes.	
+5835	1	<font color='#FFFFFF'><font size="30">Tip:</font> Summon the </font><font color='#00D8FF'>[Supporters]</font> you obtained during the game into the Maze.<br>They'll be reliable allies.	
+5836	1	<font color='#FFFFFF'><font size="30">Tip:</font> Register an </font><font color='#00D8FF'>Orb</font> with <font color='#00ff9c'>Eo</font>.<br>Registered Orbs can be used by your friends' Supporters.	
+5837	1	<font color='#FFFFFF'><font size="30">Tip:</font> Fighting solo is hard! Want more company?<br>Then try making friends with </font><font color='#00D8FF'>Party Search</font> [N] and </font><font color='#00D8FF'>Community</font> [O].	
+5838	1	<font color='#FFFFFF'><font size="30">Tip.</font> </font> Found a <font color='#00D8FF'>Guild</font> or join an existing </font><font color='#00D8FF'>Guild</font> to make new friends.	
+5839	1	<font color='#FFFFFF'><font size="30">Tip.</font> From Lv.10 you can have a place to call <font color='#00D8FF'>[My Room]</font>.	
+5840	1	<font color='#FFFFFF'><font size="30">Tip:</font> During a Maze, a fragment of memory called<br>a <font color='#00D8FF'>Memorial</font> item may occasionally appear.<br>Collect them and earn rewards in the Memorial window [B].	
+5841	1	<font color='#FFFFFF'><font size="30">Tip.</font> Click on the golden icon at the top right to<br>access <font color='#00D8FF'>[Help]</font>, which has details on a lot of topics.	
+5842	1	<font color='#FFFFFF'><font size="30">Tip.</font> Entering a Maze consumes <font color='#00D8FF'>[FP]</font>.	
+5843	1	<font color='#FFFFFF'><font size="30">Tip:</font> Level up your <font color='#00D8FF'>Skills</font> and <font color='#00D8FF'>Traits</font> to suit your own style.<br>New effects and functions will be added.	
+5844	1	<font color='#FFFFFF'><font size="30">Tip.</font> For favorable combat, it is essential to watch out for <font color='#00D8FF'>[Traumas]</font>.	
+5845	1	<font color='#FFFFFF'><font size="30">Tip:</font> Occasionally you'll meet enemies with <font color='#00D8FF'>[Super Armor]</font> that makes them flinch-proof.<br>Attack to break their Super Armor and the enemy will become groggy.	
+5846	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can attack with a single mouse click when <font color='#00D8FF'>[Dash]</font> and <font color='#00D8FF'>[Jump]</font>.	
+5847	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you attack an enemy while they are<br>in the air, you can deal additional damage.	
+5848	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you complete certain quests in the Mazes, you<br>will receive <font color='#00D8FF'>Soul Vapor</font> and can use the <font color='#00ff9c'>[Break Skill]</font>.	
+5849	1	<font color='#FFFFFF'><font size="30">Tip:</font> During a Maze, a <font color='#00D8FF'>Gruton</font> may randomly appear.<br>Defeating it might earn you a rare item.	
+5850	1	<font color='#FFFFFF'><font size="30">Tip.</font> Collect different <font color='#00D8FF'>Items</font> as you progress through the game to grow stronger.	
+5851	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you have Items with sockets you can attach an <font color='#00D8FF'>Familiar</font> to them.	
+5852	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you have costume Items with sockets,<br>you can attach <font color='#00D8FF'>brooches</font> to add Skills to them.	
+5853	1	<font color='#FFFFFF'><font size="30">Tip.</font> When you defeat enemies, they drop <font color='#00D8FF'>Ether</font>. Ether is required for <font color='#00ff9c'>upgrading</font>.	
+5854	1	<font color='#FFFFFF'><font size="30">Tip.</font> To craft an Item, you need its <font color='#00D8FF'>Material Item</font>.	
+5855	1	<font color='#FFFFFF'><font size="30">Tip.</font> When a weapon's <font color='#00D8FF'>durability</font> drops, the Item's effect is reduced.	
+5856	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you want to visit other districts, you first<br>need to cross the bandit zone known as <font color='#00D8FF'>District 6</font>.	
+5857	1	<font color='#FFFFFF'><font size="30">Tip.</font> In District 6 you can use the<font color='#00D8FF'>Starry Forest League's chopper</font> to cross safely.	
+5858	1	<font color='#FFFFFF'><font size="30">Tip.</font> Sometimes you will find upgrade or crafting<br>materials in <font color='#00D8FF'>Vacuum Cubes</font> in District 6.	
+5859	1	<font color='#FFFFFF'><font size="30">Tip:</font> At Lv. 55, you can enter the <font color='#00D8FF'>Casual Raid</font>, also known as<br>the "Alternate Vacuum", recommended for 2 or more players.	
+5860	1	<font color='#FFFFFF'><font size="30">Tip.</font> When you reach Candus City you can enter the combat training zone <font color='#00D8FF'>Steel Graves</font>.	
+5861	1	<font color='#FFFFFF'><font size="30">Tip:</font> You can enter the combat lab <font color='#00D8FF'>Steel Grave</font> once a day, up to 5 stages.	
+5862	1	<font color='#FFFFFF'><font size="30">Tip.</font> The notorious <font color='#00D8FF'>Very Hard</font> modes yield very special rewards.	
+5863	1	<font color='#FFFFFF'><font size="30"> Tip.</font> You can purchase standard Armor from <font color='#00ff9c'>Zyte</font> in districts.	
+5864	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can buy standard consumables from <font color='#00ff9c'>Yomi</font> in every district.	
+5865	1	<font color='#FFFFFF'><font size="30">Tip.</font> In shops, you can <font color='#00D8FF'>[Repair]</font> the durability<br>of your weapons or <font color='#00D8FF'>[Dismantle]</font> your Items.	
+5866	1	<font color='#FFFFFF'><font size="30">Tip:</font> Using functional NPCs such as shops raises your <font color='#00D8FF'>[Customer Grade]</font>.<br>Various benefits are granted depending on your Customer Grade level.	
+5867	1	<font color='#FFFFFF'><font size="30">Tip:</font> At <font color='#00ff9c'>[Trisha]</font>, you can <font color='#00D8FF'>[Enhance][Exchange]</font> weapons and gear.	
+5868	1	<font color='#FFFFFF'><font size="30">Tip:</font> You can upgrade equipment through <font color='#00D8FF'>Enhance</font>, or get<br>enhancement and crafting items for other equipment through <font color='#00D8FF'>Dismantle</font>.	
+5869	1	<font color='#FFFFFF'><font size="30">Tip.</font> At <font color='#B2EBF4'>[Janice]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, Armor and costume Items.	
+5870	1	<font color='#FFFFFF'><font size="30">Tip:</font> You can send mail using <font color='#00ff9c'>HEMS</font>. Sending mail costs a fee.<br>You can also attach items or Zenny as needed.	
+5871	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#00ff9c'>Oden</font> is the one to entrust your <font color='#00D8FF'>Items</font> to for storage in every district.	
+5872	1	<font color='#FFFFFF'><font size="30">Tip.</font> Use the <font color='#00ff9c'>Mini map</font> to check your own position,<br>that of an <font color='#00D8FF'>NPC</font> and see where <font color='#00D8FF'>Mazes</font> are.	
+5873	1	<font color='#FFFFFF'><font size="30">Tip.</font> For details on Progress, press the hotkey<br><font color='#00ff9c'>L</font> and see <font color='#00D8FF'>[Achievement] and [Progression]</font>.	
+5874	1	<font color='#FFFFFF'><font size="30">Tip.</font> Depending on your progress, you will find your rewards in <font color='#00D8FF'>Progress [L]</font>.	
+5876	1	<font color='#FFFFFF'><font size="30">Tip.</font> There are some passive <font color='#00D8FF'>Akashic Record</font> that will trigger<br>automatically in combat if you have added them to your slots.	
+5877	1	<font color='#FFFFFF'><font size="30">Tip:</font> A <font color='#fff94a'>[<font size="30">!</font>]</font> mark appears when a new quest is available, and a <font color='#fff94a'>[<font size="30">?</font>]</font> mark<br>when one can be completed, above the NPC's head and on the minimap.	
+5878	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can see the quests you accepted in <font color='#00D8FF'>Quest Info</font> at<br>the right or by pressing the hotkey <font color='#00ff9c'>J</font> to view Quest Info.	
+5879	1	<font color='#FFFFFF'><font size="30">Tip.</font> To bind hotkeys, press <font color='#00ff9c'>ESC</font>. You can change the settings any time in <font color='#00D8FF'>Options</font>.	
+5880	1	<font color='#FFFFFF'><font size="30">Tip.</font> The community has lots of features for <font color='#00D8FF'>[friends]</font> for you to use.	
+5881	1	<font color='#FFFFFF'><font size="30">Tip:</font> To use <font color='#00D8FF'>[Skills] and [A.R Cards]</font>, activate them in the Skill window <font color='#00ff9c'>[K]</font>,<br>then register them in a skill registration slot.	
+5882	1	<font color='#FFFFFF'><font size="30">Tip.</font> Rely on your <font color='#00D8FF'>Skill tree</font> for powerful effects in combat.	
+5883	1	<font color='#FFFFFF'><font size="30">Tip.</font> Invest in <font color='#00D8FF'>passive Skills</font> to enhance your active Skills.	
+5884	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can check your own Progress in the <font color='#00D8FF'>Info window</font> at the bottom left.	
+5885	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#00D8FF'>Titles</font> can be set to how you like to have them displayed or applied.	
+5886	1	<font color='#FFFFFF'><font size="30">Tip.</font> You get rewards for <font color='#00D8FF'>Maze progress</font> and <font color='#00D8FF'>Maze progress</font>.	
+5887	1	<font color='#FFFFFF'><font size="30">Tip.</font> Progress in Mazes of a particular zone effect the superordinate <font color='#00D8FF'>Maze progress</font>.	
+5888	1	<font color='#FFFFFF'><font size="30">Tip.</font> When entering a Maze, use <font color='#00D8FF'>[Auto Team<br>Search]</font> to assemble your Team automatically.	
+5889	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can change your Character Info in the <font color='#00D8FF'>profile</font>.	
+5890	1	<font color='#FFFFFF'><font size="30">Tip.</font> Press <font color='#00ff9c'>[ALT]</font> to switch to mouse mode.	
+5891	1	<font color='#FFFFFF'><font size="30">Tip.</font> Once you reach level 55, the </font><font color='#00ff9c'>[rank]</font> matters.	
+5892	1	<font color='#FFFFFF'><font size="30">Tip:</font> If the current channel is crowded, use the <font color='#00D8FF'>Channel Switch</font> above the minimap<br>to move to another channel.	
+5893	1	<font color='#FFFFFF'><font size="30">Tip.</font> You obtain battle points (<font color='#00ff9c'>BP</font>) for Booker in <font color='#00D8FF'>District 6</font> and <font color='#00D8FF'>Steel Graves</font>.	
+5894	1	<font color='#FFFFFF'><font size="30">Tip.</font> You can buy special PvP Items in the <font color='#00ff9c'>BP shop</font> in <font color='#00D8FF'>Maze 6</font>.	
+5895	1	<font color='#FFFFFF'><font size="30">Tip.</font> Open <font color='#00D8FF'>Quest Info</font> to see <font color='#00ff9c'>[Daily Mission]</font>.	
+5896	1	<font color='#FFFFFF'><font size="30">Tip.</font> Doing <font color='#00D8FF'>daily quests</font> earns you Gruton Gold, which you can spend in the <font color='#00ff9c'>[Token]</font>.	
+5897	1	<font color='#FFFFFF'><font size="30">Tip.</font> Random </font><font color='#00D8FF'>[Hidden Mission]</font> appear within the Mazes.	
+5898	1	<font color='#FFFFFF'><font size="30">Tip:</font> Summon the </font><font color='#00D8FF'>[Supporters]</font> you obtained during the game into the Maze.<br>They'll be reliable allies.	
+5899	1	<font color='#FFFFFF'><font size="30">Tip:</font> Register an </font><font color='#00D8FF'>Orb</font> with <font color='#00ff9c'>Eo</font>.<br>Registered Orbs can be used by your friends' Supporters.	
+5900	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you use the bathtub/Outputer when wearing underwear costume Items...!	
+5901	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you want to change your Character's appearance,<br>you can get <font color='#00D8FF'>[Appearance Item]</font> from the cash shop.	
+5902	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#00D8FF'>[HP]</font> Output your Character's health points. When<br>they reach 0, you die. Always keep an eye on your HP.	
+5903	1	<font color='#FFFFFF'><font size="30">Tip:</font> <font color='#00D8FF'>[SG]</font> is the Soul Gauge, the source of your extraordinary power.<br>It is consumed when you use skills, and each character recovers it differently.	
+5904	1	<font color='#FFFFFF'><font size="30">Tip.</font> You cannot use the Nova Skill <font color='#00D8FF'>[Frenzy][Awakening]</font> in District 6.	
+5905	1	<font color='#FFFFFF'><font size="30">Tip.</font> You cannot use <font color='#00D8FF'>[Draw]</font> in District 6.	
+5910	0	<font color='#FFFFFF'><font size="30">Tip.</font> An Angelic Gruton only appears 1x per map.<br>This just makes their Items more valuable.	
+5911	0	<font color='#FFFFFF'><font size="30">Tip.</font> A Gruton army attacks  to protect ally Grutons in an Invincible state.	
+5912	0	<font color='#FFFFFF'><font size="30">Tip.</font> Grutons disappear after an allotted amount<br>of time; disappearing Grutons do not drop Items.	
 6011	0	Change Deputy	
 6012	0	The summon list is updated every day at 24:00 JST.	
 6013	0	Lv.	
@@ -1838,7 +1838,7 @@ Unkown1	Unkown2	Unkown3
 16802	0	Pending Listing	
 16803	0	Listed	
 16804	0	List	
-16805	0	{0}/{1}/{2}<br>{3}：{4}	
+16805	0	{0}/{1}/{2}<br>{3}:{4}	
 16806	0	Item Exchange	
 16807	0	Search	
 16808	0	Goods List	
@@ -1902,7 +1902,7 @@ Unkown1	Unkown2	Unkown3
 18002	0	You cannot equip a ruined piece of Armor.	
 18003	0	You cannot trade a ruined piece of Armor.	
 18004	0	The ruined piece of Armor has been restored.	
-18005	0	Do you want to restore the Item ‘{0}'?<br>It can be restored {1} more times.	
+18005	0	Do you want to restore the Item '{0}'?<br>It can be restored {1} more times.	
 18006	0	Restore	
 18007	0	Number of Restorations	
 18008	0	Revive Cell	
@@ -1917,7 +1917,7 @@ Unkown1	Unkown2	Unkown3
 18017	0	Fuse 5 Brooches together for a new one.	
 18018	0	No further registrations are possible.	
 18019	0	You can dismantle a maximum of {0} at once.	
-18020	0	‘Sold recently' Outputs max. 10 Items.	
+18020	0	'Sold recently' Outputs max. 10 Items.	
 18021	0	{0}% in fees will be charged on the total sales price.	
 18022	0	The Item for sale <font color='#A566FF'>is very valuable</font>. Selling will net you {0}. Do you want to sell the Item ?	
 18023	0	The Item you want to dismantle <font color='#A566FF'>is very valuable</font>. Once the Item has been dismantled, it cannot be restored. Do you want to continue?	
@@ -1925,7 +1925,7 @@ Unkown1	Unkown2	Unkown3
 18027	0	Can be sealed.	
 18028	0	Number of Sealing	
 18029	0	Sealing Stamper	
-18030	0	Do you want to seal the Item ‘{0}'?<br>You can carry out {1} more seals.	
+18030	0	Do you want to seal the Item '{0}'?<br>You can carry out {1} more seals.	
 18031	0	Number of permitted Seals	
 18032	0	Couldn't equip because the minimum level for the Familiar is higher than the minimum level for the equipment.	
 18033	0	Seal	
@@ -1945,7 +1945,7 @@ Unkown1	Unkown2	Unkown3
 18047	0	Within 1 min	
 18048	0	Sales Period	
 18049	0	Use Item	
-18050	0	The time limited Item ‘{0}' has not expired yet. If you discard ‘{0}', it will be returned to the cash shop. There are no refunds.<br>Do you want to discard the Item ?	
+18050	0	The time limited Item '{0}' has not expired yet. If you discard '{0}', it will be returned to the cash shop. There are no refunds.<br>Do you want to discard the Item ?	
 18051	0	The time limited Item {0} has been returned. You will find details in your H.E.M.S mailbox.	
 18052	0	Valid Until: {3}:{4}, {2}/{1}/{0}	
 18053	0	({0} days)	
@@ -2313,7 +2313,7 @@ Unkown1	Unkown2	Unkown3
 21011	0	Upgrade costs drop -{0}{1}	
 21012	0	Probability of successful upgrade increased by {0}{1}	
 21013	0	Mount cost reduction -{0}{1}	
-21014	0	Special Item ‘{0}' Available	
+21014	0	Special Item '{0}' Available	
 21015	0	Doubles the daily purchase limit of special items sold by {0}	
 21016	0	Attack/Defense increased by {0}{1} for 30 minutes when using the mount.	
 21017	0	Supporter quest now Available [Supporter: Hugh]	
@@ -2579,7 +2579,7 @@ Unkown1	Unkown2	Unkown3
 22551	0	Show Progress Info	
 22552	0	Guild Screen	
 22553	0	Show Full Map	
-22554	0	Menu ‘Close'	
+22554	0	Menu 'Close'	
 22555	0	Chat	
 22556	0	Chat Macro 1	
 22557	0	Chat Macro 2	
@@ -3463,9 +3463,9 @@ Unkown1	Unkown2	Unkown3
 28008	0	Enter Guild name	
 28009	0	Guild name can contain max. 8 Characters.	
 28010	0	This Guild name can be used.	
-28011	0	The Guild name ‘{0}' can be used.	
+28011	0	The Guild name '{0}' can be used.	
 28012	0	Invalid Guild name	
-28013	0	The Guild name ‘{0}' is already in use.	
+28013	0	The Guild name '{0}' is already in use.	
 28014	0	Final OK to form Guild	
 28015	0	Guild Name	
 28016	0	Guild Master	
@@ -3820,7 +3820,7 @@ Unkown1	Unkown2	Unkown3
 29096	0	You must enter at least 1 Character.	
 29097	0	Remove from favorites?	
 29098	0	You have received a ranking title.<br>Collect it from your H.E.M.S system mailbox.	
-29121	0	Loading My Room.<br>This message will disappear once the page has fully loaded.<br><br>Should it take too long (more than 1 minute), you can head back to the district by pressing ‘Confirm'.	
+29121	0	Loading My Room.<br>This message will disappear once the page has fully loaded.<br><br>Should it take too long (more than 1 minute), you can head back to the district by pressing 'Confirm'.	
 29122	0	Delays when entering My Room	
 30000	0	Profile	
 30001	0	Status	
@@ -3984,7 +3984,7 @@ Unkown1	Unkown2	Unkown3
 31149	0	The Team Leader {0} has cancelled entry to the Maze.	
 31150	0	Cancel Maze entry	
 31151	0	Objective	
-31152	0	{0}：{1}	
+31152	0	{0}:{1}	
 31153	0	Due to prohibited actions within the automatically assembled Team, the auto Team Search will be disabled for {0} min {1} sec.	
 31154	0	Banned from auto Team Search	
 31155	0	Entry is not possible until the current Maze is ended.	
@@ -4237,8 +4237,8 @@ Unkown1	Unkown2	Unkown3
 35100	0	Help	
 35101	0	Block List	
 35102	0	Chat	
-35103	0	Ah	
-35104	0	Ah	
+35103	0	あ	
+35104	0	あ	
 35105	0	You dealt {0} damage.	
 35106	0	You received {0} damage.	
 35107	0	You recovered {0} HP.	
@@ -4455,7 +4455,7 @@ Unkown1	Unkown2	Unkown3
 40136	0	The painting in the left wing has been examined.	
 40137	0	The painting in the right wing has been examined.	
 40138	0	Examine the painting in the central hallway.	
-40139	0	When enemies step onto the floor, ‘Blood Drain' will be removed for 20 sec.	
+40139	0	When enemies step onto the floor, 'Blood Drain' will be removed for 20 sec.	
 40140	0	When you step onto the floor, your attack damage will increase for 10 sec.	
 40141	0	When you step onto the floor, you won't be able to move for 5 sec.	
 40142	0	When you step onto the floor, your Movement Speed will decrease for 10 sec.	
@@ -4745,7 +4745,7 @@ Unkown1	Unkown2	Unkown3
 40616	0	The Golden Obelisk explodes 20 sec after appearing and inflicts a large amount of damage on you.<br>You can attack the Golden Obelisk to destroy it.	
 40617	0	3 Venom Flowers enhance Pandemonia.<br>Defeat all the Venom Flowers to stun Pandemonia.	
 40618	0	As soon as you leave the safe zone, the battle begins.	
-40619	0	If you are hit by Primal's Primefist, you will suffer ‘pollution'. <br>Pollution greatly reduces your stats.	
+40619	0	If you are hit by Primal's Primefist, you will suffer 'pollution'. <br>Pollution greatly reduces your stats.	
 40620	0	Primal takes a deep breath.	
 40621	0	Up to 4 Players can use a special Void Gate and invade Primal Park.<br>This special Void Gate disappears after 30 sec.	
 40622	0	Primal's Nucleus spews out a highly reactive gas at regular intervals that causes great damage to the environment.	
@@ -5904,15 +5904,15 @@ Unkown1	Unkown2	Unkown3
 49410	0	Daily Quest	
 49411	0	Login Check	
 49450	0	Official Homepage	
-49451	0	http：//www.liongames.co.kr/	
+49451	0	http://www.liongames.co.kr/	
 49452	0	Strategy Site	
-49453	0	http：//www.inven.co.kr/webzine/news/?news=107139&sw=%EC%86%8C%EC%9A%B8%EC%9B%8C%EC%BB%A4	
-49454	0	‘This Is Game' Community	
-49455	0	http：//www.thisisgame.com/webzine/news/nboard/5/?n=53937	
-49456	0	‘Play Forum' Community	
-49457	0	http：//www.playforum.net/webzine/news/view/1752	
+49453	0	http://www.inven.co.kr/webzine/news/?news=107139&sw=%EC%86%8C%EC%9A%B8%EC%9B%8C%EC%BB%A4	
+49454	0	'This Is Game' Community	
+49455	0	http://www.thisisgame.com/webzine/news/nboard/5/?n=53937	
+49456	0	'Play Forum' Community	
+49457	0	http://www.playforum.net/webzine/news/view/1752	
 49458	0	Help for Rookies	
-49459	0	http：//cafe.naver.com/fakesoul/152	
+49459	0	http://cafe.naver.com/fakesoul/152	
 49497	0	View Change on	
 49498	0	UI Mode	
 49499	0	Menu	
@@ -5942,7 +5942,7 @@ Unkown1	Unkown2	Unkown3
 49621	0	Special Characters or blank spaces may not be used in Character Names.	
 49622	0	Keyboard/Mouse	
 49623	0	Unable to change to same or higher resolution than screen resolution.	
-49624	0	Use ‘Set via keyboard input during Evasion'	
+49624	0	Use 'Set via keyboard input during Evasion'	
 49625	0	Controls Guide	
 49626	0	Keyboard	
 49627	0	Gamepad Control	
@@ -7047,7 +7047,7 @@ Unkown1	Unkown2	Unkown3
 420	0	Equip (visible)	
 499	0	PLUS Perk Auto Received	
 878	0	<font color='#FF0000'>Storing not possible</font>	
-5906	1	<font color='#FFFFFF'><font size="30">Tip。</font> It is not possible to <font color='#00D8FF'>equip brooches and socketables</font><br>in Mazes. Unequip your Armor to socket Items in it.	
+5906	1	<font color='#FFFFFF'><font size="30">Tip.</font> It is not possible to <font color='#00D8FF'>equip brooches and socketables</font><br>in Mazes. Unequip your Armor to socket Items in it.	
 18085	0	The new Guild name cannot be the same as the previous Guild name.	
 18086	0	Do you want to change the Guild name to {0}?<br>This will consume 1 {1}.	
 18305	0	If you skip, you can proceed to the next stage of the tutorial.<br> Skip the tutorial?	
@@ -7249,7 +7249,7 @@ Unkown1	Unkown2	Unkown3
 60625	0	Register	
 60626	0	Depending on the progress made, the whole world will receive the reward.	
 60627	0	Rewards reset every day at 09:00 JST.	
-60628	0	Click on ‘Register' to enter all event Items into your Inventory.	
+60628	0	Click on 'Register' to enter all event Items into your Inventory.	
 60629	0	Registration current collection	
 60630	0	{1}x {0} registered.	
 60700	0	Event Name(Test)_01	
@@ -7306,20 +7306,20 @@ Unkown1	Unkown2	Unkown3
 45131	0	Calling up Cash failed.<br>Please try again later.	
 5913	0	Alone on Christmas? No, you're not alone.<br>Cute Noah and sexy big sister Poison are waiting for you.	
 5914	0	A set number of Christmas Present Boxes appear within the set time.	
-5915	1	<font color='#FFFFFF'><font size="30">Tip。</font>Attacking Void caterpillars consumes the debuffs<br><font color='#FF0033'>[Tenotomy]</font> and <font color='#FF0033'>[Unsettled]</font> from a Character.	
-5916	1	<font color='#FFFFFF'><font size="30">Tip：</font>The <font color='#FF0033'>[Soul Collapse]</font> debuff turns into <font color='#FF0033'>[Corrupted Soul]</font><br>after a while. Only 1 player is affected by the change.	
+5915	1	<font color='#FFFFFF'><font size="30">Tip.</font> Attacking Void caterpillars consumes the debuffs<br><font color='#FF0033'>[Tenotomy]</font> and <font color='#FF0033'>[Unsettled]</font> from a Character.	
+5916	1	<font color='#FFFFFF'><font size="30">Tip:</font> The <font color='#FF0033'>[Soul Collapse]</font> debuff turns into <font color='#FF0033'>[Corrupted Soul]</font><br>after a while. Only 1 player is affected by the change.	
 5917	1	<font color='#FFFFFF'><font size="30">Info </font>If nobody is near Yorhaka during battle then <font color='#FF0033'>he blazes with rage</font>. His attacks then become especially dangerous.	
 5918	1	<font color='#FFFFFF'><font size="30">Info </font>When Yorhaka recovers HP, he activates his <font color='#FF0033'>Super Armor</font>. Destroy the <font color='#FF0033'>Super Armor</font> to halt the Recovery.	
-5923	1	<font color='#FFFFFF'><font size="30">Tip。</font>Near SoulWorker appears sequently when defeating Raban, Enoch, and Noah and Sion.	
-5924	1	<font color='#FFFFFF'><font size="30">Tip。</font>Near SoulWorker, also the Awakeners, they<br>have powerful Skill, so please be careful.	
-5925	1	<font color='#FFFFFF'><font size="30">Tip。</font>Special reward box appears from center, if you defeat all Near SoulWorkers.	
-5926	1	<font color='#FFFFFF'><font size="30">Tip。</font>Don't forget Sky Clock Palace's Progression Reward!	
-5927	1	<font color='#FFFFFF'><font size="30">Tip。</font><font color='#FF0033'>[Corrupted Soul]</font> status, recover HP of the target during attack.<br />Gives<br>buff that, Receiving damage gets reduced 60% <font color='#FF0033'>[Absorbed Power]</font>.	
+5923	1	<font color='#FFFFFF'><font size="30">Tip.</font> Near SoulWorker appears sequently when defeating Raban, Enoch, and Noah and Sion.	
+5924	1	<font color='#FFFFFF'><font size="30">Tip.</font> Near SoulWorker, also the Awakeners, they<br>have powerful Skill, so please be careful.	
+5925	1	<font color='#FFFFFF'><font size="30">Tip.</font> Special reward box appears from center, if you defeat all Near SoulWorkers.	
+5926	1	<font color='#FFFFFF'><font size="30">Tip.</font> Don't forget Sky Clock Palace's Progression Reward!	
+5927	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#FF0033'>[Corrupted Soul]</font> status, recover HP of the target during attack.<br />Gives<br>buff that, Receiving damage gets reduced 60% <font color='#FF0033'>[Absorbed Power]</font>.	
 5928	1	Joining a Guild grants various benefits.	
 5929	1	Make use of Brooch set effects.	
 5930	1	If you run into trouble, check the official website and contact Support.	
-5931	1	<font color='#FFFFFF'><font size="30">Tip。</font>In Daydream, the lower the grade and level of the<br>equipment, the less the effect applied by the equipment.	
-5932	1	<font color='#FFFFFF'><font size="30">Tip:</font>Monsters in Innocent Daydream are much stronger than normal monsters,<br>but clearing it earns many rewards.	
+5931	1	<font color='#FFFFFF'><font size="30">Tip.</font> In Daydream, the lower the grade and level of the<br>equipment, the less the effect applied by the equipment.	
+5932	1	<font color='#FFFFFF'><font size="30">Tip:</font> Monsters in Innocent Daydream are much stronger than normal monsters,<br>but clearing it earns many rewards.	
 18307	0	Free Respawn: {0}	
 18308	0	The free respawns are reset daily at 9 AM.	
 18309	0	Cash Respawn: {0}	
@@ -7482,9 +7482,9 @@ Unkown1	Unkown2	Unkown3
 32120	0	Dimension Shutter	
 40707	0	Defeat monsters in every sector or defeat other Players to earn points.	
 40708	0	Use the interactive object to manage the points you have earned.	
-5907	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you don't redeem any points, you won't receive any reward.	
-5908	1	<font color='#FFFFFF'><font size="30">Tip。</font> When another Player dies, you can steal their dimension point.	
-5909	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you die on a operation, you will respawn automatically.	
+5907	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you don't redeem any points, you won't receive any reward.	
+5908	1	<font color='#FFFFFF'><font size="30">Tip.</font> When another Player dies, you can steal their dimension point.	
+5909	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you die on a operation, you will respawn automatically.	
 9807	0	[Beta] Dimension Shutter	
 9892	0	Dimension Shutter	
 10013	0	[Beta] Operation	
@@ -7523,10 +7523,10 @@ Unkown1	Unkown2	Unkown3
 10009	0	Skyclock Palace [Hard]	
 10006	0	Skyclock Palace	
 48418	0	This is Skyclock Palace, [Hard]. Raban, Enoch and Noah transform into Awakeners and become much stronger.	
-5919	1	<font color='#FFFFFF'><font size="30">Tip。</font>Once you have defeated Near SoulWorkers<br>Raban and Enoch, Noah and Sion will follow.	
-5920	1	<font color='#FFFFFF'><font size="30">Tip。</font>Be careful: Every Near SoulWorker has extremely aggressive Skills as a Awakener.	
-5921	1	<font color='#FFFFFF'><font size="30">Tip。</font>A special reward chest will appear in the centre<br>once you have defeated all of the Near SoulWorkers.	
-5922	1	<font color='#FFFFFF'><font size="30">Tip。</font>Don't forget your progress reward for Skyclock Palace!	
+5919	1	<font color='#FFFFFF'><font size="30">Tip.</font> Once you have defeated Near SoulWorkers<br>Raban and Enoch, Noah and Sion will follow.	
+5920	1	<font color='#FFFFFF'><font size="30">Tip.</font> Be careful: Every Near SoulWorker has extremely aggressive Skills as a Awakener.	
+5921	1	<font color='#FFFFFF'><font size="30">Tip.</font> A special reward chest will appear in the centre<br>once you have defeated all of the Near SoulWorkers.	
+5922	1	<font color='#FFFFFF'><font size="30">Tip.</font> Don't forget your progress reward for Skyclock Palace!	
 10008	0	Laban! Noah! Enoch! And Sion!<br>A great battle against 4 Near SoulWorkers!	
 40713	0	Once you enter the centre of the space, the Near SoulWorkers will appear one after the other.<br>Watch out, the Near SoulWorkers are now much stronger than you remember.	
 18312	0	Event	
@@ -7606,7 +7606,7 @@ Unkown1	Unkown2	Unkown3
 40732	0	There was a big brother with four arms too. With four arms,<br>maybe it's easier to shake hands with the alien with lots of arms?	
 40733	0	There was someone who looked just like the uncle next door, but I couldn't<br>say hello properly, so I'll do it next time we meet!	
 40734	0	Oh and there was a pretty lady, prettier than any dolly. Nearly as pretty as Aunty Miriam!<br>I'll have to tell her!	
-40735	0	Oh! And an uncle, he was really shouty and kept waving his axe about.<br>‘What was I doing here'... *shivers* help!	
+40735	0	Oh! And an uncle, he was really shouty and kept waving his axe about.<br>'What was I doing here'... *shivers* help!	
 40736	0	It was a little scary,<br>but they seemed to be worried about Setsuka.	
 40737	0	Yaaawn... Setsuka's getting sleepy.<br>If I have another fun dream, I'll tell you. Bye-bye!	
 19522	0	Seabreeze Swimsuit	
@@ -8418,8 +8418,8 @@ Unkown1	Unkown2	Unkown3
 100020	0	Engrave	
 100021	0	Engrave	
 100028	0	Register [Same Grade] Akashic Record (as Many as the Slots) → "Engrave" to the Next Grade	
-5812	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you gather materials for Akashic Record and bring them<br>to <font color='#00ff9c'>Eo</font>, she can fuse, add and merge <font color='#00D8FF'>Akashic Record</font> with them.	
-5875	1	<font color='#FFFFFF'><font size="30">Tip。</font> If you gather materials for Akashic Record and bring them<br>to <font color='#00ff9c'>Eo</font>, she can fuse, add and merge <font color='#00D8FF'>Akashic Record</font> with them.	
+5812	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you gather materials for Akashic Record and bring them<br>to <font color='#00ff9c'>Eo</font>, she can fuse, add and merge <font color='#00D8FF'>Akashic Record</font> with them.	
+5875	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you gather materials for Akashic Record and bring them<br>to <font color='#00ff9c'>Eo</font>, she can fuse, add and merge <font color='#00D8FF'>Akashic Record</font> with them.	
 6065	0	The Akashic Record have been added. The Akashic Record that you have selected as materials will be consumed and cannot be restored. Proceed anyway?	
 6066	0	Processing random merge of Akashic Record. The Akashic Record that you have selected as materials will be consumed and cannot be restored. Proceed anyway?	
 6067	0	This will perform μA.R Synthesis on A.R Cards. The material A.R Cards will disappear and cannot be recovered. Continue?	
@@ -8541,7 +8541,7 @@ Unkown1	Unkown2	Unkown3
 66013	0	No dye Information Available.	
 66014	0	Dye Information	
 66015	0	<font color='#00CED1'>Dyeable</font>	
-66001	0	[{0}、{1}、{2}]	
+66001	0	[{0}, {1}, {2}]	
 52061	0	The rank enhancement failed.	
 24338	0	Dye Material	
 24675	0	Dyeing Material	
@@ -8668,8 +8668,8 @@ Unkown1	Unkown2	Unkown3
 30204	0	Crit	
 30205	0	Normal	
 30206	0	Additional costume effect	
-21106	0	　Craft Limit/Character	
-21107	0	　Craft Limit/Account	
+21106	0	 Craft Limit/Character	
+21107	0	 Craft Limit/Account	
 21108	0	Craft Max.	
 52258	0	You have reached the crafting maximum and cannot craft further.	
 21109	0	Resets daily at 09:00 JST	
@@ -8856,10 +8856,10 @@ Unkown1	Unkown2	Unkown3
 40650	0	I will strip away your evil power.<br>The power you believe in will torment you.	
 40651	0	I will strip away your evil power.<br>Growing stronger is what will strangle you.	
 40652	0	I will strip away your evil power.<br>Your hunger for strength will gouge out your soul.	
-5933	1	<font color='#FFFFFF'><font size="30">Tip。</font>The totems which RaphaKumba has summoned cannot be<br>destroyed.<br />They will disappear automatically after a while.	
-5934	1	<font color='#FFFFFF'><font size="30">Tip。</font>Skill Forbidden pattern gets deactivated when destroy <font color='#FF0033'>[Faith]</font><br>which is at the mental world of Raphakumpa using summoned portal.	
-5935	1	<font color='#FFFFFF'><font size="30">Tip。</font><font color='#FF0033'>[Destruction]</font>Debuff damages all Team members within certain range except<br>himself. <br />Each Team members must stay away from each other when receiving debuff.	
-5936	1	<font color='#FFFFFF'><font size="30">Tip。</font>Totems summoned by Raphakumpa cannot be destroyed.<br /> Totem<br>disappears after certain amount of time after summoned.	
+5933	1	<font color='#FFFFFF'><font size="30">Tip.</font> The totems which RaphaKumba has summoned cannot be<br>destroyed.<br />They will disappear automatically after a while.	
+5934	1	<font color='#FFFFFF'><font size="30">Tip.</font> Skill Forbidden pattern gets deactivated when destroy <font color='#FF0033'>[Faith]</font><br>which is at the mental world of Raphakumpa using summoned portal.	
+5935	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#FF0033'>[Destruction]</font>Debuff damages all Team members within certain range except<br>himself. <br />Each Team members must stay away from each other when receiving debuff.	
+5936	1	<font color='#FFFFFF'><font size="30">Tip.</font> Totems summoned by Raphakumpa cannot be destroyed.<br /> Totem<br>disappears after certain amount of time after summoned.	
 27950	0	Sprinting with under 30% stamina increases your Movement Speed for 3 sec.: +{0}%	
 27951	0	Attacking with 100% stamina increases attack speed for 3 sec.: +{0}%	
 9897	0	Dipluce Horizon Raid	
@@ -8945,7 +8945,7 @@ Unkown1	Unkown2	Unkown3
 5481	0	All characters up to {0} can connect.<br>If characters remain on pages 2 and 3, only up to 6 characters per day can receive attendance catch-up rewards.	
 5482	0	Only characters on page 1 can connect.<br>Delete a character on page 1, then select a character from page 2 or 3 and move it to page 1.	
 5483	0	Please select a free slot.<br>If all slots on page 1 are occupied, delete a Character.<br>Then try again.	
-5484	0	Only Characters on page 1 can log in.<br>If you still have free slots on page 1, click on ‘Relocate'.<br>Once you have relocated a Character, you can log in with them.	
+5484	0	Only Characters on page 1 can log in.<br>If you still have free slots on page 1, click on 'Relocate'.<br>Once you have relocated a Character, you can log in with them.	
 5485	0	Move Character	
 5486	0	Relocate Character Slot	
 5487	0	Please select a free slot to move your Character there.	
@@ -9140,7 +9140,7 @@ Unkown1	Unkown2	Unkown3
 22578	0	Open/Close Rankings	
 80100	0	Customize Character	
 80101	0	Setting Complete.	
-80102	0	{0}：{1}	
+80102	0	{0}:{1}	
 80103	0	Cooldown for new settings	
 80104	0	Main Character	
 80105	0	Please select a main Character.	
@@ -9194,10 +9194,10 @@ Unkown1	Unkown2	Unkown3
 66117	0	Top 51% ~ 70% Reward	
 66118	0	Top 71% ~ 100% Reward	
 67113	0	Total Points Ranking	
-5937	1	<font color='#FFFFFF'><font size="30">Tip。</font>Time Attack End Time will extend when<br>killing Boss Monsters above certain difficulty.	
-5938	1	<font color='#FFFFFF'><font size="30">Tip。</font>If you defeat final monster of each summon wave, the types<br>of point monster changes, which continuously get summoned.	
-5939	1	<font color='#FFFFFF'><font size="30">Tip。</font>Point monsters gets stronger as the level of wave battle<br>gets higher. Can obtain higher points after defeating them.	
-5940	1	<font color='#FFFFFF'><font size="30">Tip。</font>After Time-Attack ends, every monster dies. But<br>the dying monsters are not added to the points.	
+5937	1	<font color='#FFFFFF'><font size="30">Tip.</font> Time Attack End Time will extend when<br>killing Boss Monsters above certain difficulty.	
+5938	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you defeat final monster of each summon wave, the types<br>of point monster changes, which continuously get summoned.	
+5939	1	<font color='#FFFFFF'><font size="30">Tip.</font> Point monsters gets stronger as the level of wave battle<br>gets higher. Can obtain higher points after defeating them.	
+5940	1	<font color='#FFFFFF'><font size="30">Tip.</font> After Time-Attack ends, every monster dies. But<br>the dying monsters are not added to the points.	
 10122	0	Abyss Lounge	
 40779	0	Activating the device starts the battle.	
 40780	0	Battle has begun. Please test your own limit again.	
@@ -9277,12 +9277,12 @@ Unkown1	Unkown2	Unkown3
 40799	0	Now, everyone, this way!	
 10021	0	Revived Lunar Nox forces detected.<br>Confront the Queen at the battleground Edgar has prepared.	
 10123	0	Luna Fall	
-5941	1	<font color='#FFFFFF'><font size="30">Tip。</font>Upgrade Buff used by Junk Arculus can be deleted if<br>you hit Arculus with Edgar's <font color='#FF0033'>[Purifying Wave Launch]</font>.	
-5942	1	When <font color='#FFFFFF'><font size="30">Tip。</font><font color='#FF0033'>[Queen's Worshipper]</font> move to Queen's specific range, Junk Queen uses <font color='#FF0033'>[Powerful Range Attack]</font>.	
-5943	1	<font color='#FFFFFF'><font size="30">Tip。</font>Edgar continuously makes flame burning<br>area when there are no antagonistic forces.	
-5944	1	<font color='#FFFFFF'><font size="30">Tip。</font>Junk Queen summons all Players when there are no antagonistic forces.	
-5945	1	<font color='#FFFFFF'><font size="30">Tip。</font>Unable to Move Debuff gets deactivated when<br>Queen's Sword[Frost] summoned by Queen gets defeated.	
-5946	1	<font color='#FFFFFF'><font size="30">Tip。</font><font color='#FF0033'>[Dizziness]</font> debuff gets deactivated when get hit by Dark Zone trap.	
+5941	1	<font color='#FFFFFF'><font size="30">Tip.</font> Upgrade Buff used by Junk Arculus can be deleted if<br>you hit Arculus with Edgar's <font color='#FF0033'>[Purifying Wave Launch]</font>.	
+5942	1	When <font color='#FFFFFF'><font size="30">Tip.</font> <font color='#FF0033'>[Queen's Worshipper]</font> move to Queen's specific range, Junk Queen uses <font color='#FF0033'>[Powerful Range Attack]</font>.	
+5943	1	<font color='#FFFFFF'><font size="30">Tip.</font> Edgar continuously makes flame burning<br>area when there are no antagonistic forces.	
+5944	1	<font color='#FFFFFF'><font size="30">Tip.</font> Junk Queen summons all Players when there are no antagonistic forces.	
+5945	1	<font color='#FFFFFF'><font size="30">Tip.</font> Unable to Move Debuff gets deactivated when<br>Queen's Sword[Frost] summoned by Queen gets defeated.	
+5946	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#FF0033'>[Dizziness]</font> debuff gets deactivated when get hit by Dark Zone trap.	
 54023	0	Repeating times of Repeat Quest has been exceeded.	
 600001	0	Accept Quest	
 600002	0	Repeat : [{0} / {1}]	
@@ -9746,8 +9746,8 @@ Unkown1	Unkown2	Unkown3
 37354	0	Gimick Center Guidelines	
 37355	0	Gimick Center Guidelines	
 18316	0	Initiating Illusion Destruction. Would like to go to the world of dream?	
-5954	0	<font color='#FFFFFF'><font size="30">Tip。</font>Cannot use Items and Akashic Records in Breaking Illusion.	
-5955	0	<font color='#FFFFFF'><font size="30">Tip。</font>Character's ability doesn't get effect by<br>equipments Item or brooches, in Breaking Illusion.	
+5954	0	<font color='#FFFFFF'><font size="30">Tip.</font> Cannot use Items and Akashic Records in Breaking Illusion.	
+5955	0	<font color='#FFFFFF'><font size="30">Tip.</font> Character's ability doesn't get effect by<br>equipments Item or brooches, in Breaking Illusion.	
 37356	0	Details	
 37357	0	Simple	
 10135	0	Breaking Illusion	
@@ -9865,11 +9865,11 @@ Unkown1	Unkown2	Unkown3
 33587	0	Pale Ashes Accessory Set	
 20506	0	Every Hit [5% Chance]: Critical Damage +{0} for [3sec]	
 20507	0	Every Hit [2% Chance]: Attack Damage +{0} (Reset when Knocked Down)	
-5957	0	<font color='#FFFFFF'><font size="30">Tip。</font>Buff or Debuff is given when passing through each portal.	
-5958	0	<font color='#FFFFFF'><font size="30">Tip。</font> A player with the <font color='#FF0033'>[Flesh Incineration]</font> debuff must find<br>the <font color='#00ff9c'>[Chosen One]</font> and move next to that player right away.	
-5959	0	<font color='#FFFFFF'><font size="30">Tip。</font>Flemma will use a powerful skill when he teleports<br>and gathers Energy, so you must focus on your survival.	
-5960	0	<font color='#FFFFFF'><font size="30">Tip。</font>In the case that Flemma is after you, lure him toward <font color='#FF0033'>The Destroyed Highway</font>.	
-5961	0	<font color='#FFFFFF'><font size="30">Tip。</font>Damage will continuously be received near<br>other players when Flemma ejects flames.	
+5957	0	<font color='#FFFFFF'><font size="30">Tip.</font> Buff or Debuff is given when passing through each portal.	
+5958	0	<font color='#FFFFFF'><font size="30">Tip.</font> A player with the <font color='#FF0033'>[Flesh Incineration]</font> debuff must find<br>the <font color='#00ff9c'>[Chosen One]</font> and move next to that player right away.	
+5959	0	<font color='#FFFFFF'><font size="30">Tip.</font> Flemma will use a powerful skill when he teleports<br>and gathers Energy, so you must focus on your survival.	
+5960	0	<font color='#FFFFFF'><font size="30">Tip.</font> In the case that Flemma is after you, lure him toward <font color='#FF0033'>The Destroyed Highway</font>.	
+5961	0	<font color='#FFFFFF'><font size="30">Tip.</font> Damage will continuously be received near<br>other players when Flemma ejects flames.	
 10027	0	Flemma came out to the battlefield to enjoy a great fight, so he's smiling in joy at the thought of burning SoulWorkers.	
 40830	0	POWER is what matters! And then… MORE POWER! And lastly, EVEN MORE POWER!	
 40831	0	It's hot, isn't it? Strip off even your skin and you'll feel better.<br>I'll burn it all to ashes.	
@@ -9995,18 +9995,18 @@ Unkown1	Unkown2	Unkown3
 59707	0	You cannot play the Battle Room unless a Skills (Battle Room) preset is set.	
 59708	0	You cannot move while matching.	
 1526	0	You cannot edit skill slots or skill presets while matching.	
-5962	0	<font color='#FFFFFF'><font size="30">Tip。</font>The battle will end if Flemma is not defeated<br>within the allotted period of time for each phase.	
-5963	0	<font color='#FFFFFF'><font size="30">Tip。</font>In the Battle Room, the skills and presets set in the<br>Skills (Battle Room) tab of the skill slots are used.	
-5964	0	<font color='#FFFFFF'><font size="30">Tip。</font>Stamina consumption increases 1.5x.	
-5965	0	<font color='#FFFFFF'><font size="30">Tip。</font>Skill preset bonuses do not apply.	
-5966	0	<font color='#FFFFFF'><font size="30">Tip。</font>Skills banned through Skill Ban cannot be used in any round.	
+5962	0	<font color='#FFFFFF'><font size="30">Tip.</font> The battle will end if Flemma is not defeated<br>within the allotted period of time for each phase.	
+5963	0	<font color='#FFFFFF'><font size="30">Tip.</font> In the Battle Room, the skills and presets set in the<br>Skills (Battle Room) tab of the skill slots are used.	
+5964	0	<font color='#FFFFFF'><font size="30">Tip.</font> Stamina consumption increases 1.5x.	
+5965	0	<font color='#FFFFFF'><font size="30">Tip.</font> Skill preset bonuses do not apply.	
+5966	0	<font color='#FFFFFF'><font size="30">Tip.</font> Skills banned through Skill Ban cannot be used in any round.	
 10139	0	Battle Room	
 10050	0	[Beta] Battle Room	
 1527	0	PvP Lv.{0}(Exp.{1}▲)	
 1532	0	The social items you are using at matching completion may become unusable. Enter?	
 1533	0	Social items cannot be used while matching.	
-5967	0	<font color='#FFFFFF'><font size="30">Tip。</font>The Battle Room does not consume SG when using skills.	
-5968	0	<font color='#FFFFFF'><font size="30">Tip。</font>The Battle Room does not consume HP when using skills.	
+5967	0	<font color='#FFFFFF'><font size="30">Tip.</font> The Battle Room does not consume SG when using skills.	
+5968	0	<font color='#FFFFFF'><font size="30">Tip.</font> The Battle Room does not consume HP when using skills.	
 1534	0	The following skills have been banned.	
 1535	0	You cannot open character info during a Battle Room match.	
 1536	0	Leave the current Battle Room?<br>Leaving counts as a loss.	
@@ -10110,7 +10110,7 @@ Unkown1	Unkown2	Unkown3
 70015	0	The Reward has sent to your mailbox. Please check the H.E.M.S now.	
 70016	0	Not enable to open Soul Pass in the Maze.	
 70017	0	Premium	
-70018	0	Complete！	
+70018	0	Complete!	
 55128	0	Not enable to use it. This is not the Pass Duration.	
 55129	0	You have already received the reward.	
 55130	0	Require Pass Upgrade to receive the reward.	
@@ -10210,7 +10210,7 @@ Unkown1	Unkown2	Unkown3
 11724	0	Greaton	
 11794	0	Goodton	
 11795	0	Excellenton	
-5969	0	<font color='#FFFFFF'><font size="30">Tip。</font>Arculus and Edgar will join the battle to support Junk<br>Queen when the HP of the Queen is reduced to a certain level.	
+5969	0	<font color='#FFFFFF'><font size="30">Tip.</font> Arculus and Edgar will join the battle to support Junk<br>Queen when the HP of the Queen is reduced to a certain level.	
 9899	0	Luna Fall Hero	
 10028	0	[Luna Fall Hero]: Stronger damages and various pattern changes. To clear, all the members have to do what must do until the end.	
 67112	0	Scary Daydream [H/T]	
@@ -10273,7 +10273,7 @@ Unkown1	Unkown2	Unkown3
 5535	0	Age: 14<br>Birthday: June 25<br>Epithet: Howling Guitar of Sorrow<br>Weapon: Soul Weapon Guitar<br><br>Starting location: Rocco Town	
 5536	0	Age: 18<br>Birthday: November 4<br>Epithet: Hammer Stol of Rage<br>Weapon: Soul Weapon Hammer<br><br>Starting location: Rocco Town	
 5537	0	Age: 17<br>Birthday: July 28<br>Epithet: Spirit Arms of Passion<br>Weapon: Soul Weapon Gauntlet<br><br>Starting location: Rocco Town	
-5538	0	Age: 16 (Aruel, the body's owner)<br>　　　　1 (Soul Junk Chii)<br>Birthday: March 2<br>Epithet: DesperRoar of Aspiration<br>Weapon: Soul Weapon Katana<br><br>Starting location: Candus City	
+5538	0	Age: 16 (Aruel, the body's owner)<br>    1 (Soul Junk Chii)<br>Birthday: March 2<br>Epithet: DesperRoar of Aspiration<br>Weapon: Soul Weapon Katana<br><br>Starting location: Candus City	
 5539	0	Age: 17<br>Birthday: October 10<br>Epithet: Bombing Spear of Indomitability<br>Weapon: Soul Weapon Spear<br><br>Starting location: Candus City	
 80145	0	Promotion	
 80146	0	Basic	
@@ -10507,12 +10507,12 @@ Unkown1	Unkown2	Unkown3
 52075	0	[ {0} ]<br><br>Cannot use Item.<br>Valid Entry is full at the moment.	
 52076	0	[ {0} ]<br><br>Not possible to use more Additional Valid Entry Item.<br><br><font color='#FFBB00'>[ Valid Entry {1}/{2} ]	
 52077	0	[ {0} ]<br><br>Added Valid Entries: {1}<br><br><font color='#FFBB00'>[ Valid Entry {2}/{3} ]	
-5970	0	<font color='#FFFFFF'><font size="30">Tip。</font>Black void zone applies a Darkness Buff. 2 Stacks of Darkness Buff<br>will change to Malicious Intent. Immune to strong attacks from Tenebris.	
-5971	0	<font color='#FFFFFF'><font size="30">Tip。</font>White void zone applies a Light Buff. 2 Stacks of Light Buff<br>will change to Radiance. Immune to strong attacks from Tenebris.	
-5972	0	<font color='#FFFFFF'><font size="30">Tip。</font>When there are 2 of Tenebris, rush to the<br>Real one to avoid massive area effect attack.	
-5973	0	<font color='#FFFFFF'><font size="30">Tip。</font>If Tenebris shines in dark red, all void zones must change to the Light.	
-5974	0	<font color='#FFFFFF'><font size="30">Tip。</font>If Tenebris shines in white, all void zones must change to the Darkness.	
-5975	0	<font color='#FFFFFF'><font size="30">Tip。</font>To stop the power of combined darkness and light, you<br>must obtain the darkness buff and the light buff once each.	
+5970	0	<font color='#FFFFFF'><font size="30">Tip.</font> Black void zone applies a Darkness Buff. 2 Stacks of Darkness Buff<br>will change to Malicious Intent. Immune to strong attacks from Tenebris.	
+5971	0	<font color='#FFFFFF'><font size="30">Tip.</font> White void zone applies a Light Buff. 2 Stacks of Light Buff<br>will change to Radiance. Immune to strong attacks from Tenebris.	
+5972	0	<font color='#FFFFFF'><font size="30">Tip.</font> When there are 2 of Tenebris, rush to the<br>Real one to avoid massive area effect attack.	
+5973	0	<font color='#FFFFFF'><font size="30">Tip.</font> If Tenebris shines in dark red, all void zones must change to the Light.	
+5974	0	<font color='#FFFFFF'><font size="30">Tip.</font> If Tenebris shines in white, all void zones must change to the Darkness.	
+5975	0	<font color='#FFFFFF'><font size="30">Tip.</font> To stop the power of combined darkness and light, you<br>must obtain the darkness buff and the light buff once each.	
 20522	0	Current HP [90%] or more, Attack Damage +{0} for [5sec] on Hit	
 20523	0	Current HP [50%] or more, Attack Damage +{0} for [5sec] on Hit	
 52079	0	Valid Entry	
@@ -10695,10 +10695,10 @@ Unkown1	Unkown2	Unkown3
 43439	0	[SH] Arin	
 43440	0	[S] Anasyth	
 43441	0	[SH] Anasyth	
-5978	0	<font color='#FFFFFF'><font size="30">Tip。</font>If under the effect of [Desire Overdose] Debuff, Move near<br>the Energy Stabilization Device to Remove Overdose status.	
-5979	0	<font color='#FFFFFF'><font size="30">Tip。</font>[Desire Overdose] Debuff is changed to the Energy<br>Overwhelming Debuff. It causes Critical Damage.	
-5980	0	<font color='#FFFFFF'><font size="30">Tip。</font>Defeat 'Hazy Beam' to become 'Shackle of Light' status.<br>Immune to attacks of Tenebris. But, unable to move for [3sec].	
-5981	0	<font color='#FFFFFF'><font size="30">Tip。</font>Massive area effect attack is activated<br>when Tenebris and Desire Energy Fragment meet.	
+5978	0	<font color='#FFFFFF'><font size="30">Tip.</font> If under the effect of [Desire Overdose] Debuff, Move near<br>the Energy Stabilization Device to Remove Overdose status.	
+5979	0	<font color='#FFFFFF'><font size="30">Tip.</font> [Desire Overdose] Debuff is changed to the Energy<br>Overwhelming Debuff. It causes Critical Damage.	
+5980	0	<font color='#FFFFFF'><font size="30">Tip.</font> Defeat 'Hazy Beam' to become 'Shackle of Light' status.<br>Immune to attacks of Tenebris. But, unable to move for [3sec].	
+5981	0	<font color='#FFFFFF'><font size="30">Tip.</font> Massive area effect attack is activated<br>when Tenebris and Desire Energy Fragment meet.	
 20524	0	Crit Hit on Boss Monster, More DMG: Boss / Named [%] +{0}% (Cooldown: 10sec, Max Stack: 5, Reset on death)	
 39017	0	[Broken Savior] Hard Clear Records	
 71005	0	Soul Pass S. 5	
@@ -10766,8 +10766,8 @@ Unkown1	Unkown2	Unkown3
 73099	0	/yorlaze, /yorlazing	
 73100	0	/yorawr, /yorscary	
 73101	0	/yorhuh, /yor?	
-5976	0	<font color='#FFFFFF'><font size="30">Tip。</font>Violent Sun (Ranking): No Phase / The maze will end when Flemma is eliminated.	
-5977	0	<font color='#FFFFFF'><font size="30">Tip。</font>No Timer / No Reward Box / Record only the time spent killing Flemma	
+5976	0	<font color='#FFFFFF'><font size="30">Tip.</font> Violent Sun (Ranking): No Phase / The maze will end when Flemma is eliminated.	
+5977	0	<font color='#FFFFFF'><font size="30">Tip.</font> No Timer / No Reward Box / Record only the time spent killing Flemma	
 67142	0	Flemma Solo Ranking	
 40324	0	Skills are not available before Battle. Approach to Battle Target and Start Battle.	
 56016	0	Skills are not available for the current condition.	
@@ -10780,14 +10780,14 @@ Unkown1	Unkown2	Unkown3
 710072	0	Rewarded JK Soldier Nabi	
 10155	0	The Beyond	
 10156	0	The Alternate Vacuum slowly begins to open up in midst of a quiet peace at risk of being swallowed up by a deep and dark sleep.	
-40864	0	I’ll rip you to pieces. Become that red smog and disappear.	
+40864	0	I'll rip you to pieces. Become that red smog and disappear.	
 40865	0	Don't get in my way...! I'll wipe out everyone who does...!	
-40866	0	If I can’t smile... Everyone needs to be miserable.	
-40867	0	I’m sorry! This isn’t what I meant to happen! But what’s done is done!	
+40866	0	If I can't smile... Everyone needs to be miserable.	
+40867	0	I'm sorry! This isn't what I meant to happen! But what's done is done!	
 40868	0	FEVER TIME! Haha! You ready to die in the most pathetic way?	
-40869	0	Now! Try and kill me if you can! If you can’t, I’m going to rip you to pieces!	
-40870	0	Haha! I’ll come at all the ignorants who challenge me!	
-40871	0	Hahaha. I’m going to emerge from the cycle of this Energy and appear before your eyes again...	
+40869	0	Now! Try and kill me if you can! If you can't, I'm going to rip you to pieces!	
+40870	0	Haha! I'll come at all the ignorants who challenge me!	
+40871	0	Hahaha. I'm going to emerge from the cycle of this Energy and appear before your eyes again...	
 40872	0	Come on into where fantasies are filled with desire.	
 11801	0	Quick	
 11802	0	Balance	
@@ -10799,7 +10799,7 @@ Unkown1	Unkown2	Unkown3
 11808	0	Dexterous	
 11809	0	Agile	
 11810	0	Calm	
-11811	0	Wind’s	
+11811	0	Wind's	
 11812	0	Truth's	
 11813	0	Fully Bloomed	
 11814	0	Anguished	
@@ -10963,11 +10963,11 @@ Unkown1	Unkown2	Unkown3
 41608	0	Mission: Dismantle Items	
 41609	0	Misison: Quest Clear	
 41610	0	Mission: Affinity Up (Any NPC)	
-41611	0	Mission: Crafting (NPC ‘Janice')	
+41611	0	Mission: Crafting (NPC 'Janice')	
 41612	0	Misison: Get Achievement	
 41700	0	Mission: Daily Login	
 41701	0	Misison: Maze Clear	
-41702	0	Mission: Crafting (NPC ‘Janice')	
+41702	0	Mission: Crafting (NPC 'Janice')	
 41703	0	Mission: Dismantle Items	
 41704	0	Mission: Daily Mission Clear	
 41705	0	Mission: Purchase at Gruton Coin Shop	
@@ -11090,7 +11090,7 @@ Unkown1	Unkown2	Unkown3
 103091	0	Loyal Rifle of Obedience	
 103095	0	Lee Nabi. Looking up at the sky where stars are no longer shining brightly as they used to, a young girl rises as a man-made hero.<br><br>Although her devotion is blind, her want to save the world continues on.	
 103101	0	Grace City Tour Guide	
-103105	0	Arin, who has been serving as Force Strike’s temporary Operator and a supporter of Supernaturals, was relocated due to recent events.<br>She is nervous about taking on a new, unfamiliar role as aircraft support, but moreso that her clients are Cloudream’s heroes; SoulWorkers.<br>She has quite the strange habit of stuttering on an everyday basis but speaking quite smoothly when she’s nervous, creating praise for what she does.	
+103105	0	Arin, who has been serving as Force Strike's temporary Operator and a supporter of Supernaturals, was relocated due to recent events.<br>She is nervous about taking on a new, unfamiliar role as aircraft support, but moreso that her clients are Cloudream's heroes; SoulWorkers.<br>She has quite the strange habit of stuttering on an everyday basis but speaking quite smoothly when she's nervous, creating praise for what she does.	
 103012	0	Soulum of Vitality	
 103016	0	The girl faced the vengeance welling up from within.<br>Even after she achieved it, would she live on forever seeking something to hate...?<br>And so she resolved to hold a belief that would support her firm will, rather than vengeance.<br>As the SoulWorker of Fighting Spirit, Haru Estia -	
 103022	0	Gun Jazz of Vow	
@@ -11110,7 +11110,7 @@ Unkown1	Unkown2	Unkown3
 103092	0	Loyal Rifle of Devotion	
 103096	0	What is the difference between a slave and a subordinate, between a servant and a vassal?<br>A sage once said that a vassal chooses their lord. The girl who left Ayame, who had forced her into obedience, decided to follow a new lord of her own free will.<br>Even if he is lacking, she swore to devote her loyalty by her own will.<br>As the SoulWorker of Loyalty, Nabi -	
 103102	0	Courier of Clear Skies	
-103106	0	Operator of Great Grace Tower and Operation Tower, as well as aircraft support, Arin, enjoys a cup of coffee from a cafe on Great Grace Tower that overlooks the city full of busy people going about their day.<br><br>“Man~ I love these peaceful days~”<br>-Arin-	
+103106	0	Operator of Great Grace Tower and Operation Tower, as well as aircraft support, Arin, enjoys a cup of coffee from a cafe on Great Grace Tower that overlooks the city full of busy people going about their day.<br><br>"Man~ I love these peaceful days~"<br>-Arin-	
 104012	0	Betty Bear	
 104016	0	Hmm? What's wrong? Oh, Betty Bear? Uhm… Miriam may already know this~ but this is Really heavy. But what would happen if I let her know?<br><br>We're already low on support… but new applicants are falling out by the second… Urgh… It's not that I'm not saying it's hard... I literally can't...<br><br>B-But...! Hopefully I'll be the one.. to interview the newbies, right?	
 104022	0	Candus City's Mascot	
@@ -11505,13 +11505,13 @@ Unkown1	Unkown2	Unkown3
 99016	0	Drop Rate	
 99017	0	Mileage	
 99018	0	Fragment of Providence	
-61113	0	<img src='img：//LocalizeImage\General\icon_Money_Mileage03.png' width='20' height='20' vspace='-7'>Earn {0} Soul Mate Mileage Points	
+61113	0	<img src='img://LocalizeImage\General\icon_Money_Mileage03.png' width='20' height='20' vspace='-7'>Earn {0} Soul Mate Mileage Points	
 51015	0	Cash Mileage Data Load Failed.	
 51016	0	Mileage Points have reached Its Limit.	
 77001	0	TREASURE HUNTER EVENT!	
 77002	0	The Event Has Ended.	
 77003	0	Treasure Hunt	
-77004	0	{0}～{1}	
+77004	0	{0}~{1}	
 77005	0	Items Remaining	
 77006	0	The number you can obtain per day is fixed, and if the drop count is not met, it carries over to the next day.<br><br>When clearing certain Mazes, one of the items in the list below drops with an additional set chance.<br><br><font color='#FF0000'>*Maze List*<br>Field of Raid/Garden of Plenty/Plateau of Solitude</font>	
 77007	0	Item Drop List	
@@ -11634,7 +11634,7 @@ Unkown1	Unkown2	Unkown3
 81203	0	Change Name	
 81204	0	Change Preset Name	
 81401	0	Please Enter a New Preset Name.	
-81403	0	Use ‘Costume Preset Slot Expansion’ to unlock NEW PRESET SLOT?	
+81403	0	Use 'Costume Preset Slot Expansion' to unlock NEW PRESET SLOT?	
 81404	0	Not Possible to Equip: Please check your Preset Costumes.	
 81405	0	Not Possible to Unlock New Slot: [Costume Preset Slot Expansion] Not Found	
 81406	0	Detect: Inappropriate / Prohibited Word	
@@ -11725,7 +11725,7 @@ Unkown1	Unkown2	Unkown3
 9110540	0	Tailored Uniform [B]	
 9110550	0	Tailored Uniform [C]	
 9110560	0	Tailored Uniform [D]	
-9110570	0	Merchants’ Union Uniform	
+9110570	0	Merchants' Union Uniform	
 9110580	0	SFL Old Military Uniform	
 9110590	0	Modern Casual	
 9110600	0	Contest	
@@ -11741,7 +11741,7 @@ Unkown1	Unkown2	Unkown3
 9110700	0	Animal Pajamas	
 9110710	0	SFL Spring and Autumn Uniform	
 9110720	0	Servers in Cafe	
-9110730	0	One Summer Day’s Sailor	
+9110730	0	One Summer Day's Sailor	
 9110740	0	Enemy Festa	
 9110750	0	Big Cat	
 9110780	0	Nightmare	
@@ -11880,7 +11880,7 @@ Unkown1	Unkown2	Unkown3
 76002	0	ENTER	
 76003	0	LV{0}	
 76004	0	{0}	
-76005	0	FP：{0}	
+76005	0	FP:{0}	
 76006	0	Online	
 76007	0	No Login Record	
 76008	0	Daily Contents	
@@ -11899,27 +11899,27 @@ Unkown1	Unkown2	Unkown3
 76021	0	Broken Savior [Normal]	
 76022	0	Broken Savior [Hard]	
 58820	0	The client will close because of a delay in the server connection.	
-5982	0	<font color='#FFFFFF'><font size="30">Tip。</font>Destroy the Tree that Ferdelance has summoned. Otherwise, she will be Invincible.	
-5983	0	<font color='#FFFFFF'><font size="30">Tip。</font>Ferdelance can detect the flow of Soul Vapor.	
-5984	0	<font color='#FFFFFF'><font size="30">Tip。</font>Ferdelance rises into the air? Find the<br>way to JUMP HIGH and ELIMINATE her ENERGY!	
-5985	0	<font color='#FFFFFF'><font size="30">Tip。</font>[WARNING] Ferdelance can make a surprise attack from under its feet!	
-5986	0	<font color='#FFFFFF'><font size="30">Tip。</font>Standing on a Circular Floor → Get Massive<br>DMG from Ferdelance → But, gain Powerful Buff	
-5987	0	<font color='#FFFFFF'><font size="30">Tip。</font>Ferdelance regularly scatters dust on players Away From Her.	
+5982	0	<font color='#FFFFFF'><font size="30">Tip.</font> Destroy the Tree that Ferdelance has summoned. Otherwise, she will be Invincible.	
+5983	0	<font color='#FFFFFF'><font size="30">Tip.</font> Ferdelance can detect the flow of Soul Vapor.	
+5984	0	<font color='#FFFFFF'><font size="30">Tip.</font> Ferdelance rises into the air? Find the<br>way to JUMP HIGH and ELIMINATE her ENERGY!	
+5985	0	<font color='#FFFFFF'><font size="30">Tip.</font> [WARNING] Ferdelance can make a surprise attack from under its feet!	
+5986	0	<font color='#FFFFFF'><font size="30">Tip.</font> Standing on a Circular Floor → Get Massive<br>DMG from Ferdelance → But, gain Powerful Buff	
+5987	0	<font color='#FFFFFF'><font size="30">Tip.</font> Ferdelance regularly scatters dust on players Away From Her.	
 10629	0	Tragedy Fairy	
 78129	0	Hard	
 78130	0	Expert	
 78131	0	Normal	
 40875	0	Do... not... R... Run Away... W-What did I just...?	
-40876	0	DON’T LOOK AT ME! I-I look horrible...!	
-40877	0	Please... RUN AWAY! It’s AFTER YOU!	
+40876	0	DON'T LOOK AT ME! I-I look horrible...!	
+40877	0	Please... RUN AWAY! It's AFTER YOU!	
 40878	0	I have no choice but to Embrace it... You know I don't want to...	
-40879	0	I can’t control my body! No No...! STOP...! DON’T MOVE!	
+40879	0	I can't control my body! No No...! STOP...! DON'T MOVE!	
 40880	0	FLOWERS... are about to bloom... When it comes to Fruit... All of YOU...!	
-40881	0	Don’t... Run Away... Come Back Here... and Die...	
-40882	0	Don’t look at me! I WILL KILL YOU ALL!	
+40881	0	Don't... Run Away... Come Back Here... and Die...	
+40882	0	Don't look at me! I WILL KILL YOU ALL!	
 40883	0	Oh, Full of Life! Thank you for Sharing... Your Vitality!	
 40884	0	Embrace your blessings...	
-40885	0	DON’T MOVE! Be a Fertilizer there!	
+40885	0	DON'T MOVE! Be a Fertilizer there!	
 40886	0	Trees are growing... Let's be one... with the Forest...	
 40887	0	A force of energy is flowing through me...! Now... Die...!	
 40888	0	This Forest... is Brilliant... So Bright... Like a Starlight...	
@@ -11928,13 +11928,13 @@ Unkown1	Unkown2	Unkown3
 33595	0	Nostalgic Accessory I Set	
 33596	0	Nostalgic Accessory II Set	
 33597	0	Nostalgic Accessory III Set	
-20525	0	Enemy’s HP [80%] or less, Critical DMG +{0} for [5sec] on Hit	
-20526	0	Enemy’s HP [40%] or less, Attack DMG +{0} for [5sec] on Hit	
+20525	0	Enemy's HP [80%] or less, Critical DMG +{0} for [5sec] on Hit	
+20526	0	Enemy's HP [40%] or less, Attack DMG +{0} for [5sec] on Hit	
 20527	0	Successful Critical Hits: Critical DMG +{0} (Cooldown: 15sec / Max Stack: 4 / Duration: 20sec)	
 20528	0	Current HP [80%] or more, Attack DMG +{0} for [3sec] on Hit	
 20529	0	Current HP [30%] or less, Attack DMG +{0} for [10sec] on Hit	
-20530	0	Enemy’s HP: [50%] or more, Attack DMG +{0} for [3sec] on Hit	
-20531	0	Enemy’s HP: Less than [50%], Attack DMG +{0} for [3sec] on Hit	
+20530	0	Enemy's HP: [50%] or more, Attack DMG +{0} for [3sec] on Hit	
+20531	0	Enemy's HP: Less than [50%], Attack DMG +{0} for [3sec] on Hit	
 20532	0	(Boss/Named - Super Armor Break status) More DMG: Boss/Named +{0}% for [30sec] on Hit (Cooldown: 30sec)	
 20533	0	(Boss/Named - Super Armor Break status) Attack DMG +{0} for [30sec] on Hit (Cooldown: 30sec)	
 82150	0	Recommended: Lv. 76 or Higher<br><br>It was a great plain with a vibe of the autumn sky before the Vacuum. But all that remained due to the war against the Vessi was unbridled cows and neglected crops.	
@@ -11956,7 +11956,7 @@ Unkown1	Unkown2	Unkown3
 10660	0	Tragedy Fairy [Party]	
 76023	0	Tragedy Fairy [Normal / Hard]	
 76024	0	Tragedy Fairy [Expert]	
-40889	0	R-Run, No.. Don’t Run Away... Stay... with me... Forever...	
+40889	0	R-Run, No.. Don't Run Away... Stay... with me... Forever...	
 40890	0	DO NOT LOOK AT ME LIKE THAT!	
 40891	0	Bring Me Your Vitality! ...Oh, Thank you for Sharing...!	
 40892	0	Embrace your blessings now... and I'll make you c... Don't even try to resist...	
@@ -11995,7 +11995,7 @@ Unkown1	Unkown2	Unkown3
 71007	0	Soul Pass Season 7	
 710080	0	Sunny Day Vacation	
 20263	0	Sunny Day Vacation	
-20264	0	OH YEAH! I’M ON VACATION!	
+20264	0	OH YEAH! I'M ON VACATION!	
 20265	0	{0} gets excited about vacation.	
 39018	0	[Tragedy Fairy - Expert] Phase 2 Clear Records	
 83069	0	You need Soul Mates to use Dispatch.	
@@ -12030,7 +12030,7 @@ Unkown1	Unkown2	Unkown3
 83098	0	Next Level	
 83099	0	Max Level Reached.	
 83100	0	Type Info	
-83101	0	{0}：{1}	
+83101	0	{0}:{1}	
 83102	0	Current	
 83103	0	← Reach [{0}]	
 83104	0	Max Rank	
@@ -12063,19 +12063,19 @@ Unkown1	Unkown2	Unkown3
 103111	0	Outsider	
 103115	0	Not many people know Ceres. It isn't that she has secrets or is hiding anything. She is simply a poor talker and not very close to the people around her.<br>Since she could remember everything by eating information written on paper from the start, perhaps she never needed to get close to others.	
 103112	0	Guild Management Officer	
-103116	0	Seres, having received much special treatment from Starry Forest League due to her abilities to remember important information, she is showing off her skills everywhere else.<br>When there were many SoulWorkers and Supernaturals in the past, she used her abilities to manage and keep track of them all.<br>This also reigns true even though the number of SoulWorkers and Supernaturals have decreased significantly.<br><br>“... There are... quite... a lot of people... who have gained weight this year...”<br>- Seres, consuming the new profiles she received -	
+103116	0	Seres, having received much special treatment from Starry Forest League due to her abilities to remember important information, she is showing off her skills everywhere else.<br>When there were many SoulWorkers and Supernaturals in the past, she used her abilities to manage and keep track of them all.<br>This also reigns true even though the number of SoulWorkers and Supernaturals have decreased significantly.<br><br>"... There are... quite... a lot of people... who have gained weight this year..."<br>- Seres, consuming the new profiles she received -	
 104062	0	Fortune Corps. Member	
-104066	0	Hey~ Looks like you’re not in sorts having just fallen out of the Vacuum, huh?<br>It’s alright... This is... nothing in today’s day anda age.<br>Oh, sorry. I forgot my introduction, didn’t I? I’m Miriam.<br>This place is Rocco Town that’s closest to the Vacuum and my main job is to save those who fall from it.<br>Oh, well, it’s actually taking care of those who are hurt... hehe, I guess I forgot.<br>B-But that doesn’t mean I don’t know how to fight.<br>I’ve actually fought with great a many enemies back in my day! Ahem!<br>So, uhm, if you get hurt... Or if you need help, let me know.<br>I’ll help you out as much as I can.	
+104066	0	Hey~ Looks like you're not in sorts having just fallen out of the Vacuum, huh?<br>It's alright... This is... nothing in today's day anda age.<br>Oh, sorry. I forgot my introduction, didn't I? I'm Miriam.<br>This place is Rocco Town that's closest to the Vacuum and my main job is to save those who fall from it.<br>Oh, well, it's actually taking care of those who are hurt... hehe, I guess I forgot.<br>B-But that doesn't mean I don't know how to fight.<br>I've actually fought with great a many enemies back in my day! Ahem!<br>So, uhm, if you get hurt... Or if you need help, let me know.<br>I'll help you out as much as I can.	
 104063	0	A Past Life	
-104067	0	How did I live in the past?<br>Uhm... That’s a difficult question... I don’t think about the past, you see.<br>I can’t believe you’re making me think of it... You’re not a good person, are you?<br>Let’s see... I used to study and work a lot before the Vacuum.<br>I walked into the Vacuum myself and walked out and found myself in Rocco Town.<br>And the fact I’m saving people remains the same before and after.<br>And that’s why I’m still in Rocco Town and all.<br>Plus... I wanted to be a nurse, so I went into nursing...<br>Although, now that I have the ability to heal, none of that really matters.<br>But I do think my basic knowledge helps a bit.<br>Hm... You keep asking but my past is a secret.<br>Go work now. You have a lot to do, right?	
+104067	0	How did I live in the past?<br>Uhm... That's a difficult question... I don't think about the past, you see.<br>I can't believe you're making me think of it... You're not a good person, are you?<br>Let's see... I used to study and work a lot before the Vacuum.<br>I walked into the Vacuum myself and walked out and found myself in Rocco Town.<br>And the fact I'm saving people remains the same before and after.<br>And that's why I'm still in Rocco Town and all.<br>Plus... I wanted to be a nurse, so I went into nursing...<br>Although, now that I have the ability to heal, none of that really matters.<br>But I do think my basic knowledge helps a bit.<br>Hm... You keep asking but my past is a secret.<br>Go work now. You have a lot to do, right?	
 104064	0	Tenebris	
-104068	0	When the world becomes dark and wars are all around, that’s when they say the number of people you love increases. I don’t know where those statistics came from. I just remember reading it somewhere.<br>It was the same for me. I loved the one who saved us from the Vacuum. It was when SoulWorker Lord disappeared and we were waiting for someone to lead us. That’s when he appeaered and showed us what justice really meant. Although it was merely envy and respect for most people.... But not to me.<br>I saw a pain deep inside of him. Screaming justice meant he never knew a world of it. Tenebris was in pain. He would’ve been in pain until a world of justice he so dreamed came.<br>All I wanted was to comfort that pain. And that’s how I fell in love with him... The fun thing of a love story is seeing the spontaneity of it, right?	
-120049	0	I’ve never seen this kind of paper before... <br>I wonder what it tastes like...?	
+104068	0	When the world becomes dark and wars are all around, that's when they say the number of people you love increases. I don't know where those statistics came from. I just remember reading it somewhere.<br>It was the same for me. I loved the one who saved us from the Vacuum. It was when SoulWorker Lord disappeared and we were waiting for someone to lead us. That's when he appeaered and showed us what justice really meant. Although it was merely envy and respect for most people.... But not to me.<br>I saw a pain deep inside of him. Screaming justice meant he never knew a world of it. Tenebris was in pain. He would've been in pain until a world of justice he so dreamed came.<br>All I wanted was to comfort that pain. And that's how I fell in love with him... The fun thing of a love story is seeing the spontaneity of it, right?	
+120049	0	I've never seen this kind of paper before... <br>I wonder what it tastes like...?	
 120050	0	What flavour it is...? The red one is strawberry flavored, the yellow lemon and the blue...	
-120051	0	I-I’m not seasons...	
+120051	0	I-I'm not seasons...	
 120016	0	Let all the pain go away~	
 120017	0	Nothing dangerous is allowed here~<br>Okay?	
-120018	0	It’s alright!<br>There’s no need to be perfect at everything.	
+120018	0	It's alright!<br>There's no need to be perfect at everything.	
 10173	0	Violent Sun [Solo]	
 10174	0	Broken Savior [Solo]	
 9010700	0	Animal Pajamas	
@@ -12099,13 +12099,13 @@ Unkown1	Unkown2	Unkown3
 43444	0	[S] Nia	
 43445	0	[SH] Nia	
 10176	0	Fireworks Festival	
-5992	0	<font color='#FFFFFF'><font size="30">Tip。</font>Dodge or Defeat enemies in street stalls and activate all 3 Fireworks.	
-5993	0	<font color='#FFFFFF'><font size="30">Tip。</font>Incorrect answers in OX Quiz will lead to fighting off hidden enemies.	
-5994	0	<font color='#FFFFFF'><font size="30">Tip。</font>Put on a great Fireworks display by defeating<br>the enemies conspiring to disturb the festival!	
-5995	0	<font color='#FFFFFF'><font size="30">Tip。</font>Higher Stage means encountering a More Powerful Boss Monster.	
-5996	0	<font color='#FFFFFF'><font size="30">Tip。</font>[Overflow] Monster becomes Very Powerful & Traps are Activated.	
-5997	0	<font color='#FFFFFF'><font size="30">Tip。</font>Stage Cleared: Clear Limit Deducted / Stage Failed: Clear Limit Not Deducted	
-5998	0	<font color='#FFFFFF'><font size="30">Tip。</font>Advancing Helix can be cleared only once per day.	
+5992	0	<font color='#FFFFFF'><font size="30">Tip.</font> Dodge or Defeat enemies in street stalls and activate all 3 Fireworks.	
+5993	0	<font color='#FFFFFF'><font size="30">Tip.</font> Incorrect answers in OX Quiz will lead to fighting off hidden enemies.	
+5994	0	<font color='#FFFFFF'><font size="30">Tip.</font> Put on a great Fireworks display by defeating<br>the enemies conspiring to disturb the festival!	
+5995	0	<font color='#FFFFFF'><font size="30">Tip.</font> Higher Stage means encountering a More Powerful Boss Monster.	
+5996	0	<font color='#FFFFFF'><font size="30">Tip.</font> [Overflow] Monster becomes Very Powerful & Traps are Activated.	
+5997	0	<font color='#FFFFFF'><font size="30">Tip.</font> Stage Cleared: Clear Limit Deducted / Stage Failed: Clear Limit Not Deducted	
+5998	0	<font color='#FFFFFF'><font size="30">Tip.</font> Advancing Helix can be cleared only once per day.	
 40909	0	Defeat the thugs disturbing the festival and activate all 3 fireworks devices.	
 40910	0	Laban, the fireworks... I'll protect them... I'll block the way... with a hard problem.	
 40911	0	Fireworks device 1 has been activated.	
@@ -12139,7 +12139,7 @@ Unkown1	Unkown2	Unkown3
 952096	0	Failed: Level Up (Item)	
 952097	0	Failed: Mastery Option Change	
 90000	0	Slot Reward	
-90001	0	Exp：	
+90001	0	Exp:	
 90002	0	Max Level:	
 90003	0	Click [OK] to Try Level Up.	
 90004	0	Level:	
@@ -12201,10 +12201,10 @@ Unkown1	Unkown2	Unkown3
 26384	0	DMG Reduction: Parallel Keeper [%]	
 90024	0	Consume {0} to Proceed with Option Change	
 90025	0	Not Possible to Add Material Items (Not Enough Space)	
-5988	0	<font color='#FFFFFF'><font size="30">Tip。</font>Must defeat [Parallel Thing] first to fight [Parallel Doom].	
-5989	0	<font color='#FFFFFF'><font size="30">Tip。</font>Tentacles of Parallel Thing make a strong attack if there is no target around.	
-5990	0	<font color='#FFFFFF'><font size="30">Tip。</font>Watch out for Parallel Doom's Burn /<br>Frostbite debuff. It will hurt you when Stacked.	
-5991	0	<font color='#FFFFFF'><font size="30">Tip。</font>How to Get Rewards: Must defeat Parallel Thing and Doom! Both of Them!	
+5988	0	<font color='#FFFFFF'><font size="30">Tip.</font> Must defeat [Parallel Thing] first to fight [Parallel Doom].	
+5989	0	<font color='#FFFFFF'><font size="30">Tip.</font> Tentacles of Parallel Thing make a strong attack if there is no target around.	
+5990	0	<font color='#FFFFFF'><font size="30">Tip.</font> Watch out for Parallel Doom's Burn /<br>Frostbite debuff. It will hurt you when Stacked.	
+5991	0	<font color='#FFFFFF'><font size="30">Tip.</font> How to Get Rewards: Must defeat Parallel Thing and Doom! Both of Them!	
 10661	0	Parallel Metronome	
 10662	0	Parallel Metronome [Normal]	
 10663	0	Parallel Metronome [Hard]	
@@ -12325,14 +12325,14 @@ Unkown1	Unkown2	Unkown3
 75020	0	1 Resolved	
 24043	0	Successful Critical Hits: Recover SG [{0}%] (Cooldown: 30sec)	
 103121	0	PhantomWaltz of Delusion	
-103125	0	There once was a girl. The worst day imaginable couldn’t have avoided this girl who helped people with the warmest of hearts.<br>A new hope found this girl who was living a life of no light.<br>Although the world seemed to be filled with deceit, Dhana Opini puts one foot in front of the other holding hope in her heart.	
+103125	0	There once was a girl. The worst day imaginable couldn't have avoided this girl who helped people with the warmest of hearts.<br>A new hope found this girl who was living a life of no light.<br>Although the world seemed to be filled with deceit, Dhana Opini puts one foot in front of the other holding hope in her heart.	
 103122	0	PhantomWaltz of Belief	
 103126	0	However, even in a life of deceit, Dhana did not resort to tears. In order to hold on to the small ray of light and truth she had left, she desperately clung on and arose from the deceit she knew.<br>In a world that has turned its back on her, Dhana continues living on with hope in her heart.<br>As long as that hope is still alight, this SoulWorker will continue on with that trust.	
 102052	0	Aide of Successor.	
 102056	0	Hello, Successor!<br>I'm Shurii, your Aide!<br>I may lack in many areas since I'm not used to servicing… Hehe… But I hope we continue to work well together!	
 120052	0	Uh... Uhm... Please... stop staring.	
-120053	0	Please don’t leave... Please don’t leave me.	
-120054	0	I want to at least ask of this.<br>.... I got you fooled, didn’t I?	
+120053	0	Please don't leave... Please don't leave me.	
+120054	0	I want to at least ask of this.<br>.... I got you fooled, didn't I?	
 120055	0	Hello! I'm Shuri!	
 120056	0	Successor...	
 120057	0	Oh...! What is that!? That outrageously cute thing running around on four legs!	
@@ -12359,7 +12359,7 @@ Unkown1	Unkown2	Unkown3
 18639	0	Falling Star	
 18640	0	Dreamscape	
 18641	0	Finis Temporis	
-10175	0	The World’s End	
+10175	0	The World's End	
 27960	0	Lock	
 27961	0	Unlock	
 27962	0	Locked items cannot be traded, listed at the Auction House, mailed, unopened, packaged, and so on. Are you sure you want to lock the item?	
@@ -12417,14 +12417,14 @@ Unkown1	Unkown2	Unkown3
 28764	0	Not Possible to Purchase [Reason: Not Authorized]	
 28765	0	Failed to Purchase: Max Booster Activation Count Exceeded	
 57054	0	Following function cannot be used within {0} days from joining Guild.<br>Remaining Period : {1} Day {2} Hours	
-700009	0	Heitz’s Pop-Up Photo	
-700010	0	Rona’s Pop-Up Photo	
-700011	0	Nya’s Pop-Up Photo	
-700012	0	Vester’s Pop-Up Photo	
-700013	0	Sophina’s Pop-Up Photo	
-700014	0	Reive’s Pop-Up Photo	
-700015	0	Belletto’s Pop-Up Photo	
-700016	0	Renee’s Pop-Up Photo	
+700009	0	Heitz's Pop-Up Photo	
+700010	0	Rona's Pop-Up Photo	
+700011	0	Nya's Pop-Up Photo	
+700012	0	Vester's Pop-Up Photo	
+700013	0	Sophina's Pop-Up Photo	
+700014	0	Reive's Pop-Up Photo	
+700015	0	Belletto's Pop-Up Photo	
+700016	0	Renee's Pop-Up Photo	
 8377	0	New Year Commemorative Attendance Check Event	
 36013	0	Game Controller Settings	
 36014	0	[Camera] Invert Vertical Axis	
@@ -12466,7 +12466,7 @@ Unkown1	Unkown2	Unkown3
 87006	0	Character Limit	
 87007	0	Enter	
 87008	0	Unlock: Upcoming Update	
-87009	0	CLEAR！	
+87009	0	CLEAR!	
 87010	0	Battle Stage {0}: Training Begins	
 87011	0	Successfully Completed	
 87012	0	Stage Failed	
@@ -12504,15 +12504,15 @@ Unkown1	Unkown2	Unkown3
 87044	0	Advancing Helix Stage 19	
 87045	0	Advancing Helix Stage 20	
 87046	0	Recommended Level: Lv. 79 or higher<br><br>Advancing Helix is a solo Maze where you train in virtual reality.<br>It consists of many stages, each with a different difficulty.<br>You can clear only one stage per day, but entering costs no FP, and you can retry until you clear the stage.<br>Clearing each stage earns various rewards and unlocks the next stage.<br>One minute after the Maze starts, monsters enter an "Overflow" state and the Maze difficulty rises sharply, so we recommend clearing within 1 minute.	
-120058	0	I’m starting to miss the days before the Vacuum.	
+120058	0	I'm starting to miss the days before the Vacuum.	
 120059	0	Everything is for justice when it comes to power.	
 120060	0	The true face only shows itself when fallen from a high place.	
 104072	0	Neb	
-104076	0	Hmm? Oh, you mean Neb?<br>And you’re asking ME that?<br>Kahaha! S-Sorry... Hahaha...! This is just too funny- Hah-!<br>I just think it’s so funny I’m the one you’re asking about that.<br>Neb... Let’s just say he’s someone who has his priorities straight.<br>Once he sets his mind on what he thinks is the right thing to do, he only goes after that.<br>And he had the ability to come to the right conclusion on many a strange situation.<br>He would’ve held his justice to the grave.<br>Hm.. Don’t you think a leader should, in fact, be at least that stubborn?<br>Well... Of course, my plans panned out with or without them.<br>Seriously, I’m telling you it was that easy.	
+104076	0	Hmm? Oh, you mean Neb?<br>And you're asking ME that?<br>Kahaha! S-Sorry... Hahaha...! This is just too funny- Hah-!<br>I just think it's so funny I'm the one you're asking about that.<br>Neb... Let's just say he's someone who has his priorities straight.<br>Once he sets his mind on what he thinks is the right thing to do, he only goes after that.<br>And he had the ability to come to the right conclusion on many a strange situation.<br>He would've held his justice to the grave.<br>Hm.. Don't you think a leader should, in fact, be at least that stubborn?<br>Well... Of course, my plans panned out with or without them.<br>Seriously, I'm telling you it was that easy.	
 104073	0	Burn	
 104077	0	The burns... where should I even start.<br>Well, it's not important, so it's fine.<br>Ah, as you know, it's true that I egged her on.<br>But! I never imagined it would burn that spectacularly.<br>Isn't that woman awful? I thought something would happen, but... to actually set a person on fire!<br>Still, thanks to that, Mr. Neb and I got along even better, so all's well that ends well, I suppose.<br>But to me he's an important messenger, so his appearance matters too.<br>So I told him burns could be treated, but he flatly refused.<br>...With a dead-serious face, I think he said, "I don't need treatment so I won't forget my purpose."<br>When someone says that so seriously, I can hardly recommend it.<br>Besides, if someone that young wore bandages and smiled, you'd let your guard down, wouldn't you?<br>So I imitated him a little. Do you remember? The Black Flame Dragon!	
-104074	0	Neb’s Armor	
-104078	0	Hmmm.... The armor Neb used to wear?<br>Yeah, I guess you can only assume it popped out of nowhere.<br>It’s not just a normal piece of armor.<br>It’s more of the manifestation of justice rather than functioning as actual armor.<br>Oh, that grand justice! You know, the justice behind Neb’s passion!!<br>That night when burned from head to toe, Neb realized his justice and saw the woman covered in gold armor.<br>Maybe Neb wanted to engrave himself in her?<br>I’m a bit disappointed it isn’t me, but... Then I realized I never showed Neb my true self before.<br>Although, that may be a whole other issue on its own. Hahaha!<br>The very aggressive appearance of this armor is probably reflected in what he thinks is justice.<br>What do you think?	
+104074	0	Neb's Armor	
+104078	0	Hmmm.... The armor Neb used to wear?<br>Yeah, I guess you can only assume it popped out of nowhere.<br>It's not just a normal piece of armor.<br>It's more of the manifestation of justice rather than functioning as actual armor.<br>Oh, that grand justice! You know, the justice behind Neb's passion!!<br>That night when burned from head to toe, Neb realized his justice and saw the woman covered in gold armor.<br>Maybe Neb wanted to engrave himself in her?<br>I'm a bit disappointed it isn't me, but... Then I realized I never showed Neb my true self before.<br>Although, that may be a whole other issue on its own. Hahaha!<br>The very aggressive appearance of this armor is probably reflected in what he thinks is justice.<br>What do you think?	
 24044	0	When landing a critical hit, increase Critical Damage by {0} / up to 50 stacks (cooldown 0.2 sec)	
 24045	0	When landing a critical hit, increase Critical Damage by {0} / up to 75 stacks (cooldown 0.2 sec)	
 24046	0	When landing a critical hit, increase Critical Damage by {0} / up to 100 stacks (cooldown 0.2 sec)	
@@ -12530,7 +12530,7 @@ Unkown1	Unkown2	Unkown3
 71010	0	Soul Pass Season 10	
 120046	0	M-Me? Flight support?<br>Even if I look like this...?	
 120047	0	Hehe…<br>I-I do like taking a break...	
-120048	0	Just... a cozy life...<br>I-I think it’s best to take it easy....	
+120048	0	Just... a cozy life...<br>I-I think it's best to take it easy....	
 42951	0	Not Possible to Search: Blank Texts / Characters	
 42952	0	Search Failed: No Item	
 42953	0	Search	
@@ -12648,17 +12648,17 @@ Unkown1	Unkown2	Unkown3
 120067	0	Trick… or… Treat…	
 120068	0	Your Psyche!	
 120069	0	Are you alright? I wonder if your head's on straight.	
-120070	0	You’re prepared for this, aren’t you?	
+120070	0	You're prepared for this, aren't you?	
 120071	0	You should go into this with purity in your heart.	
 120072	0	You're prepared for this, right?	
-120073	0	I’m simply strong. I just didn’t win.	
+120073	0	I'm simply strong. I just didn't win.	
 120074	0	Supression Initiate!!	
 120075	0	Creating... the future...	
-102062	0	An Unceertified Doctor’s Riddles	
+102062	0	An Unceertified Doctor's Riddles	
 102063	0	A patient?!... Wait up!	
 102064	0	Good... Condition...?	
 102066	0	He utters disjointed words, then launches into his own philosophy, and at times even lectures people on the path they should take.<br>Faust's personality broke down after he lost his composure, and aftereffects remain even after he regained calm. His incoherent words and actions continue, but he is caring, kind-hearted, and quite sensible.<br>After an incident returned him to his original resolve of "saving people," his words and actions seem to have grown even more unsettling.	
-102067	0	It was a really sunny day that day.<br>A patient knowing of his upcoming demise of an unknown disease was enjoying his long-deserved vacation.<br>On his walk with a lonesome heart, he tripped over something and heard a voice from somewhere...<br><br>“A patient... I'll save you.”<br><br>The soldier lost all consciousness not even being able to scream with a shock much like a car crash that came along with the voice.<br><br>And who knows how much time had passed...<br><br>“I- It’s weird... My body...!”<br>“I feel so alive! This is almost like...! I have a new life!”	
+102067	0	It was a really sunny day that day.<br>A patient knowing of his upcoming demise of an unknown disease was enjoying his long-deserved vacation.<br>On his walk with a lonesome heart, he tripped over something and heard a voice from somewhere...<br><br>"A patient... I'll save you."<br><br>The soldier lost all consciousness not even being able to scream with a shock much like a car crash that came along with the voice.<br><br>And who knows how much time had passed...<br><br>"I- It's weird... My body...!"<br>"I feel so alive! This is almost like...! I have a new life!"	
 102068	0	Have you heard the rumor?<br>You hear a chilling voice from somewhere, then suddenly lose consciousness and get carried off somewhere...<br><br>When you wake up, you're in better condition than ever.<br>Wonderful, you say? I wouldn't be so sure... Your hair in the mirror has become an afro!	
 103131	0	Lightning the Argent	
 103132	0	About the Relations with Dizzy	
@@ -12669,19 +12669,19 @@ Unkown1	Unkown2	Unkown3
 103141	0	Trick or Treat	
 103142	0	About Sol	
 103143	0	Frequent, current words	
-103145	0	She looks like a cold woman on the outside, but in reality is a manmade entity called “Valentine” and has half of the soul of someone called Aria.<br><br>Her true self isn’t technically born yet, so she sometimes reverts to a child-like disposition when in an unstable environment.<br><br>Because the soul of someone in an older time is in her, she sometimes uses out-of-date phrases.	
+103145	0	She looks like a cold woman on the outside, but in reality is a manmade entity called "Valentine" and has half of the soul of someone called Aria.<br><br>Her true self isn't technically born yet, so she sometimes reverts to a child-like disposition when in an unstable environment.<br><br>Because the soul of someone in an older time is in her, she sometimes uses out-of-date phrases.	
 103146	0	Hm? Why are you so angry?<br>Oh, did he say something strange again?<br>Hehe... Frederick isn't that bad a person.<br>Of course, he does seem to see himself as one.<br>He acts like everything is a hassle and picks a fight with everything you say, so you'd think he's a bad guy, right?<br><br>But in the end he helps the people around him.<br>Isn't that... a little cute?	
-103147	0	Hey, uhm...<br>Are there, like, hip phrases people use here?<br>Oh, why am I asking? Just listen! <br>I was just talking like I normally do yesterday, and apparently I sound old!<br>I know it’s not grown-up to take this to heart or anything, but... It’s still on my mind, you know?<br>So can you teach me some?<br><br>Oh, and of course! You can’t tell anyone; this is a secret, okay?	
+103147	0	Hey, uhm...<br>Are there, like, hip phrases people use here?<br>Oh, why am I asking? Just listen! <br>I was just talking like I normally do yesterday, and apparently I sound old!<br>I know it's not grown-up to take this to heart or anything, but... It's still on my mind, you know?<br>So can you teach me some?<br><br>Oh, and of course! You can't tell anyone; this is a secret, okay?	
 104082	0	Flame of Corruption	
 104083	0	Make friends?	
 104084	0	Peace	
 104086	0	Known as Bounty Hunter in the real world, but known as Flame of Corruption.<br><br>Blunt and bothered by anything in his way, he is quite poor and expressing himself. Expressing himself in actions instead of words, people just accept him the way he is saying that he "can't be helped."	
 104087	0	Acting in a group? Annoying.<br>Not my style.<br><br>Having someone around means more responsibility for me to bear.<br>No thanks.	
 104088	0	Peace really dulls you.<br>You don't get dragged into annoying stuff, and you don't need to use your head.<br><br>Being bored isn't so bad either.	
-104092	0	The blank faced “Valentine”	
+104092	0	The blank faced "Valentine"	
 104093	0	Good Food	
 104094	0	About Emotions	
-104096	0	The entity called “Valentine”, born in the place called the “Backyard” looks like a normal human being.<br><br>Valentine has no feelings and has no feelings of like or dislike other than the mission at hand.<br>She thinks of even her own life as a tool used to complete her mission.<br><br>But it looks as though she has at least some emotions to Ramlethal Valentine.	
+104096	0	The entity called "Valentine", born in the place called the "Backyard" looks like a normal human being.<br><br>Valentine has no feelings and has no feelings of like or dislike other than the mission at hand.<br>She thinks of even her own life as a tool used to complete her mission.<br><br>But it looks as though she has at least some emotions to Ramlethal Valentine.	
 104097	0	This is... a hamburger? You have them here too.<br>We had them in our world.<br>I'd never thought about it before. But I was taught the feeling of warm and delicious.<br>It was the first time I thought there's something besides necessary or unnecessary.	
 104098	0	I'm Valentine, a made existence.<br>I used to move only for my purpose. But now I move on my own feelings.<br>I still don't fully understand emotions, but I'm beginning to understand feeling happy or sad.<br>I'm still practicing my smile. There's someone I want to show my smiling face to.	
 9021270	0	Melodious Aurora	
@@ -12721,9 +12721,9 @@ Unkown1	Unkown2	Unkown3
 39065	0	How to Play	
 39066	0	Quit	
 39042	0	Ranking	
-6100	0	<font color='#FFFFFF'><font size="30">Tip。</font>Defeat up to Ten (10) Screeching Grutons within the Time Limit.	
-6101	0	<font color='#FFFFFF'><font size="30">Tip。</font>Screeching Gruton moves and attacks. (Be Careful~!!)	
-6102	0	<font color='#FFFFFF'><font size="30">Tip。</font>Event Maze Clear Result: It affects the Number of Rewards.	
+6100	0	<font color='#FFFFFF'><font size="30">Tip.</font> Defeat up to Ten (10) Screeching Grutons within the Time Limit.	
+6101	0	<font color='#FFFFFF'><font size="30">Tip.</font> Screeching Gruton moves and attacks. (Be Careful~!!)	
+6102	0	<font color='#FFFFFF'><font size="30">Tip.</font> Event Maze Clear Result: It affects the Number of Rewards.	
 55094	0	Entrance is not possible in this Event District.	
 39022	0	Event Lists	
 39023	0	How to Join	
@@ -12811,7 +12811,7 @@ Unkown1	Unkown2	Unkown3
 710086	0	Go! Prince and Princess	
 9011251	0	Go! Prince and Princess	
 76026	0	Mad Scientist Laboratory	
-82168	0	<br>Recommended: Lv. 81 or Higher<br><br>Death is not the opposite of Life... but a part of it. All for One and One for All.<br>So many pathetic souls... thriving inside me. Yes, I will be the the creator of all new lives.<br>Throughout countless lives and souls... it was finally born. Oh, it’s such a Perfect Climax.	
+82168	0	<br>Recommended: Lv. 81 or Higher<br><br>Death is not the opposite of Life... but a part of it. All for One and One for All.<br>So many pathetic souls... thriving inside me. Yes, I will be the the creator of all new lives.<br>Throughout countless lives and souls... it was finally born. Oh, it's such a Perfect Climax.	
 22322	0	Optimize Game	
 28901	0	You cannot enter because there is no selected Maze.	
 90102	0	Equip Info	
@@ -12835,18 +12835,18 @@ Unkown1	Unkown2	Unkown3
 24998	0	When Using Skills (20% Chance): Attack +{0} for [5sec]	
 24999	0	Successful Critical Hits: Critical DMG +[1250] (Cooldown: 5sec / Max Stack: 4 / Duration: 20sec)	
 11637	0	Evolutionary	
-5999	0	<font color='#FFFFFF'><font size="30">Tip。</font>Must Defeat Vista within the Time Limit (Otherwise... Raid Failed)	
-6000	0	<font color='#FFFFFF'><font size="30">Tip。</font>[Be Cautious] Vista uses her Experimental Results to attack YOU!	
-6001	0	<font color='#FFFFFF'><font size="30">Tip。</font>Vista's Enrage: Unable to Attack Vista / Focus on Avoiding Her Attack	
-6002	0	<font color='#FFFFFF'><font size="30">Tip。</font>Fight with Flemma: Watch out for Close Combat with His Powerful Attacks!	
-6003	0	<font color='#FFFFFF'><font size="30">Tip。</font>Fight with Flemma: Enable to Attack Flemma during his Junk Meteor pattern.	
-6004	0	<font color='#FFFFFF'><font size="30">Tip。</font>Fight with Flemma: Beware of his Counterattacks and Combo Attacks!	
-6005	0	<font color='#FFFFFF'><font size="30">Tip。</font>Attacked by Relfenne → Get Debuff [that<br>explodes when she does a particular action]	
-6006	0	<font color='#FFFFFF'><font size="30">Tip。</font>If Relfenne's Debuff has exploded → Relfenne's HP will be recovered.	
-6007	0	<font color='#FFFFFF'><font size="30">Tip。</font>Must Attack Hard & Keep her Quiet → If Relfenne<br>begins Gathering Energy (and talks about Tenebris...)	
-6008	0	<font color='#FFFFFF'><font size="30">Tip。</font>Defeat alter egos of Vista and Gale that constantly appear.	
-6009	0	<font color='#FFFFFF'><font size="30">Tip。</font>Clear Mazes → Enable to Support Team Members who fight against Vista.	
-6010	0	<font color='#FFFFFF'><font size="30">Tip。</font>Each Maze has a Different Type of Buff that provides when it is Cleared.	
+5999	0	<font color='#FFFFFF'><font size="30">Tip.</font> Must Defeat Vista within the Time Limit (Otherwise... Raid Failed)	
+6000	0	<font color='#FFFFFF'><font size="30">Tip.</font> [Be Cautious] Vista uses her Experimental Results to attack YOU!	
+6001	0	<font color='#FFFFFF'><font size="30">Tip.</font> Vista's Enrage: Unable to Attack Vista / Focus on Avoiding Her Attack	
+6002	0	<font color='#FFFFFF'><font size="30">Tip.</font> Fight with Flemma: Watch out for Close Combat with His Powerful Attacks!	
+6003	0	<font color='#FFFFFF'><font size="30">Tip.</font> Fight with Flemma: Enable to Attack Flemma during his Junk Meteor pattern.	
+6004	0	<font color='#FFFFFF'><font size="30">Tip.</font> Fight with Flemma: Beware of his Counterattacks and Combo Attacks!	
+6005	0	<font color='#FFFFFF'><font size="30">Tip.</font> Attacked by Relfenne → Get Debuff [that<br>explodes when she does a particular action]	
+6006	0	<font color='#FFFFFF'><font size="30">Tip.</font> If Relfenne's Debuff has exploded → Relfenne's HP will be recovered.	
+6007	0	<font color='#FFFFFF'><font size="30">Tip.</font> Must Attack Hard & Keep her Quiet → If Relfenne<br>begins Gathering Energy (and talks about Tenebris...)	
+6008	0	<font color='#FFFFFF'><font size="30">Tip.</font> Defeat alter egos of Vista and Gale that constantly appear.	
+6009	0	<font color='#FFFFFF'><font size="30">Tip.</font> Clear Mazes → Enable to Support Team Members who fight against Vista.	
+6010	0	<font color='#FFFFFF'><font size="30">Tip.</font> Each Maze has a Different Type of Buff that provides when it is Cleared.	
 10188	0	Vile Predator	
 10189	0	Evolving Habitation	
 10190	0	Hall of Flames	
@@ -13024,7 +13024,7 @@ Unkown1	Unkown2	Unkown3
 88094	0	{0} retreated from the Maze [{1}].	
 88095	0	Maze [{0}]: Cleared<br>[{2}] is applied to the Maze [{1}].	
 88096	0	Maze [{0}]: Unlocked	
-88097	0	Boss {0}’s HP: Less Than 50%	
+88097	0	Boss {0}'s HP: Less Than 50%	
 88098	0	[Warning] {0}: Not Much Time Left 	
 52721	0	Failed to Begin [Raid]: Please Join a Squad Group.	
 52722	0	Failed to Begin [Raid]: You are Not a Squad Leader.	
@@ -13111,7 +13111,7 @@ Unkown1	Unkown2	Unkown3
 230491	0	Happy Summer Vacation [Dhana]	
 20311	0	Ghost Sanctuary	
 20312	0	Avoid the light of dawn as it can be lethal to the Kindred of Darkness.	
-20313	0	The name’s {0}. A noble Kin of Darkness indeed. Kneel before me!	
+20313	0	The name's {0}. A noble Kin of Darkness indeed. Kneel before me!	
 710088	0	Happy Summer Vacation	
 710089	0	Happy Summer Vacation (Tanned)	
 9111131	0	Happy Summer Vacation	
@@ -13134,11 +13134,11 @@ Unkown1	Unkown2	Unkown3
 5318	0	You have used all 3 daily character deletions.<br>The character deletion count resets every day at 09:00 JST.	
 43483	0	Blazing Whirlwind Diva Poison	
 43484	0	[M] Poison	
-6204	0	<font color='#FFFFFF'><font size="30">Tip。</font>Gruton Water Park Fiesta matching is available for<br>2 hours starting at 11:00, 18:00, and 21:00 JST every day.	
-6205	0	<font color='#FFFFFF'><font size="30">Tip。</font>You don't need to fear death in Gruton Water Park Fiesta.	
+6204	0	<font color='#FFFFFF'><font size="30">Tip.</font> Gruton Water Park Fiesta matching is available for<br>2 hours starting at 11:00, 18:00, and 21:00 JST every day.	
+6205	0	<font color='#FFFFFF'><font size="30">Tip.</font> You don't need to fear death in Gruton Water Park Fiesta.	
 10200	0	Gruton Water Park Fiesta	
 15064	0	Enjoy a water gun fight at the Gruton Water Park Fiesta!	
-10702	0	- Gruton Water Park Fiesta is a PvP mode<br>　for up to 8 players.<br>- Dedicated PvP skills are used in the event.<br>- Matching is random, and<br>　you cannot change skills or swap items<br>　while matching.<br>- The event can be entered from 11:00, 18:00,<br>　and 21:00 JST each day, and you can take part for<br>　2 hours from each time.<br>- There is no daily participation limit or reward limit.	
+10702	0	- Gruton Water Park Fiesta is a PvP mode<br> for up to 8 players.<br>- Dedicated PvP skills are used in the event.<br>- Matching is random, and<br> you cannot change skills or swap items<br> while matching.<br>- The event can be entered from 11:00, 18:00,<br> and 21:00 JST each day, and you can take part for<br> 2 hours from each time.<br>- There is no daily participation limit or reward limit.	
 60580	0	Loading...<br>The Water Park Fiesta starts once loading is complete.	
 60581	0	Loading...<br>The Battle Room starts once loading is complete.	
 60582	0	Waiting for Match	
@@ -13250,7 +13250,7 @@ Unkown1	Unkown2	Unkown3
 110030	0	F9: Apply CD Reset Buff	
 110031	0	F10: Apply Reg. Buff	
 110032	0	F11: Remove Buff	
-110033	0	F12：Start/End	
+110033	0	F12: Start/End	
 9111133	0	Ghost Sanctuary	
 20295	0	Lady & Lord Fairytale	
 20296	0	GPX Punk Racer	
@@ -13300,10 +13300,10 @@ Unkown1	Unkown2	Unkown3
 10698	0	Collateral Damage [Party]	
 10699	0	Collateral Damage [Expert]	
 10700	0	Collateral Damage [Ranking]	
-6200	0	<font color='#FFFFFF'><fontsize="30">Tip。</font>If you do not defeat Belletto within the time limit, you cannot enter Phase 2.	
-6201	0	<font color='#FFFFFF'><fontsize="30">Tip。</font>You can avoid Belletto's jump attack by jumping along with him.	
-6202	0	<font color='#FFFFFF'><fontsize="30">Tip。</font>The more of one of Belletto's attacks you take, the more the damage is split.	
-6203	0	<font color='#FFFFFF'><fontsize="30">Tip。</font>When enemies are far away, Belletto always uses wide-area attacks.	
+6200	0	<font color='#FFFFFF'><fontsize="30">Tip.</font> If you do not defeat Belletto within the time limit, you cannot enter Phase 2.	
+6201	0	<font color='#FFFFFF'><fontsize="30">Tip.</font> You can avoid Belletto's jump attack by jumping along with him.	
+6202	0	<font color='#FFFFFF'><fontsize="30">Tip.</font> The more of one of Belletto's attacks you take, the more the damage is split.	
+6203	0	<font color='#FFFFFF'><fontsize="30">Tip.</font> When enemies are far away, Belletto always uses wide-area attacks.	
 39067	0	Collateral Damage [Hard] Phase 2 Clear	
 39068	0	{0}	
 20912	0	Successful Critical Hits: More DMG to Boss / Named +[2%] (Cooldown: 1sec / Max Stack: 20 / Reset on Death)	
@@ -13379,10 +13379,10 @@ Unkown1	Unkown2	Unkown3
 230560	0	Joyful Winter Skiwear [Dhana]	
 710092	0	Joyful Winter Skiwear	
 120076	0	What the hell is Belletto doing!	
-120077	0	Bow down before QuadStella TriSilva’s Lugman! 	
+120077	0	Bow down before QuadStella TriSilva's Lugman! 	
 120078	0	What are you looking at? Am I really that gorgeous?	
 104102	0	Star of Information	
-104106	0	That’s right. I’m the one and only... <br>QuadStella TriSilva’s Fourth Star, Lugman! <br><br>Huh? What’s with that expression?! <br>Looks like you’re shocked at something you weren’t expecting? <br><br>Let me guess what you want to say right now. <br>“Who knew the Star of Information would be a tiny kid like this?”<br>Right? <br><br>Haha, all idiots think alike! <br><br>I’m warning you; don’t judge me by how I look!<br>If not, you’ll see what I’m capable of~ <br>And you’ll be sorry!!	
+104106	0	That's right. I'm the one and only... <br>QuadStella TriSilva's Fourth Star, Lugman! <br><br>Huh? What's with that expression?! <br>Looks like you're shocked at something you weren't expecting? <br><br>Let me guess what you want to say right now. <br>"Who knew the Star of Information would be a tiny kid like this?"<br>Right? <br><br>Haha, all idiots think alike! <br><br>I'm warning you; don't judge me by how I look!<br>If not, you'll see what I'm capable of~ <br>And you'll be sorry!!	
 104103	0	Orca Intelligence Unit	
 104107	0	Orca, the intelligence unit, is the Starry Forest League's finest elite unit!<br><br>Led by Belletto,<br>everyone in the unit swears loyalty to me.<br><br>Of course it's number one in the Starry Forest League, right?<br><br>What? Orca's idol? Me?<br><br>What are you saying all of a sudden! Nobody even knows my face,<br>so there's no way I'd be an idol...<br><br>Wait a minute! What is this weird fan site!<br>Belletto, what on earth did you...!	
 104104	0	Belletto	
@@ -13418,11 +13418,11 @@ Unkown1	Unkown2	Unkown3
 40668	0	Using the EX Skill will increase RaphaKumba's attack power by 50% for 60 seconds.	
 43487	0	Melancholic Wish of Justice Tenebris	
 43488	0	[M] Tenebris	
-6212	0	<font color='#FFFFFF'><font size="30">Tip。</font> Violent Sun Hero consists of a total of 2 phases.	
-6213	0	<font color='#FFFFFF'><font size="30">Tip。</font> In <font color='#FF0033'>Phase 1</font>, when Flemma's HP drops below 50%, it summons <font color='#00ff9c'>[3 pillars]</font>.	
-6214	0	<font color='#FFFFFF'><font size="30">Tip。</font>Flemma will use a powerful skill when he teleports<br>and gathers Energy, so you must focus on your survival.	
-6215	0	<font color='#FFFFFF'><font size="30">Tip。</font>In the case that Flemma is after you, lure him toward <font color='#FF0033'>The Destroyed Highway</font>.	
-6216	0	<font color='#FFFFFF'><font size="30">Tip。</font> Anasyth resurrects 4 seconds after death.	
+6212	0	<font color='#FFFFFF'><font size="30">Tip.</font> Violent Sun Hero consists of a total of 2 phases.	
+6213	0	<font color='#FFFFFF'><font size="30">Tip.</font> In <font color='#FF0033'>Phase 1</font>, when Flemma's HP drops below 50%, it summons <font color='#00ff9c'>[3 pillars]</font>.	
+6214	0	<font color='#FFFFFF'><font size="30">Tip.</font> Flemma will use a powerful skill when he teleports<br>and gathers Energy, so you must focus on your survival.	
+6215	0	<font color='#FFFFFF'><font size="30">Tip.</font> In the case that Flemma is after you, lure him toward <font color='#FF0033'>The Destroyed Highway</font>.	
+6216	0	<font color='#FFFFFF'><font size="30">Tip.</font> Anasyth resurrects 4 seconds after death.	
 10718	0	The [Violent Sun Hero], which becomes stronger and undergoes changed patterns, becomes difficult to strategize if not well coordinated with party members.	
 41030	0	POWER is what matters! And then… MORE POWER! And lastly, EVEN MORE POWER!	
 41031	0	It's hot, isn't it? Strip off even your skin and you'll feel better.<br>I'll burn it all to ashes.	
@@ -13613,7 +13613,7 @@ Unkown1	Unkown2	Unkown3
 1430	0	Overclocks	
 1431	0	{0} has successfully overclocked {1} {2}.	
 1467	0	Item Overclock has failed.<br>Due to the failure in overclocking, the target item has entered a meltdown state.	
-1471	0	When Overclock fails, the item's grade may decrease or it may enter a [Meltdown] state.<br>Would you like to proceed with Overclocking this item?<br><br>Using a [Meltdown Protection Device] will prevent the item from entering a [Meltdown] state.<br><font color='#A566FF'>- However, even with a protection device, the item’s grade may still decrease if Overclock fails.</font>	
+1471	0	When Overclock fails, the item's grade may decrease or it may enter a [Meltdown] state.<br>Would you like to proceed with Overclocking this item?<br><br>Using a [Meltdown Protection Device] will prevent the item from entering a [Meltdown] state.<br><font color='#A566FF'>- However, even with a protection device, the item's grade may still decrease if Overclock fails.</font>	
 1472	0	When restoring a Meltdown item, the item used as the restoration cost is consumed.<br>Restore the Meltdown item?	
 1473	0	Please select an item	
 10800	0	Hidden Hideout Hero [Ranking]	
@@ -13635,33 +13635,33 @@ Unkown1	Unkown2	Unkown3
 40979	0	Insects like you dare to buzz around me?!<br>Die with this!!	
 40980	0	You... you are? What the hell is this??	
 40981	0	Has that filthy druggie come wagging their tail again?	
-40982	0	I don’t know what’s going on, but  <br>I’ll support you for now!	
+40982	0	I don't know what's going on, but  <br>I'll support you for now!	
 40983	0	Against this kind of trash...  <br>I...	
 40984	0	Tene...bris...	
-40985	0	You’re just the same trash.<br>Just die already!	
+40985	0	You're just the same trash.<br>Just die already!	
 40986	0	Aaaaagh!!	
 40987	0	Instead of a useless toy,<br>I, the real thing, will play with you.	
 40988	0	How pathetic. Losing to someone like that.	
-40989	0	I’ll decide their fate myself.	
+40989	0	I'll decide their fate myself.	
 40990	0	Weak trash dares to... perish!	
 40991	0	Now's the time!	
 40992	0	Damn it, you cowardly SoulWorker!	
-40993	0	You lot... it’s been a while.	
+40993	0	You lot... it's been a while.	
 40994	0	Is this a gathering of cowards and losers?	
-40995	0	No more useless toys.<br>I’ll deal with you myself.	
+40995	0	No more useless toys.<br>I'll deal with you myself.	
 40996	0	Sorry, but I must ask again.<br>This time, for sure...	
-40997	0	Miriam, we’re a distraction.<br>Let’s get out of the way.	
+40997	0	Miriam, we're a distraction.<br>Let's get out of the way.	
 40998	0	… Alright.	
 40999	0	Get lost!	
 48500	0	Aaaagh!	
-48501	0	Now it’s time to bring you to justice!	
+48501	0	Now it's time to bring you to justice!	
 48502	0	This is the power of invincibility!	
 48503	0	My power... my power is draining?!	
 48504	0	Foolish woman.	
 48505	0	The power surges back again!	
 48506	0	Hurry, move this way!	
-48507	0	Judging by your state, you’ll be crossing the rainbow bridge soon.	
-48508	0	I’ll kill you filthy SoulWorkers one by one.	
+48507	0	Judging by your state, you'll be crossing the rainbow bridge soon.	
+48508	0	I'll kill you filthy SoulWorkers one by one.	
 48509	0	Weaklings like you are insignificant beings who return to nothingness in death.	
 48510	0	Only the strong can carve the correct path forward.	
 48511	0	Support coordinates received! The Air Force will assist with full power!	
@@ -13670,13 +13670,13 @@ Unkown1	Unkown2	Unkown3
 48514	0	With your kind of power, you can achieve nothing.	
 48515	0	This ends now.	
 48516	0	What incredible power! Let me help!	
-48517	0	Miriam! Don’t get involved!	
-48518	0	No! I’ll protect everyone!	
+48517	0	Miriam! Don't get involved!	
+48518	0	No! I'll protect everyone!	
 48519	0	Aaaagh!	
 48520	0	Tenebris!	
 48521	0	Why have you withdrawn your power...?	
 48522	0	Cough...	
-48523	0	…。	
+48523	0	…	
 48524	0	A fleeting memory...	
 48525	0	Disappear... SoulWorker from another world... This is my final mercy.	
 48526	0	And... Kent is... Ugh!	
@@ -13684,15 +13684,15 @@ Unkown1	Unkown2	Unkown3
 48528	0	...Will we be happy in another world...?	
 48529	0	Hahaha, you foolish SoulWorkers!	
 48530	0	This is the end!	
-48531	0	Original! I’m here to help!	
-48532	0	Yay! I’m here too!	
+48531	0	Original! I'm here to help!	
+48532	0	Yay! I'm here too!	
 48533	0	In this serious battle... Original! Attack Tenebris quickly!	
-48534	0	I’ll heal you! Hang in there a little longer!	
+48534	0	I'll heal you! Hang in there a little longer!	
 48535	0	May this little effort be of help...	
 48536	0	Grrraaaagh!	
 48537	0	Damn it, my power is draining!	
 48538	0	The rest is up to you.	
-48539	0	Finally, it’s time to enjoy the game.	
+48539	0	Finally, it's time to enjoy the game.	
 48540	0	Orange.	
 48541	0	Blue.	
 48542	0	Green.	
@@ -13702,26 +13702,26 @@ Unkown1	Unkown2	Unkown3
 10902	0	Tragedy Fairy [Guide]	
 10903	0	Tragedy Fairy [Solo]	
 10904	0	Tragedy Fairy [Party]	
-48544	0	Activate the Temptation Stones simultaneously. It’ll catch the distracted one off guard.	
+48544	0	Activate the Temptation Stones simultaneously. It'll catch the distracted one off guard.	
 48545	0	Damn it, all units retreat!	
 48546	0	Sieg Proto is initiating an omni-directional self-destruction!	
-48547	0	It’s activated! Finish this quickly!	
+48547	0	It's activated! Finish this quickly!	
 10725	0	Broken Savior Hero [Party]	
 89021	0	* Required Soul Retention: 400<br>* Broken Savior: Hero [Party] is a 4-player weekly raid.<br><br>Having won the battle against the SoulWorkers, Tenebris eliminated the weak under his creed that "power is justice."<br>It is a world where those who could not accept Desire Energy were removed and only his worshippers survived.<br><br>The survivors organized a resistance against Tenebris,<br>but after losing the SoulWorkers, their strongest force, the situation is dire.<br><br>Then one day... the SoulWorkers who should have died appear before Tenebris.	
-48548	0	The justice you sought to protect... is this all you’ve got? Come on, struggle a little more.	
-48549	0	Hahahahaha! You’re so incredibly slow.	
+48548	0	The justice you sought to protect... is this all you've got? Come on, struggle a little more.	
+48549	0	Hahahahaha! You're so incredibly slow.	
 48550	0	0	
 48551	0	0	
-48552	0	Breaking Jeremy’s pattern increases all players’ damage dealt.	
-48553	0	Breaking Tenebris’s pattern increases all players’ damage dealt.	
+48552	0	Breaking Jeremy's pattern increases all players' damage dealt.	
+48553	0	Breaking Tenebris's pattern increases all players' damage dealt.	
 48554	0	Tene...bris...	
 48555	0	Everything will dissolve into darkness.	
 48556	0	All will vanish, enveloped by light.	
 48557	0	If you cannot distinguish lies, you will be unable to move forward.	
-6217	0	<font color='#FFFFFF'><font size="30">Tip。</font> Broken Savior Hero consists of a total of 5 phases.	
-6218	0	<font color='#FFFFFF'><font size="30">Tip。</font> Breaking certain <font color='#FF0033'>Boss Mechanic</font> will summon a <font color='#00ff9c'>[special NPC]</font> to assist you.	
-6219	0	<font color='#FFFFFF'><font size="30">Tip。</font> If Relfenne charges at you, you must guide it toward the <font color='#FF0033'>central orb</font>.	
-6220	0	<font color='#FFFFFF'><font size="30">Tip。</font> Be cautious of your distance when fighting Tenebris's clone.	
+6217	0	<font color='#FFFFFF'><font size="30">Tip.</font> Broken Savior Hero consists of a total of 5 phases.	
+6218	0	<font color='#FFFFFF'><font size="30">Tip.</font> Breaking certain <font color='#FF0033'>Boss Mechanic</font> will summon a <font color='#00ff9c'>[special NPC]</font> to assist you.	
+6219	0	<font color='#FFFFFF'><font size="30">Tip.</font> If Relfenne charges at you, you must guide it toward the <font color='#FF0033'>central orb</font>.	
+6220	0	<font color='#FFFFFF'><font size="30">Tip.</font> Be cautious of your distance when fighting Tenebris's clone.	
 48558	0	How unsightly, scurrying around in groups. The balance of power must be maintained.	
 48559	0	If it takes so many of you just to deal with a mere clone... you're no longer worth my time.	
 48560	0	Guh! Once more!	
@@ -13803,7 +13803,7 @@ Unkown1	Unkown2	Unkown3
 9111140	0	Another Justice Wings	
 48563	0	Looking at this, it seems the rainbow bridge will be crossed once again.	
 48564	0	I'll carefully start by cutting off the tails of those filthy SoulWorkers.	
-48565	0	I won’t let you get away with disturbing the time between Tenebris and me after coming this far. With the power given by Tenebris, I will definitely...	
+48565	0	I won't let you get away with disturbing the time between Tenebris and me after coming this far. With the power given by Tenebris, I will definitely...	
 37065	0	Expert Raid	
 10910	0	* Required Soul Retention: 400<br>* Broken Savior: Hero [EX] is a 4-player Expert raid.<br><br>Having won the battle against the SoulWorkers, Tenebris eliminated the weak under his creed that "power is justice."<br>It is a world where those who could not accept Desire Energy were removed and only his worshippers survived.<br><br>The survivors organized a resistance against Tenebris,<br>but after losing the SoulWorkers, their strongest force, the situation is dire.<br><br>Then one day... the SoulWorkers who should have died appear before Tenebris.	
 76	0	Personal Storage	
@@ -13837,7 +13837,7 @@ Unkown1	Unkown2	Unkown3
 10914	0	Reckless Bravery	
 10915	0	Inner Peace	
 41863	0	You're not real. Your body is just a copy of Aruel's, and your emotions are fake.<br>So then, what are you, really?	
-41864	0	Don't pretend to be human.<br>You’re not someone who should wear that kind of expression, are you?	
+41864	0	Don't pretend to be human.<br>You're not someone who should wear that kind of expression, are you?	
 41865	0	They didn't like you.<br>They liked the "human-like you".	
 41866	0	You were always alone.<br>Too busy pretending to belong, to play along.	
 41867	0	So… all the choices you've made until now—<br>do you really believe they were your own?	
@@ -14132,7 +14132,7 @@ Unkown1	Unkown2	Unkown3
 20348	0	Bring it on! Deploy the Protector!	
 20349	0	Bring it on! Deploy the Protector!	
 23218	0	Last Origin Rampalion	
-23219	0	Here I go! Hah!<br><br>There’s no change to combat abilities, but you can show off a look that perfectly suits this special costume.	
+23219	0	Here I go! Hah!<br><br>There's no change to combat abilities, but you can show off a look that perfectly suits this special costume.	
 43585	0	Lugman	
 43586	0	Leader of Orca, Lugman	
 43587	0	Rebellious Star Lugman	
@@ -14167,7 +14167,7 @@ Unkown1	Unkown2	Unkown3
 41903	0	I wonder if the others were stupid enough to show all of this.<br>All you need to do is hack the system~	
 41904	0	Tch, already caught?	
 41905	0	Get ready~ Shoot!	
-41906	0	You’re not the only ones who can stop time~	
+41906	0	You're not the only ones who can stop time~	
 41907	0	Test your luck!	
 41908	0	If you fall, you might actually die?	
 41909	0	Shall I read you a fairy tale?	
@@ -14177,18 +14177,18 @@ Unkown1	Unkown2	Unkown3
 41913	0	The Queen appears!	
 41914	0	Praise me!	
 41915	0	Nice view, huh?	
-41916	0	Looks like you can’t revive now~?	
-41917	0	Going to fight me alone?<br>Try again, why don’t you?	
-41918	0	If things go wrong, there’s a secret trick!<br>Summon the Checkmate Colossus!	
+41916	0	Looks like you can't revive now~?	
+41917	0	Going to fight me alone?<br>Try again, why don't you?	
+41918	0	If things go wrong, there's a secret trick!<br>Summon the Checkmate Colossus!	
 41919	0	Not bad?	
-41920	0	Aren’t you terrible at this?<br>Maybe check a strategy guide?	
-41921	0	Did you really think I’d honestly show attack ranges?<br>So naive!	
-41922	0	Aaaah…! You’re dying!!<br>Did you expect that?	
+41920	0	Aren't you terrible at this?<br>Maybe check a strategy guide?	
+41921	0	Did you really think I'd honestly show attack ranges?<br>So naive!	
+41922	0	Aaaah…! You're dying!!<br>Did you expect that?	
 41923	0	Health values can just be adjusted.	
-41924	0	Well, I won’t make it too hard for you if you can’t even clear this easy tutorial!	
+41924	0	Well, I won't make it too hard for you if you can't even clear this easy tutorial!	
 41925	0	I tweaked the attack pattern code during maintenance.<br>Need to update the strategy guide?	
-41926	0	Now that you’re used to this, I can strengthen the attack patterns.	
-41927	0	Aren’t you terrible at this?<br>Why not check a strategy guide? (smirk)	
+41926	0	Now that you're used to this, I can strengthen the attack patterns.	
+41927	0	Aren't you terrible at this?<br>Why not check a strategy guide? (smirk)	
 41928	0	Where is the monster data…	
 41929	0	Found it!	
 41930	0	Everything will disappear in light~	
@@ -14289,20 +14289,20 @@ Unkown1	Unkown2	Unkown3
 10953	0	* Required Soul Retention: 1300<br><br>A Maze where you attack a giant Gruton.<br><br>Approach the giant Gruton and interact with it to begin.	
 710210	0	Harmony of Gun Jazz	
 5162	0	You have been promoted to <GunJazz of Harmony>.	
-41942	0	This place feels a bit cramped, doesn’t it?	
+41942	0	This place feels a bit cramped, doesn't it?	
 41943	0	What… did you just say?	
-41944	0	Isn’t it cramped?	
+41944	0	Isn't it cramped?	
 41945	0	No… before that…	
 41946	0	Kind of… spa…?	
 41947	0	Uwaaaah	
-41948	0	It’s cramped, move aside!	
+41948	0	It's cramped, move aside!	
 41949	0	What… did you just say?	
-41950	0	It’s cramped!	
+41950	0	It's cramped!	
 41951	0	No… after that…	
 41952	0	Secret Subject	
 41953	0	It is said that a new experiment record conducted before Vista went berserk has been discovered…	
 41954	0	Something is over there!	
-41955	0	…。	
+41955	0	…	
 19866	0	Swallow Bullet	
 19867	0	Belletto Straight	
 19868	0	Satellite	
@@ -14318,8 +14318,8 @@ Unkown1	Unkown2	Unkown3
 710141	0	Last Origin: Constantia S2	
 710142	0	Last Origin: Fenrir	
 710143	0	Last Origin: Moonbit 	
-20356	0	The objective is extermination. If you follow my orders, there won’t be any problems.	
-20357	0	The objective is extermination. If you follow my orders, there won’t be any problems.	
+20356	0	The objective is extermination. If you follow my orders, there won't be any problems.	
+20357	0	The objective is extermination. If you follow my orders, there won't be any problems.	
 20350	0	Bori, come here~	
 20351	0	Bori, come here~	
 20352	0	Do I not need to wear a leash today?	
@@ -14333,18 +14333,18 @@ Unkown1	Unkown2	Unkown3
 710148	0	Last Origin: Constantia II	
 41721	0	Log in	
 41722	0	Another energetic day	
-41723	0	Clear “Garden of Plenty” 1 time	
+41723	0	Clear "Garden of Plenty" 1 time	
 41724	0	Shall I warm up a bit?	
-41725	0	Clear “Tragedy Fairy” 3 times	
+41725	0	Clear "Tragedy Fairy" 3 times	
 41726	0	Fairy of Tragedy	
-41727	0	Clear “Vile Predator” 3 times	
+41727	0	Clear "Vile Predator" 3 times	
 41728	0	Unpleasant Predator	
-41729	0	Clear “Collateral Damage” 3 times	
+41729	0	Clear "Collateral Damage" 3 times	
 41730	0	Collateral Damage	
-41731	0	Clear “Golden Labyrinth” 2 times	
+41731	0	Clear "Golden Labyrinth" 2 times	
 41732	0	Golden Labyrinth	
 41733	0	Feeling a little looser?	
-41734	0	I’ll only take half of your FP	
+41734	0	I'll only take half of your FP	
 10960	0	City that Lost Its Light	
 10961	0	Ominous Resonance	
 10962	0	Restricted Area	
@@ -14502,9 +14502,9 @@ Unkown1	Unkown2	Unkown3
 41957	0	I'll snap your neck!!	
 41958	0	I can't fall here... If not me, then who will protect them...?	
 41959	0	Hahahahaha! Hahaha! Haha!	
-6223	0	<font color='#FFFFFF'><font size="30">Tip.</font>You can only survive certain skills used by Fisto by destroying his <font color='#FF0033'>Super Armor</font>.	
-6224	0	<font color='#FFFFFF'><font size="30">Tip.</font>Keep an eye on Fisto's clone while it is <font color='#FF0033'>warming up</font>!	
-6225	0	<font color='#FFFFFF'><font size="30">Tip.</font>Certain attacks can be avoided by <font color='#ffc90e'>jumping</font>.	
+6223	0	<font color='#FFFFFF'><font size="30">Tip.</font> You can only survive certain skills used by Fisto by destroying his <font color='#FF0033'>Super Armor</font>.	
+6224	0	<font color='#FFFFFF'><font size="30">Tip.</font> Keep an eye on Fisto's clone while it is <font color='#FF0033'>warming up</font>!	
+6225	0	<font color='#FFFFFF'><font size="30">Tip.</font> Certain attacks can be avoided by <font color='#ffc90e'>jumping</font>.	
 1000002	0	Cooldown -{0}%	
 1000003	0	Attack Speed +{0}%	
 1000004	0	Attack Range +{0}%	
