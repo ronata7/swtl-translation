@@ -190,7 +190,7 @@ Unkown1	Unkown2
 10500013	Empty Space	
 10500014	Unfinished Big Puppet	
 10600001	Python	
-10600002	Pistol	
+10600002	Fisto	
 10600003	Steel	
 10600004	Beast Fang	
 10600005	Chaser	
@@ -204,7 +204,7 @@ Unkown1	Unkown2
 10600017	Chains_04	
 10600018	Chains_05	
 10600019	Wild Beak	
-10600020	Elite Pistol	
+10600020	Elite Fisto	
 10600021	Elite Chaser	
 10600022	Elite Python	
 10600023	Elite Steel	
@@ -263,7 +263,7 @@ Unkown1	Unkown2
 10900017	Spider	
 10900018	Spider Zero	
 10900019	Blade Wolf	
-10900020	Sieg Proto	
+10900020	Siege Proto	
 10900021	War Solver	
 10900022	Splinter	
 10900023	Splinter Zero	
@@ -328,13 +328,13 @@ Unkown1	Unkown2
 10900082	Mad Beholder	
 10900083	Wild Beak	
 10900084	Assault Squad Beast Fang	
-10900085	Assault Squad Pistol	
+10900085	Assault Squad Fisto	
 10900086	Assault Squad Summoner	
 10900087	Assault Squad Steel	
 10900088	Scar	
 10900089	Toxic Hornet	
 10900090	Special Forces Beast Fang	
-10900091	Special Forces Pistol	
+10900091	Special Forces Fisto	
 10900092	Special Forces Chaser	
 10900093	Special Forces Python	
 10900094	Special Forces Steel	
@@ -367,7 +367,7 @@ Unkown1	Unkown2
 10900121	Gatling Turret	
 10900122	Mass Produced Drone	
 10900123	Search Squad Elite Summoner	
-10900124	Search Squad Elite Pistol	
+10900124	Search Squad Elite Fisto	
 10900125	Mass Produced NED Punisher	
 10900126	Mass Produced NED Firelord	
 10900127	Search Squad Elite Steel	
@@ -378,7 +378,7 @@ Unkown1	Unkown2
 10900132	Improved Auto Firelord	
 10900133	Improved Auto Punisher	
 10900134	Improved Earthquaker	
-10900135	Sieg Proto	
+10900135	Siege Proto	
 10900136	Reinforced Spider Zero	
 10900137	Reinforced Auto Punisher	
 10900138	Reinforced Auto Firelord	
@@ -391,7 +391,7 @@ Unkown1	Unkown2
 10900145	Combat Ghost	
 10900146	Combat Domineer Zero	
 10900147	Combat Iron Worm	
-10900148	Combat Sprinter	
+10900148	Combat Splinter	
 10900149	Combat Cut-throat	
 10900150	Combat Dig Monster	
 10900151	Enoch	
@@ -420,7 +420,7 @@ Unkown1	Unkown2
 10900174	Mutated Infected S-01	
 10900175	Special Drone	
 10900176	Annihilation Squad Elite Summoner	
-10900177	Annihilation Squad Elite Pistol	
+10900177	Annihilation Squad Elite Fisto	
 10900178	Special-Type Punisher	
 10900179	Special-Type Firelord	
 10900180	Annihilation Squad Elite Steel	
@@ -428,7 +428,7 @@ Unkown1	Unkown2
 10900182	Rampant Ghost	
 10900183	Rampant Domineer Zero	
 10900184	Rampant Iron Worm	
-10900185	Rampant Sprinter	
+10900185	Rampant Splinter	
 10900186	Rampant Cut-throat	
 10900187	Rampant Dig Monster	
 10900188	Equilibrium_Eternity	
@@ -475,7 +475,7 @@ Unkown1	Unkown2
 10900229	Mirror Edgar	
 10900230	Mirror Asphalt Golem	
 10900231	Mirror Junk Knight	
-10900232	Mirror Archness	
+10900232	Mirror Arachness	
 10900233	Mirror Mad Beholder	
 10900234	Mirror Amaryllis	
 10900235	Mirror Small Cell	
@@ -700,7 +700,7 @@ Unkown1	Unkown2
 10900454	Mirror Meltiness Cell	
 10900455	Mirror Duke Spider	
 10900456	Mirror Duke Spider	
-10900457	Mirror Archness	
+10900457	Mirror Arachness	
 10900458	Crystal Cube A	
 10900459	Crystal Cube B	
 10900460	Crystal Cube D	
@@ -767,25 +767,25 @@ Unkown1	Unkown2
 10900521	Heidinger	
 10900522	Mirror Red Hood	
 10900523	Mirror Wild Beak	
-10900524	Mirror Pistol	
+10900524	Mirror Fisto	
 10900525	Mirror Red Hood	
-10900526	Mirror Pistol	
+10900526	Mirror Fisto	
 10900527	Mirror Steel	
 10900528	Mirror Red Hood	
 10900529	Mirror Wild Beak	
 10900530	Mirror Beast Fang	
-10900531	Mirror Pistol	
+10900531	Mirror Fisto	
 10900532	Mirror Steel	
 10900533	Mirror Black Gauntlet	
 10900534	Mirror Red Hood	
 10900535	Mirror Wild Beak	
 10900536	Mirror Beast Fang	
-10900537	Mirror Pistol	
+10900537	Mirror Fisto	
 10900538	Mirror Steel	
 10900539	Mirror Armored Steel	
 10900540	Mirror Red Hood	
 10900541	Mirror Beast Fang	
-10900542	Mirror Pistol	
+10900542	Mirror Fisto	
 10900543	Mirror Steel	
 10900544	Mirror Black Gauntlet	
 10900545	Mirror Hell Enforcer	
@@ -795,7 +795,7 @@ Unkown1	Unkown2
 10900549	Mirror Intensive Garura	
 10900550	Mirror Summoner	
 10900551	Mirror Beast Fang	
-10900552	Mirror Pistol	
+10900552	Mirror Fisto	
 10900553	Mirror Steel	
 10900554	Mirror Intensive Garura	
 10900555	Mirror Summoner	
@@ -1457,40 +1457,40 @@ Unkown1	Unkown2
 30301101	Red Hood	
 30301102	Wild Beak	
 30301103	Beast Fang	
-30301104	Pistol	
+30301104	Fisto	
 30301105	Steel	
 30301106	Black Gauntlet	
 30301201	Red Hood	
 30301202	Wild Beak	
 30301203	Beast Fang	
-30301204	Pistol	
+30301204	Fisto	
 30301205	Steel	
 30301206	Armored Steel	
 30301301	Red Hood	
 30301302	Wild Beak	
 30301303	Beast Fang	
-30301304	Pistol	
+30301304	Fisto	
 30301305	Steel	
 30301306	Hell Enforcer	
 30301307	Red Hood	
 30301308	Wild Beak	
 30301309	Beast Fang	
-30301310	Pistol	
+30301310	Fisto	
 30301311	Steel	
-30301312	Elite Pistol	
+30301312	Elite Fisto	
 30301313	Hell Enforcer	
 30301401	Red Hood	
 30301402	Wild Beak	
 30301403	Beast Fang	
-30301404	Pistol	
+30301404	Fisto	
 30301405	Steel	
 30301406	Scar	
 30301407	Red Hood	
 30301408	Wild Beak	
 30301409	Beast Fang	
-30301410	Pistol	
+30301410	Fisto	
 30301411	Steel	
-30301412	Elite Pistol	
+30301412	Elite Fisto	
 30301413	Scar	
 30302101	Crawler	
 30302102	Intensive Garura	
@@ -1728,7 +1728,7 @@ Unkown1	Unkown2
 30401406	Earthquaker	
 30401407	Heavy Sentry	
 30401408	Splinter Zero	
-30401409	Sieg Proto	
+30401409	Siege Proto	
 30402101	E-Deliver	
 30402102	Tracker	
 30402103	Hammer Head	
@@ -1841,7 +1841,7 @@ Unkown1	Unkown2
 30404307	Auto Firelord	
 30404308	Earthquaker	
 30404309	Splinter	
-30404310	Heavy Sieg Proto	
+30404310	Heavy Siege Proto	
 30404401	E-Deliver	
 30404402	Tracker	
 30404403	Hammer Head	
@@ -1964,7 +1964,7 @@ Unkown1	Unkown2
 30407306	Earthquaker	
 30407307	Auto Punisher	
 30407308	Auto Firelord	
-30407309	Full-Armed Sieg Proto	
+30407309	Full-Armed Siege Proto	
 30407401	E-Deliver	
 30407402	Tracker	
 30407403	Hammer Head	
@@ -1990,7 +1990,7 @@ Unkown1	Unkown2
 31303131	Phantom Shadow	
 31303509	Rapid Gate	
 31303510	Fallen Container	
-31304137	Sieg Proto Zero	
+31304137	Siege Proto Zero	
 31304503	Base Defense Core	
 31304504	Portable Drill	
 31304505	Block Gate	
@@ -2413,7 +2413,7 @@ Unkown1	Unkown2
 31312147	Luminous Junk Cocoon	
 31312148	Luminous Junk Cocoon	
 31312149	Luminous Spider Cocoon	
-31312150	Luminous Shelter Cocoon	
+31312150	Luminous Eerie Cocoon	
 31312151	Luminous EMP Mine	
 31312152	Luminous Bombing Guidance Kits	
 31312153	Luminous Charger	
@@ -2480,7 +2480,7 @@ Unkown1	Unkown2
 31322147	Malicious Junk Cocoon	
 31322148	Malicious Junk Cocoon	
 31322149	Malicious Spider Cocoon	
-31322150	Malicious Shelter Cocoon	
+31322150	Malicious Eerie Cocoon	
 31322151	Malicious EMP Mine	
 31322152	Malicious Bombing Guidance Kits	
 31322153	Malicious Charger	
@@ -2547,7 +2547,7 @@ Unkown1	Unkown2
 31332147	Apathetic Junk Cocoon	
 31332148	Apathetic Junk Cocoon	
 31332149	Apathetic Spider Cocoon	
-31332150	Apathetic Shelter Cocoon	
+31332150	Apathetic Eerie Cocoon	
 31332151	Apathetic EMP Mine	
 31332152	Apathetic Bombing Guidance Kits	
 31332153	Apathetic Charger	
@@ -2614,7 +2614,7 @@ Unkown1	Unkown2
 31342147	Hateful Junk Cocoon	
 31342148	Hateful Junk Cocoon	
 31342149	Hateful Spider Cocoon	
-31342150	Hateful Shelter Cocoon	
+31342150	Hateful Eerie Cocoon	
 31342151	Hateful EMP Mine	
 31342152	Hateful Bombing Guidance Kits	
 31342153	Hateful Charger	
@@ -2681,7 +2681,7 @@ Unkown1	Unkown2
 31352147	Curative Junk Cocoon	
 31352148	Curative Junk Cocoon	
 31352149	Curative Spider Cocoon	
-31352150	Curative Shelter Cocoon	
+31352150	Curative Eerie Cocoon	
 31352151	Curative EMP Mine	
 31352152	Curative Bombing Guidance Kits	
 31352153	Curative Charger	
@@ -2748,7 +2748,7 @@ Unkown1	Unkown2
 31362147	Tormented Junk Cocoon	
 31362148	Tormented Junk Cocoon	
 31362149	Tormented Spider Cocoon	
-31362150	Tormented Shelter Cocoon	
+31362150	Tormented Eerie Cocoon	
 31362151	Tormented EMP Mine	
 31362152	Tormented Bomb Guidance Kits	
 31362153	Tormented Charger	
@@ -2771,7 +2771,7 @@ Unkown1	Unkown2
 31313103	Luminous Wild Beak	
 31313104	Luminous Wild Beast Fang	
 31313105	Luminous Intensive Garura	
-31313106	Luminous Pistol	
+31313106	Luminous Fisto	
 31313107	Luminous Elite Python	
 31313108	Luminous Marauder	
 31313109	Luminous Chaser	
@@ -2780,7 +2780,7 @@ Unkown1	Unkown2
 31313112	Luminous Crimson Beast	
 31313113	Luminous Big Butcher	
 31313114	Luminous Elite Steel	
-31313115	Luminous Elite Pistol	
+31313115	Luminous Elite Fisto	
 31313116	Luminous Armored Garura	
 31313117	Luminous Shadow Dancer	
 31313118	Luminous Deathstalker	
@@ -2797,7 +2797,7 @@ Unkown1	Unkown2
 31313129	Luminous White Fang	
 31313130	Luminous Hell Collector	
 31313131	Luminous Tempest	
-31313132	Luminous Pistol	
+31313132	Luminous Fisto	
 31313133	Luminous Elite Python	
 31313134	Luminous Wild Beast Fang	
 31313135	Luminous Elite Summoner	
@@ -2829,7 +2829,7 @@ Unkown1	Unkown2
 31323103	Malicious Wild Beak	
 31323104	Malicious Wild Beast Fang	
 31323105	Malicious Intensive Garura	
-31323106	Malicious Pistol	
+31323106	Malicious Fisto	
 31323107	Malicious Elite Python	
 31323108	Malicious Marauder	
 31323109	Malicious Chaser	
@@ -2838,7 +2838,7 @@ Unkown1	Unkown2
 31323112	Malicious Crimson Beast	
 31323113	Malicious Big Butcher	
 31323114	Malicious Elite Steel	
-31323115	Malicious Elite Pistol	
+31323115	Malicious Elite Fisto	
 31323116	Malicious Armored Garura	
 31323117	Malicious Shadow Dancer	
 31323118	Malicious Deathstalker	
@@ -2855,7 +2855,7 @@ Unkown1	Unkown2
 31323129	Malicious White Fang	
 31323130	Malicious Hell Collector	
 31323131	Malicious Tempest	
-31323132	Malicious Pistol	
+31323132	Malicious Fisto	
 31323133	Malicious Elite Python	
 31323134	Malicious Wild Beast Fang	
 31323135	Malicious Elite Summoner	
@@ -2887,7 +2887,7 @@ Unkown1	Unkown2
 31333103	Apathetic Wild Beak	
 31333104	Apathetic Wild Beast Fang	
 31333105	Apathetic Intensive Garura	
-31333106	Apathetic Pistol	
+31333106	Apathetic Fisto	
 31333107	Apathetic Elite Python	
 31333108	Apathetic Marauder	
 31333109	Apathetic Chaser	
@@ -2896,7 +2896,7 @@ Unkown1	Unkown2
 31333112	Apathetic Crimson Beast	
 31333113	Apathetic Big Butcher	
 31333114	Apathetic Elite Steel	
-31333115	Apathetic Elite Pistol	
+31333115	Apathetic Elite Fisto	
 31333116	Apathetic Armored Garura	
 31333117	Apathetic Shadow Dancer	
 31333118	Apathetic Deathstalker	
@@ -2913,7 +2913,7 @@ Unkown1	Unkown2
 31333129	Apathetic White Fang	
 31333130	Apathetic Hell Collector	
 31333131	Apathetic Tempest	
-31333132	Apathetic Pistol	
+31333132	Apathetic Fisto	
 31333133	Apathetic Elite Python	
 31333134	Apathetic Wild Beast Fang	
 31333135	Apathetic Elite Summoner	
@@ -2945,7 +2945,7 @@ Unkown1	Unkown2
 31343103	Hateful Wild Beak	
 31343104	Hateful Wild Beast Fang	
 31343105	Hateful Intensive Garura	
-31343106	Hateful Pistol	
+31343106	Hateful Fisto	
 31343107	Hateful Elite Python	
 31343108	Hateful Marauder	
 31343109	Hateful Chaser	
@@ -2954,7 +2954,7 @@ Unkown1	Unkown2
 31343112	Hateful Crimson Beast	
 31343113	Hateful Big Butcher	
 31343114	Hateful Elite Steel	
-31343115	Hateful Elite Pistol	
+31343115	Hateful Elite Fisto	
 31343116	Hateful Armored Garura	
 31343117	Hateful Shadow Dancer	
 31343118	Hateful Deathstalker	
@@ -2971,7 +2971,7 @@ Unkown1	Unkown2
 31343129	Hateful White Fang	
 31343130	Hateful Hell Collector	
 31343131	Hateful Tempest	
-31343132	Hateful Pistol	
+31343132	Hateful Fisto	
 31343133	Hateful Elite Python	
 31343134	Hateful Wild Beast Fang	
 31343135	Hateful Elite Summoner	
@@ -3003,7 +3003,7 @@ Unkown1	Unkown2
 31353103	Curative Wild Beak	
 31353104	Curative Wild Beast Fang	
 31353105	Curative Intensive Garura	
-31353106	Curative Pistol	
+31353106	Curative Fisto	
 31353107	Curative Elite Python	
 31353108	Curative Marauder	
 31353109	Curative Chaser	
@@ -3012,7 +3012,7 @@ Unkown1	Unkown2
 31353112	Curative Crimson Beast	
 31353113	Curative Big Butcher	
 31353114	Curative Elite Steel	
-31353115	Curative Elite Pistol	
+31353115	Curative Elite Fisto	
 31353116	Curative Armored Garura	
 31353117	Curative Shadow Dancer	
 31353118	Curative Deathstalker	
@@ -3029,7 +3029,7 @@ Unkown1	Unkown2
 31353129	Curative White Fang	
 31353130	Curative Hell Collector	
 31353131	Curative Tempest	
-31353132	Curative Pistol	
+31353132	Curative Fisto	
 31353133	Curative Elite Python	
 31353134	Curative Wild Beast Fang	
 31353135	Curative Elite Summoner	
@@ -3061,7 +3061,7 @@ Unkown1	Unkown2
 31363103	Tormented Wild Beak	
 31363104	Tormented Wild Beast Fang	
 31363105	Tormented Intensive Garura	
-31363106	Tormented Pistol	
+31363106	Tormented Fisto	
 31363107	Tormented Elite Python	
 31363108	Tormented Marauder	
 31363109	Tormented Chaser	
@@ -3070,7 +3070,7 @@ Unkown1	Unkown2
 31363112	Tormented Crimson Beast	
 31363113	Tormented Big Butcher	
 31363114	Tormented Elite Steel	
-31363115	Tormented Elite Pistol	
+31363115	Tormented Elite Fisto	
 31363116	Tormented Armored Garura	
 31363117	Tormented Shadow Dancer	
 31363118	Tormented Deathstalker	
@@ -3087,7 +3087,7 @@ Unkown1	Unkown2
 31363129	Tormented White Fang	
 31363130	Tormented Hell Collector	
 31363131	Tormented Tempest	
-31363132	Tormented Pistol	
+31363132	Tormented Fisto	
 31363133	Tormented Elite Python	
 31363134	Tormented Wild Beast Fang	
 31363135	Tormented Elite Summoner	
@@ -3132,7 +3132,7 @@ Unkown1	Unkown2
 31314116	Luminous Heavy Sentry	
 31314117	Luminous Assault Blade Wolf	
 31314118	Luminous Spider Zero	
-31314119	Luminous Sprinter	
+31314119	Luminous Splinter	
 31314120	Luminous Ghost Zero	
 31314121	Luminous Heavy Domineer	
 31314122	Luminous Devils Wheel	
@@ -3169,7 +3169,7 @@ Unkown1	Unkown2
 31314509	Luminous Generator	
 31314510	Luminous Pile driver	
 31314511	Luminous Block Gate	
-31314901	Luminous Sieg Proto Zero	
+31314901	Luminous Siege Proto Zero	
 31324101	Malicious E-Deliver	
 31324102	Malicious Tracker	
 31324103	Malicious Drone Zero	
@@ -3225,7 +3225,7 @@ Unkown1	Unkown2
 31324509	Malicious Generator	
 31324510	Malicious Pile driver	
 31324511	Malicious Block Gate	
-31324901	Malicious Sieg Proto Zero	
+31324901	Malicious Siege Proto Zero	
 31334101	Apathetic E-Deliver	
 31334102	Apathetic Tracker	
 31334103	Apathetic Drone Zero	
@@ -3281,7 +3281,7 @@ Unkown1	Unkown2
 31334509	Apathetic Generator	
 31334510	Apathetic Pile driver	
 31334511	Apathetic Block Gate	
-31334901	Apathetic Sieg Proto Zero	
+31334901	Apathetic Siege Proto Zero	
 31344101	Hateful E-Deliver	
 31344102	Hateful Tracker	
 31344103	Hateful Drone Zero	
@@ -3337,7 +3337,7 @@ Unkown1	Unkown2
 31344509	Hateful Generator	
 31344510	Hateful Pile driver	
 31344511	Hateful Block Gate	
-31344901	Hateful Sieg Proto Zero	
+31344901	Hateful Siege Proto Zero	
 31354101	Curative E-Deliver	
 31354102	Curative Tracker	
 31354103	Curative Drone Zero	
@@ -3393,7 +3393,7 @@ Unkown1	Unkown2
 31354509	Curative Generator	
 31354510	Curative Pile driver	
 31354511	Curative Block Gate	
-31354901	Curative Sieg Proto Zero	
+31354901	Curative Siege Proto Zero	
 31364101	Tormented E-Deliver	
 31364102	Tormented Tracker	
 31364103	Tormented Drone Zero	
@@ -3449,7 +3449,7 @@ Unkown1	Unkown2
 31364509	Tormented Generator	
 31364510	Tormented Pile driver	
 31364511	Tormented Block Gate	
-31364901	Tormented Sieg Proto Zero	
+31364901	Tormented Siege Proto Zero	
 31315101	Hateful Illusion of Eternity	
 31315102	Hateful Summoned Eternity	
 31315103	Hateful Eternal Python	
@@ -3595,10 +3595,10 @@ Unkown1	Unkown2
 31315995	Desire Actor	
 31315996	Desire Actress	
 31315997	Desire Holic	
-31315998	Crusher	
+31315998	Crasher	
 31315999	Distortion	
-31316000	Damned Crusher	
-31316001	Drill Crusher	
+31316000	Damned Crasher	
+31316001	Drill Crasher	
 31316002	Injector	
 31316003	Dominator	
 31316004	Big Daddy	
@@ -3654,7 +3654,7 @@ Unkown1	Unkown2
 30505102	Desire Man	
 30505103	Desire Stone	
 30505104	Desire Beater	
-30505105	Desire Crusher	
+30505105	Desire Crasher	
 30505106	Desire Plant	
 30505107	Desire Feeler	
 30505191	Resolute Girl	
@@ -3787,7 +3787,7 @@ Unkown1	Unkown2
 30707102	Fanatics Follower	
 30707103	Fanatics Slave	
 30707104	Fanatics Soul	
-30707105	Judgement Crusher	
+30707105	Judgement Crasher	
 30707106	Fanatics Priest	
 30707151	Cursed Eternity	
 30707251	Doom Bringer	

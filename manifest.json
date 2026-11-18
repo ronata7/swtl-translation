@@ -1,7 +1,7 @@
 {
-  "version": "2026.1117.2148",
-  "released": "2026-11-17T12:48:42Z",
-  "notes": "fix non-ascii characters",
+  "version": "2026.1118.1300",
+  "released": "2026-11-18T04:00:05Z",
+  "notes": "fixing more text",
   "files": [
     {
       "path": "TL csv/tb_Achievement_Script.csv",
@@ -17,14 +17,14 @@
     },
     {
       "path": "TL csv/tb_Buff_Script.csv",
-      "size": 236780,
-      "sha256": "6c16cce7f394831da578130e26778935d3016e93c5268f52b0cf5cd5c6adc1ae",
+      "size": 236784,
+      "sha256": "d7d3b62d136f4c246d977d8d32a09054947ef01f34e1db8cfc9d5e3140ab6d6f",
       "kind": "translation"
     },
     {
       "path": "TL csv/tb_Cinema_String.csv",
-      "size": 1296780,
-      "sha256": "af2a8b14915cb38f950c2615269def38d61d1a6345f123995ef29bbd64670a5c",
+      "size": 1296793,
+      "sha256": "96e6de10e8d9adb15b30a8489b5da75f102c3bd1104ec0901df5a1cdbfc5448e",
       "kind": "translation"
     },
     {
@@ -47,20 +47,20 @@
     },
     {
       "path": "TL csv/tb_Monster_script.csv",
-      "size": 118541,
-      "sha256": "bc28d55382f147f462cd0ac58bedfef090114de2483df6bd43212464bc848e27",
+      "size": 118505,
+      "sha256": "c9a5135cfcebfd83ed4aa8ae75af07be27e6b3ae39d4dfa3ac02b346035904ba",
       "kind": "translation"
     },
     {
       "path": "TL csv/tb_NPC_Script.csv",
-      "size": 16621,
-      "sha256": "7206c7817c467a75a198fe62ab4884a475a489a62436296ee412f95a973c871f",
+      "size": 16623,
+      "sha256": "80df9b6b42283e5ad8aa13e588f3693bed86ec40e54e5721ed7b72f2ee8d72ab",
       "kind": "translation"
     },
     {
       "path": "TL csv/tb_Quest_Script.csv",
-      "size": 767403,
-      "sha256": "1c78ca6311ede453907691ab449db59cec2bd3287a5f48971a8cd3ee2513b2f7",
+      "size": 767596,
+      "sha256": "04acbc9c9f0d10f2ebdf085f44174534b995a8b362a7236e3726838c86999938",
       "kind": "translation"
     },
     {
@@ -71,14 +71,14 @@
     },
     {
       "path": "TL csv/tb_Skill_Script.csv",
-      "size": 1145667,
-      "sha256": "aae25fa01aeb03bde4d8735b9ac73159682eecb2ddbb1c3c875965e054b045da",
+      "size": 1145670,
+      "sha256": "a0ac1cd5df6f416abc92463fbba1e6628b4b120422dc14642c3cecc98cf86975",
       "kind": "translation"
     },
     {
       "path": "TL csv/tb_Speech_String.csv",
-      "size": 22522588,
-      "sha256": "addbc0a80fca40bc2e4f61b7fca114d7570d1800a01059a6cc4a28cb3e58a72c",
+      "size": 22522973,
+      "sha256": "736036e49ffc00f64cf2cd98b326a08e06a686bd06e367dcae4b164e5fbec167",
       "kind": "translation"
     },
     {
@@ -101,14 +101,14 @@
     },
     {
       "path": "TL csv/tb_UI_String.csv",
-      "size": 734960,
-      "sha256": "9f8575ca5ec8ef72ff816f834f25b0ec666c1aa3c5bd5979924f75a25837e01a",
+      "size": 734876,
+      "sha256": "6ff9cf1dd95242ff62ff80d29f7670c31f5167735139ab734cda95f236361320",
       "kind": "translation"
     },
     {
       "path": "TL csv/tb_item_script.csv",
-      "size": 11856078,
-      "sha256": "0049411eefdaf2a969a61239f8e1237a625cca48df46f152be3ce9542d7ebba7",
+      "size": 11856161,
+      "sha256": "a505fabb6f6f86d950d36fe041e518b5180fab9b3c5dbdbc6cb804a1ba6b4d26",
       "kind": "translation"
     },
     {

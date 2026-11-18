@@ -1232,7 +1232,7 @@ Unkown1	Unkown2	Unkown3
 5901	1	<font color='#FFFFFF'><font size="30">Tip.</font> If you want to change your Character's appearance,<br>you can get <font color='#00D8FF'>[Appearance Item]</font> from the cash shop.	
 5902	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#00D8FF'>[HP]</font> Output your Character's health points. When<br>they reach 0, you die. Always keep an eye on your HP.	
 5903	1	<font color='#FFFFFF'><font size="30">Tip:</font> <font color='#00D8FF'>[SG]</font> is the Soul Gauge, the source of your extraordinary power.<br>It is consumed when you use skills, and each character recovers it differently.	
-5904	1	<font color='#FFFFFF'><font size="30">Tip.</font> You cannot use the Nova Skill <font color='#00D8FF'>[Frenzy][Awakening]</font> in District 6.	
+5904	1	<font color='#FFFFFF'><font size="30">Tip.</font> You cannot use the Nova Skill <font color='#00D8FF'>[Erosion][Awakening]</font> in District 6.	
 5905	1	<font color='#FFFFFF'><font size="30">Tip.</font> You cannot use <font color='#00D8FF'>[Draw]</font> in District 6.	
 5910	0	<font color='#FFFFFF'><font size="30">Tip.</font> An Angelic Gruton only appears 1x per map.<br>This just makes their Items more valuable.	
 5911	0	<font color='#FFFFFF'><font size="30">Tip.</font> A Gruton army attacks  to protect ally Grutons in an Invincible state.	
@@ -1323,12 +1323,12 @@ Unkown1	Unkown2	Unkown3
 6932	0	All Team Players have registered for the rematch.<br>The rematch starts in {0} sec.	
 7000	0	Preset	
 7001	0	Reset<br>Skill tree	
-7002	0	Bonus	
+7002	0	3rd Stage	
 7003	0	Stage	
 7004	0	Please select a Skill tree.	
 7005	0	Break Skill	
 7006	0	Outburst	
-7007	0	Frenzy	
+7007	0	Erosion	
 7008	0	Lv.{0}	
 7009	0	Required Skill	
 7010	0	Select SoulPlus	
@@ -1767,7 +1767,7 @@ Unkown1	Unkown2	Unkown3
 15025	0	You have learned that a NED Company dropship has crashed in a nearby residence. <br>We must learn what was on board.	
 15026	0	The entire residence has turned into a Soul Junk's lair.<br>There is a highly contagious Soul Junk here. It should be killed before it gets outside.	
 15027	0	Ralph says it is believed that Catherine is somewhere deep inside the residence. Go further into the residence find Catherine.	
-15028	0	The Soul Junk Arachnes, who took Catherine,<br>is said to be hiding deep beneath the mansion.<br>Hurry and find Catherine.	
+15028	0	The Soul Junk Arachness, who took Catherine,<br>is said to be hiding deep beneath the mansion.<br>Hurry and find Catherine.	
 15029	0	The only antidote that can save Catherine, infected with Vacuum Vein, is inside NED Company's laboratory.<br>But the laboratory has already become a Soul Junk nest...	
 15030	0	The second lab was a Soul Junk's lair as well. Who knows what made these places change so drastically, but the priority is to find the antidote for Catherine.	
 15031	0	Racked with guilt over losing Catherine, Victor entered the depths of the laboratory alone to find the antidote.<br>He must be found before a Soul Junk gets him.	
@@ -4480,9 +4480,9 @@ Unkown1	Unkown2	Unkown3
 40161	0	Mad Edgar will emerge from hiding when the enemies are defeated.	
 40162	0	Mad Edgar will emerge from hiding if the chest does not self-destruct.	
 40163	0	Phantom's defence increases for 30 sec when the Phantom's Illusion self-destructs.	
-40164	0	The anti-personnel defence system was activated by the AI Lucy.	
-40165	0	The anti-personnel defence system is generating a powerful magnetic field.	
-40166	0	The Heavy Sentries linked to the defence system need to be destroyed.	
+40164	0	The anti-personnel Defense System was activated by the AI Lucy.	
+40165	0	The anti-personnel Defense System is generating a powerful magnetic field.	
+40166	0	The Heavy Sentries linked to the Defense System need to be destroyed.	
 40167	0	The Sub AI Core's power source can be shut off if 4 Sub AI Cores are destroyed.<br>Destroying a Sub AI Core will generate a magnetic field.	
 40168	0	The power source Sub AI Core's power source was shut off.	
 40169	0	The door can be opened if the security device is operated.	
@@ -4542,7 +4542,7 @@ Unkown1	Unkown2	Unkown3
 40223	0	A surface Wide Range attack will be activated shortly.<br>Operate the switch to prevent the activation.	
 40224	0	The enemies will be summoned shortly.<br>Operate the middle control system to prevent this from happening.	
 40225	0	Enemies will keep being summoned shortly.<br>The call system must be destroyed to prevent this from happening.	
-40226	0	Security can be switched off in 4 steps. Activating the installation will also activate the anti-personnel defence system.	
+40226	0	Security can be switched off in 4 steps. Activating the installation will also activate the anti-personnel Defense System.	
 40227	0	One of the 2 security devices has a trap set.<br>Activate the correct security device to open the door.	
 40228	0	Another enemy will appear shortly.<br>Be careful.	
 40229	0	A shuttle is passing through.<br>Take shelter in a safe place.	
@@ -4582,7 +4582,7 @@ Unkown1	Unkown2	Unkown3
 40267	0	Operating the simulation controller will fire a laser beam.<br>The laser beam will damage both allies and enemies, so watch out.	
 40268	0	1 simulation controller will appear every 20 s, up to a maximum of 2.<br>If you operate 2 simulation controllers, a laser gun will be fired to help you.	
 40269	0	Confirming laser gun fire.<br>The laser gun will be fired shortly.	
-40270	0	A simulation controller will be summoned when the Land Crusher has been defeated.	
+40270	0	A simulation controller will be summoned when the Land Crasher has been defeated.	
 40271	0	Operating the 2 simulation controllers will create a wave that significantly reduces Warlike's defence.	
 40272	0	Operate the simulation controller to get suppressive fire from the gun turret.<br>The gun turret will be destroyed after 1 use.	
 40273	0	When the simulation controller, which will appear in 30 s, is operated, a powerful laser gun will be fired.<br>The laser gun will damage both allies and enemies, adding 90% of max. HP as damage.	
@@ -4659,7 +4659,7 @@ Unkown1	Unkown2	Unkown3
 40431	0	Safety lock for lab No.A-1 released.	
 40432	0	Safety lock for lab No.B-1 released.	
 40433	0	Safety lock for lab No.C-1 released.	
-40434	0	Turning off the power of the Sub AI Core will disable the defence system.	
+40434	0	Turning off the power of the Sub AI Core will disable the Defense System.	
 40441	0	Enormous pieces of debris are blocking the way. Setting off the ignition might destroy them.	
 40442	0	The bomb installed by the debris will explode shortly.	
 40443	0	More reInforcements have come to the aid of the long distance missile Tempest.	
@@ -4687,7 +4687,7 @@ Unkown1	Unkown2	Unkown3
 40474	0	Land Bison was destroyed. Unable to continue.<br>Operation failed.	
 40475	0	Operating the switch will activate the lift.	
 40476	0	The enemy attack has stopped the lift.<br>You can operate the lift switch when all enemies have been defeated.	
-40477	0	The defence system was activated by the central core.<br>The central core needs to be destroyed in order to switch off the defence system.	
+40477	0	The Defense System was activated by the central core.<br>The central core needs to be destroyed in order to switch off the Defense System.	
 40478	0	You have to operate the engine control system to get to the deck of the Ark Ship.	
 40479	0	Misuse of the engine control system has activated the invader eradication program.<br>The engine sphere needs to be destroyed before the self-destruct countdown for the power source runs out.	
 40480	0	Activating the switch will unlock a lift that can be taken straight to the deck of the Ark Ship.	
@@ -4695,7 +4695,7 @@ Unkown1	Unkown2	Unkown3
 40482	0	The destruction of the power source has caused the Ark Ship's defence mechanism to go haywire.<br>Lasers are being fired wildly all over the deck of the Ark Ship.	
 40483	0	The blue light lowers all of the Player's attributes, but it also decreases the enemies' defence.	
 40484	0	The red light only damages Characters. It is melting the deck of the Ark Ship and creating a high-temperature zone.<br>The high-temperature zone will damage you.	
-40485	0	Sieg Proto Zero has brought the Ark Ship's cannon under his control.<br>He's using the cannon to fire wildly on the deck.	
+40485	0	Siege Proto Zero has brought the Ark Ship's cannon under his control.<br>He's using the cannon to fire wildly on the deck.	
 40486	0	The enemy attack has stopped the lift.<br>The doors of the lift will open when all enemies have been defeated.	
 40487	0	The switch needs to be activated to open the gate.	
 40488	0	The activation switch for the blast gate leading to the next zone has been deactivated.	
@@ -4722,8 +4722,8 @@ Unkown1	Unkown2	Unkown3
 40509	0	Destroy the buff vessel to gain positive status effects.	
 40510	0	The surface area attack was halted.	
 40511	0	The lift is plummeting down.	
-40512	0	If the slave core in front of you isn't disabled, Dominio Zero will keep appearing.	
-40513	0	Dominio Zero will appear again shortly.<br>The slave core in front of you has to be disabled first.	
+40512	0	If the slave core in front of you isn't disabled, Domineer Zero will keep appearing.	
+40513	0	Domineer Zero will appear again shortly.<br>The slave core in front of you has to be disabled first.	
 40514	0	The summons core control system has to be destroyed in order to prevent constant summoning.	
 40515	0	The spawn control system has been destroyed.<br>The pincer needs to be prevented from repairing the control system.	
 40516	0	The lift will be stopped shortly.	
@@ -4740,7 +4740,7 @@ Unkown1	Unkown2	Unkown3
 40611	0	You have completed the Hall of Ruin. Go through the Hall of Omens to return to the Maze.	
 40612	0	Press the Heat Switch for 40 sec resistance to Frost.	
 40613	0	After pressing the Heat Switch, frost appears until you can use it again. (Cooldown: 40 sec)	
-40614	0	Destroy the Flame Crystal over the lSenia cap to stop the Stromboli Stream.	
+40614	0	Destroy the Flame Crystal over the lava cap to stop the Stromboli Stream.	
 40615	0	Soon, Hexa Spear will unleash an unavoidable blizzard that inflicts Freeze for 10 sec.<br>Stay as far from Apocalypse's attack range as you can.	
 40616	0	The Golden Obelisk explodes 20 sec after appearing and inflicts a large amount of damage on you.<br>You can attack the Golden Obelisk to destroy it.	
 40617	0	3 Venom Flowers enhance Pandemonia.<br>Defeat all the Venom Flowers to stun Pandemonia.	
@@ -4827,7 +4827,7 @@ Unkown1	Unkown2	Unkown3
 41205	0	A.R Engrave Cumulate x 1	
 41206	0	Item Upgrade Cumulate x 4 Challenge	
 41207	0	Item Dismantle Cumulate x 6	
-41208	0	Gruton Coin Shop Cumulate Usage x 1	
+41208	0	S Coin Shop Cumulate Usage x 1	
 41209	0	Concrete Jungle EP4 Normal Clear	
 41210	0	Skill Cumulate Enhance x 5	
 41211	0	Steel Grave Play Cumulate x 2	
@@ -4840,7 +4840,7 @@ Unkown1	Unkown2	Unkown3
 41218	0	A.R Engrave Cumulate x 2	
 41219	0	Item Upgrade Cumulate x 8 Challenge	
 41220	0	Item Dismantle Cumulate x 12	
-41221	0	Gruton Coin Shop Cumulate Usage x 2	
+41221	0	S Coin Shop Cumulate Usage x 2	
 41222	0	The Big Mouth EP4 Normal Clear	
 41223	0	Skill Cumulate Enhance x 9	
 41224	0	Steel Grave Play Cumulate x 6	
@@ -4854,7 +4854,7 @@ Unkown1	Unkown2	Unkown3
 41232	0	A.R Engrave Cumulate x 3	
 41233	0	Item Upgrade Cumulate x 12 Challenge	
 41234	0	Item Dismantle Cumulate x 18	
-41235	0	Gruton Coin Shop Cumulate Usage x 3	
+41235	0	S Coin Shop Cumulate Usage x 3	
 41236	0	Breakout EP4 Normal Clear	
 41237	0	Skill Cumulate Enhance x 10	
 41238	0	Steel Grave Play Cumulate x 10	
@@ -4869,7 +4869,7 @@ Unkown1	Unkown2	Unkown3
 41247	0	Steel Grave Play Cumulate x 2	
 41248	0	Item Upgrade Cumulate x 4 Challenge	
 41249	0	Item Dismantle Cumulate x 6	
-41250	0	Gruton Coin Shop Cumulate Usage x 1	
+41250	0	S Coin Shop Cumulate Usage x 1	
 41251	0	Steel Grave Play Cumulate x 4	
 41252	0	A.R Engrave Cumulate x 2	
 41253	0	Item Upgrade Cumulate x 6 Challenge	
@@ -4878,7 +4878,7 @@ Unkown1	Unkown2	Unkown3
 41256	0	Steel Grave Play Cumulate x 6	
 41257	0	Item Upgrade Cumulate x 8 Challenge	
 41258	0	Item Dismantle Cumulate x 12	
-41259	0	Gruton Coin Shop Cumulate Usage x 2	
+41259	0	S Coin Shop Cumulate Usage x 2	
 41260	0	Steel Grave Play Cumulate x 8	
 41261	0	A.R Engrave Cumulate x 3	
 41262	0	Brooch Fusion Total Cumulate x 1	
@@ -4888,14 +4888,14 @@ Unkown1	Unkown2	Unkown3
 41266	0	Steel Grave Play Cumulate x 10	
 41267	0	Item Upgrade Cumulate x 12 Challenge	
 41268	0	Item Dismantle Cumulate x 18	
-41269	0	Gruton Coin Shop Cumulate Usage x 3	
+41269	0	S Coin Shop Cumulate Usage x 3	
 41270	0	Steel Grave Play Cumulate x 12	
 41271	0	A.R Engrave Cumulate x 4	
 41272	0	Brooch Fusion Total Cumulate x 2	
 41273	0	Item Upgrade Cumulate x 16 Challenge	
 41274	0	Item Dismantle Cumulate x 21	
 41275	0	Item Production Cumulate x 7	
-41276	0	Gruton Coin Shop Cumulate Usage x 4	
+41276	0	S Coin Shop Cumulate Usage x 4	
 41300	0	Reach Character Lv. {0}	
 41301	0	{0}x Ominous Giant completed	
 41302	0	{0}x Skill Enhance	
@@ -4905,7 +4905,7 @@ Unkown1	Unkown2	Unkown3
 41306	0	{0}x Item Upgraded	
 41307	0	{0}x Item Dismantled	
 41308	0	{0}x Item Crafted	
-41309	0	{0}x Used Gruton Coin Shop	
+41309	0	{0}x Used S Coin Shop	
 41310	0	Receive {0}x BP in district	
 41311	0	Joined the The Thing Raid	
 41312	0	You can still complete previous quests after the day changes.	
@@ -4954,9 +4954,9 @@ Unkown1	Unkown2	Unkown3
 42028	0	Cynthia	
 42029	0	Reporter Cynthia	
 42030	0	Truth Teller Cynthia	
-42031	0	Arachnes	
-42032	0	Glamorous Predator Arachnes	
-42033	0	Shade Crimson Queen Arachnes	
+42031	0	Arachness	
+42032	0	Glamorous Predator Arachness	
+42033	0	Shade Crimson Queen Arachness	
 42034	0	Cell	
 42035	0	Improved Cell	
 42036	0	S-01	
@@ -4973,8 +4973,8 @@ Unkown1	Unkown2	Unkown3
 42047	0	Black Gauntlet	
 42048	0	Dark Fist Black Gauntlet	
 42049	0	Armored Steel	
-42050	0	Hell Inforcer	
-42051	0	Engraver Hell Inforcer	
+42050	0	Hell Enforcer	
+42051	0	Engraver Hell Enforcer	
 42052	0	Toru	
 42053	0	Chaser	
 42054	0	Raid Force. Chaser	
@@ -4985,7 +4985,7 @@ Unkown1	Unkown2	Unkown3
 42059	0	Raptorous Blade Snake	
 42060	0	Intensive Garura	
 42061	0	Monstrous Airstrike Intensive Garura	
-42062	0	Redmane	
+42062	0	Red Mane	
 42063	0	Queen Garura	
 42064	0	Monstrous Queen Garura	
 42065	0	Sedurin	
@@ -5018,8 +5018,8 @@ Unkown1	Unkown2	Unkown3
 42092	0	Stout Heavy Earthquaker	
 42093	0	Amanda	
 42094	0	Signaler Amanda	
-42095	0	Sieg Proto	
-42096	0	Warmachine Sieg Proto	
+42095	0	Siege Proto	
+42096	0	Warmachine Siege Proto	
 42097	0	Blade Wolf	
 42098	0	Metallic Blade Wolf	
 42099	0	Skoll	
@@ -5056,8 +5056,8 @@ Unkown1	Unkown2	Unkown3
 42130	0	Sub A.I Jessie	
 42131	0	Ian	
 42132	0	Assault Corps. Ian	
-42133	0	Full-Armed Sieg Proto	
-42134	0	Full-Armed Opposer Sieg Proto	
+42133	0	Full-Armed Siege Proto	
+42134	0	Full-Armed Opposer Siege Proto	
 42135	0	Martin	
 42136	0	Temporary CMDR Martin	
 42137	0	Training Dummy	
@@ -5072,7 +5072,7 @@ Unkown1	Unkown2	Unkown3
 42146	0	Piece of Temptation Stone	
 42147	0	Strong Temptation Stone	
 42148	0	Absolute Temptation Stone	
-42149	0	Booker T.V	
+42149	0	Booker TV	
 42150	0	Outlaw Booker	
 42151	0	Ajin	
 42152	0	Flight Attendant Ajin	
@@ -5182,12 +5182,12 @@ Unkown1	Unkown2	Unkown3
 42256	0	Black Gauntlet	
 42257	0	Dark Fist Black Gauntlet	
 42258	0	Dark Blaster Black Gauntlet	
-42259	0	Hell Inforcer	
+42259	0	Hell Enforcer	
 42260	0	Fiery Engraving	
 42261	0	Pressure and Pollution	
-42262	0	Hell Inforcer	
-42263	0	Engraver Hell Inforcer	
-42264	0	Keen Engraver Hell Inforcer	
+42262	0	Hell Enforcer	
+42263	0	Engraver Hell Enforcer	
+42264	0	Keen Engraver Hell Enforcer	
 42265	0	Cain	
 42266	0	Monochrome Cain	
 42267	0	Monochrome Bolt Cain	
@@ -5417,7 +5417,7 @@ Unkown1	Unkown2	Unkown3
 43046	0	Aaron	
 43047	0	Black Gauntlet	
 43049	0	Armored Steel	
-43050	0	Hell Inforcer	
+43050	0	Hell Enforcer	
 43052	0	Toru	
 43053	0	Chaser	
 43055	0	Kacha	
@@ -5439,7 +5439,7 @@ Unkown1	Unkown2	Unkown3
 43089	0	Sentry Commander	
 43091	0	Heavy Earthquaker	
 43093	0	Amanda	
-43095	0	Sieg Proto	
+43095	0	Siege Proto	
 43097	0	Blade Wolf	
 43102	0	Domineer Zero	
 43103	0	Sarah	
@@ -5459,11 +5459,11 @@ Unkown1	Unkown2	Unkown3
 43127	0	Numberless Rings	
 43129	0	Jessie	
 43131	0	Ian	
-43133	0	Full-Armed Sieg Proto	
+43133	0	Full-Armed Siege Proto	
 43135	0	Martin	
 43137	0	Training Dummy	
 43142	0	Drain Claw	
-43149	0	Booker T.V	
+43149	0	Booker TV	
 43151	0	Ajin	
 43153	0	Eric	
 43155	0	Sunny	
@@ -5511,8 +5511,8 @@ Unkown1	Unkown2	Unkown3
 43250	0	[SH] Bone Crasher	
 43253	0	[S] Black Gauntlet	
 43256	0	[SH] Black Gauntlet	
-43259	0	[S] Hell Inforcer	
-43262	0	[SH] Hell Inforcer	
+43259	0	[S] Hell Enforcer	
+43262	0	[SH] Hell Enforcer	
 43295	0	[S] Gruton	
 43296	0	[SH] Gruton	
 43297	0	[S] Shiny Gruton	
@@ -7643,31 +7643,31 @@ Unkown1	Unkown2	Unkown3
 20210	0	{0} is receiving Honorable Knight Title.	
 41353	0	A.R Engrave Cumulate x 1	
 41354	0	Maze Clear Cumulate x 1	
-41355	0	Gruton Coin Shop Cumulate Usage x 2	
+41355	0	S Coin Shop Cumulate Usage x 2	
 41356	0	Item Upgrade Cumulate x 1 Challenge	
 41357	0	A.R Engrave Cumulate x 2	
 41358	0	Maze Clear Cumulate x 2	
-41359	0	Gruton Coin Shop Cumulate Usage x 4	
+41359	0	S Coin Shop Cumulate Usage x 4	
 41360	0	Item Upgrade Cumulate x 2 Challenge	
 41361	0	A.R Engrave Cumulate x 3	
 41362	0	Maze Clear Cumulate x 4	
-41363	0	Gruton Coin Shop Cumulate Usage x 6	
+41363	0	S Coin Shop Cumulate Usage x 6	
 41364	0	Item Upgrade Cumulate x 5 Challenge	
 41365	0	A.R Engrave Cumulate x 5	
 41366	0	Maze Clear Cumulate x 6	
-41367	0	Gruton Coin Shop Cumulate Usage x 8	
+41367	0	S Coin Shop Cumulate Usage x 8	
 41368	0	Item Upgrade Cumulate x 7 Challenge	
 41369	0	A.R Engrave Cumulate x 7	
 41370	0	Maze Clear Cumulate x 8	
-41371	0	Gruton Coin Shop Cumulate Usage x 10	
+41371	0	S Coin Shop Cumulate Usage x 10	
 41372	0	Item Upgrade Cumulate x 10 Challenge	
 41373	0	A.R Engrave Cumulate x 9	
 41374	0	Maze Clear Cumulate x 10	
-41375	0	Gruton Coin Shop Cumulate Usage x 12	
+41375	0	S Coin Shop Cumulate Usage x 12	
 41376	0	Item Upgrade Cumulate x 12 Challenge	
 41377	0	A.R Engrave Cumulate x 13	
 41378	0	Maze Clear Cumulate x 12	
-41379	0	Gruton Coin Shop Cumulate Usage x 15	
+41379	0	S Coin Shop Cumulate Usage x 15	
 41380	0	Item Upgrade Cumulate x 15 Challenge	
 18216	0	Summer Festival I	
 18217	0	Summer Festival II	
@@ -7747,7 +7747,7 @@ Unkown1	Unkown2	Unkown3
 10543	0	Corrupt Record of Hope	
 10544	0	Corrupt Record of Sorrow	
 10545	0	Records of the Corrupt	
-40738	0	You don't have to fight Fu-chan, who attacks you.	
+40738	0	You don't have to fight Fuu-chan, who attacks you.	
 40739	0	The object you use determines which monster is summoned, and each object can be used only once.<br>Iris and Jin have higher levels and stats than other monsters.	
 40740	0	The Child of Madness will appear soon. Careful!	
 40741	0	The Child of Sorrow and the old man will appear soon. Careful!	
@@ -8510,7 +8510,7 @@ Unkown1	Unkown2	Unkown3
 750007	0	Lovely Christmas	
 760007	0	Lovely Christmas	
 9895	0	The Primal (Hero)	
-10111	0	[The Primal Hero] is 8 people Team, Maze for force. Must defeat Primal with unusal strategies.	
+10111	0	[The Primal Hero] is 8 people Team, Maze for force. Must defeat Primal with unusual strategies.	
 40747	0	You can now enter the Primal.<br>Only 1 player can enter an Anomalous Vacuum, and it disappears after 20 sec.<br>A total of 3 Anomalous Vacuums are created in sequence.	
 40748	0	When defeats mutant tentacle, it sprays [Purification] effect around, which allows you to resist the corrupted blood.	
 40749	0	Defeating a Primal Fragment grants a [Black Blood] effect that blocks the Primal's breath attack once.	
@@ -8744,11 +8744,11 @@ Unkown1	Unkown2	Unkown3
 41484	0	Equipment Upgrade x 5	
 41485	0	Brooch Fusion x 7	
 41486	0	Item Production x 1	
-41487	0	Gruton Coin Shop Cumulate Usage x 1	
+41487	0	S Coin Shop Cumulate Usage x 1	
 41488	0	Item Production x 3	
-41489	0	Use the S-Coin Shop 3 times	
+41489	0	Use the S Coin Shop 3 times	
 41490	0	Item Production x 5	
-41491	0	Use the S-Coin Shop 5 times	
+41491	0	Use the S Coin Shop 5 times	
 41492	0	Item Production x 10	
 41493	0	Steel Grave Cumulate 5 stage clear	
 41494	0	Water other people's plant x 1	
@@ -8765,11 +8765,11 @@ Unkown1	Unkown2	Unkown3
 41505	0	Equipment Upgrade x 5	
 41506	0	Brooch Fusion x 7	
 41507	0	Item Production x 1	
-41508	0	Gruton Coin Shop Cumulate Usage x 1	
+41508	0	S Coin Shop Cumulate Usage x 1	
 41509	0	Item Production x 3	
-41510	0	Use the S-Coin Shop 3 times	
+41510	0	Use the S Coin Shop 3 times	
 41511	0	Item Production x 5	
-41512	0	Use the S-Coin Shop 5 times	
+41512	0	Use the S Coin Shop 5 times	
 41513	0	Item Production x 10	
 700001	0	Fatal Charm Henry	
 700002	0	Cold City man Toru	
@@ -9314,7 +9314,7 @@ Unkown1	Unkown2	Unkown3
 41517	0	Brooch Fusion {0} times	
 41518	0	Equipment Upgrade {0} times	
 41519	0	Item Production {0} times	
-41520	0	Use Gruton Coin Shop {0} times	
+41520	0	Use S Coin Shop {0} times	
 41521	0	Perish, Humanity	
 41522	0	Diligent Hard worker	
 41523	0	Shattering!	
@@ -9340,7 +9340,7 @@ Unkown1	Unkown2	Unkown3
 10563	0	Corrupted Record of Charm	
 10564	0	Corrupted Record of Vitality	
 10565	0	Corrupted Record of Vengeance	
-40776	0	The Brazen RSeniager will soon appear, wanting to have fun at the expense of others. Get ready.	
+40776	0	The Brazen Ravager will soon appear, wanting to have fun at the expense of others. Get ready.	
 40777	0	The Vengeful Hellion will soon appear, taking revenge on the innocent. Get ready.	
 40778	0	A boy chasing pleasure and a girl craving revenge will be summoned shortly. Survive.	
 10121	0	Battle of the Void	
@@ -9707,7 +9707,7 @@ Unkown1	Unkown2	Unkown3
 37202	0	Selection	
 37203	0	Obtain Skill	
 37204	0	Skill Level + {0}	
-37211	0	Illusion destoys, and wake up from dream.	
+37211	0	Illusion destroys, and wake up from dream.	
 37212	0	Duration of Time	
 37213	0	Clear	
 37214	0	Challenge Fail	
@@ -10117,7 +10117,7 @@ Unkown1	Unkown2	Unkown3
 55131	0	A pass system error has occurred. Please try again later.	
 55132	0	Not enough Pass Points to receive the reward.	
 55133	0	There is no reward to receive.	
-55134	0	Processing the previous work at the moement. Please try again later.	
+55134	0	Processing the previous work at the moment. Please try again later.	
 55135	0	Your Pass has already been upgraded.	
 55136	0	An upgrade system error has occurred. Please try again later.	
 70100	0	Daily Mission	
@@ -10131,7 +10131,7 @@ Unkown1	Unkown2	Unkown3
 56103	0	Challenge Option Reward	
 56104	0	※Challenge Option Rewards will be provided in proportion to the number of selected challenge options.<br><br>Clear Hero maze to obtain rewards.	
 56105	0	Hero Mode Challenge Options	
-56106	0	Unable to use Frenzy / Awakening	
+56106	0	Unable to use Erosion / Awakening	
 56107	0	Unable to apply HP Recovery Skills / Consumable Items	
 56108	0	Unable to apply any Akashic Records	
 56109	0	Damage taken by monsters is halved	
@@ -10147,7 +10147,7 @@ Unkown1	Unkown2	Unkown3
 49113	0	View	
 60298	0	Emergency! 'The Thing' emerging in {0}minutes {1}second!!! Requesting Support!!	
 60299	0	Emergency! 'The Thing' emerging in {0}minutes {1}second!!! Requesting Support!!	
-56117	0	Not possible to use Frenzy / Awakening / Desire Awakening	
+56117	0	Not possible to use Erosion / Awakening / Desire Awakening	
 56118	0	HP recovery effects from recovery skills, recovery items, and objects created by skills are nullified. Recovery effects proportional to skill damage are not nullified.	
 56119	0	Active and Passive Akashic Records - No effect at all.	
 56120	0	Monsters: Recover HP 5% per 10 seconds	
@@ -10940,7 +10940,7 @@ Unkown1	Unkown2	Unkown3
 41532	0	SoulPlus Power Up {0} Time(s)	
 41533	0	Clear Any Maze {0} Time(s)	
 41534	0	Clear Daily Mission {0} Time(s)	
-41535	0	Purchase at Gruton Coin Shop {0} Time(s)	
+41535	0	Purchase at S Coin Shop {0} Time(s)	
 41536	0	Create My Room	
 41537	0	Use FP {0}	
 41538	0	Dismantle Items {0} Time(s)	
@@ -10957,7 +10957,7 @@ Unkown1	Unkown2	Unkown3
 41602	0	Mission: SoulPlus Upgrade	
 41603	0	Misison: Maze Clear	
 41604	0	Mission: Daily Mission Clear	
-41605	0	Mission: Purchase at Gruton Coin Shop	
+41605	0	Mission: Purchase at S Coin Shop	
 41606	0	Mission: Create My Room	
 41607	0	Mission: Use FP (Cumulate)	
 41608	0	Mission: Dismantle Items	
@@ -10970,7 +10970,7 @@ Unkown1	Unkown2	Unkown3
 41702	0	Mission: Crafting (NPC 'Janice')	
 41703	0	Mission: Dismantle Items	
 41704	0	Mission: Daily Mission Clear	
-41705	0	Mission: Purchase at Gruton Coin Shop	
+41705	0	Mission: Purchase at S Coin Shop	
 41706	0	Mission: Use FP (Cumulate)	
 41707	0	Misison: Quest Clear	
 41708	0	Mission: Skill Upgrade	
@@ -11144,7 +11144,7 @@ Unkown1	Unkown2	Unkown3
 104024	0	Blindingly Beautiful Flower	
 104028	0	...This flower?<br>I don't know its name... but my daughter used to tend it, so I'm just doing the same.<br>I have no ability or qualification to raise anything.<br>My daughter always looked at this flower and said it was dazzlingly beautiful.<br>She probably didn't know its name either.<br>To me, only my daughter... only Catherine was always a dazzlingly beautiful flower.<br>Yes, it was always so...	
 104034	0	Solar Nox & Lunar Nox	
-104038	0	Sora Nox and Lady Lunar Nox?<br>Hm, you're curious about the two who are so praised?<br>All right, I'll tell you thoroughly!<br>Setting Sora Nox aside... Lady Lunar Nox was a noble person.<br>Unlike Sora Nox, who was quite a tomboy, she always spent time in the palace library. We got along well, though.<br>But Ji Nox seemed to take offense at that. He said Sora Nox should inherit the throne to restore the Nihil Kingdom...<br>Then suddenly monsters fell from the sky, the royal castle was half destroyed, and because of those fools I was separated from Lady Lunar Nox...<br>I came all the way here risking my life, too.<br>If it's here... I'm sure to find her.	
+104038	0	Solar Nox and Lady Lunar Nox?<br>Hm, you're curious about the two who are so praised?<br>All right, I'll tell you thoroughly!<br>Setting Solar Nox aside... Lady Lunar Nox was a noble person.<br>Unlike Solar Nox, who was quite a tomboy, she always spent time in the palace library. We got along well, though.<br>But Ji Nox seemed to take offense at that. He said Solar Nox should inherit the throne to restore the Nihil Kingdom...<br>Then suddenly monsters fell from the sky, the royal castle was half destroyed, and because of those fools I was separated from Lady Lunar Nox...<br>I came all the way here risking my life, too.<br>If it's here... I'm sure to find her.	
 104044	0	Two Birds, One Stone	
 104048	0	Martin, was it? He turned out to be rather interesting.<br>We talked about all sorts of things, hobbies and food. I didn't understand much, though.<br>Good friends? Don't be absurd.<br>Words carry the speaker's wishes and desires.<br>In the Vacuum, those attract faint Desire Energy, and it tastes rather good.<br>Setting you aside, Desire Energy isn't good for those with only a trace of Soul Energy like him, is it?<br>It's inconvenient, but I get a good meal and they are protected from Desire Energy. We both benefit. Heh heh heh...	
 104054	0	The Issue of Evil	
@@ -11289,7 +11289,7 @@ Unkown1	Unkown2	Unkown3
 82045	0	Recommended: Lv. 49 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: Another Heart / Under the Dark / Shaking Ground / Sun in the Ground	
 82046	0	Recommended: Lv. 51 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: Silent Road / Concentrated Force / Rising Monster / Nightmare Return	
 82047	0	Recommended: Lv. 53 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: The Ark / Blue Heart / Time for Penance / Clashing Destiny	
-82048	0	Recommended: Lv. 55 or Higher<br>Boss: Sieg Proto Zero<br><br>Casual Raids are also known as the [Alternate Vacuum] that 1 ~ 4 Players can challenge as Solo or Party.<br>Various useful items can be obtained in Casual Raids including Crafting Materials of [Darkness Born] Set (Lv. 55). <br>If "Level 55 Reward PKG" is already equipped, there is no need to obtain [Darkness Born] Set. As this Set is just entry-level equipment for entering Golden Citadel.<br>However, Casual Raids are the place to earn a lot of Zenny. So, it is recommended to enter depending on the situation.<br>Casual Raids can be found at Rocco Town, Candus City, Grace City, and Ruin Fortress.	
+82048	0	Recommended: Lv. 55 or Higher<br>Boss: Siege Proto Zero<br><br>Casual Raids are also known as the [Alternate Vacuum] that 1 ~ 4 Players can challenge as Solo or Party.<br>Various useful items can be obtained in Casual Raids including Crafting Materials of [Darkness Born] Set (Lv. 55). <br>If "Level 55 Reward PKG" is already equipped, there is no need to obtain [Darkness Born] Set. As this Set is just entry-level equipment for entering Golden Citadel.<br>However, Casual Raids are the place to earn a lot of Zenny. So, it is recommended to enter depending on the situation.<br>Casual Raids can be found at Rocco Town, Candus City, Grace City, and Ruin Fortress.	
 82051	0	Recommended: Lv. 55 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: Fire flame reappeared / Earth to Blood / Glowing Streets / Path of Damnation	
 82052	0	Recommended: Lv. 56 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: First Voice / Ha-Ha-Ha Square / Mould in the Darkness / Corrupted Memory	
 82053	0	Recommended: Lv. 57 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: Garden Entrance / Bloody Harvest / Fallen Path / Hunting Area of Predator	
@@ -11326,7 +11326,7 @@ Unkown1	Unkown2	Unkown3
 82115	0	Recommended Level: Lv. 76 or higher<br>Boss: Tenebris<br><br>Broken Savior is a raid for 1 to 4 players.<br>Fight Tenebris in 2 phases; clearing it earns various items, including crafting materials for the "Picaresque" set, which can be equipped at Lv. 76 or higher.<br>There is no entry limit, and you can earn rewards up to 20 times per week.<br>(Account limit)<br><br>Talk to Arin in Grace City to enter Broken Savior.	
 82116	0	Tenebris uses stronger skills as phases change.<br>In Phase 1, he uses basic attacks, grab attacks, and light and dark attribute skills.<br>In Phase 2, he uses entirely different skills from Phase 1 and elemental attacks that require cooperation with party members.<br>Phase 1 has a time limit, and if you cannot clear it in time, you cannot advance to the next phase.<br>Rewards differ depending on the phase you reached by the end of the raid.	
 82117	0	Recommended Level: Lv. 76 or higher<br>Boss: Tenebris<br><br>[H] Broken Savior is a raid for 1 to 4 players.<br>Fight a stronger Tenebris; clearing it earns crafting materials for the "Picaresque" Hero weapon and 2 types of option Familiars (Lv. 76 limit Desire and Holy Shield series). You can also earn a Tenebris avatar as a special reward.<br>Tenebris in [H] Broken Savior has many powerful attacks, and be careful of attacks triggered by touching his own illusions, which can wipe out the party.<br>There is no entry limit, and you can earn rewards up to 7 times per week.<br>(Account limit)<br><br>Talk to Arin in Grace City to enter [H] Broken Savior.	
-82118	0	Recommended Level: Lv. 55 or higher<br>Boss: None<br><br>Legion Invader is a Guild Raid for 1 to 4 Guild members.<br>When a member with authority in the Guild activates the raid, you can enter once during the period shown in the Guild Raid UI.<br>Defeat the monsters that keep appearing within the 5-minute time limit, and earn Guild Raid Coins based on your points.<br>Guild Raid Coins can be exchanged for items by talking to "Ceres".<br><br>Enter Legion Invader from the Guild UI.	
+82118	0	Recommended Level: Lv. 55 or higher<br>Boss: None<br><br>Legion Invader is a Guild Raid for 1 to 4 Guild members.<br>When a member with authority in the Guild activates the raid, you can enter once during the period shown in the Guild Raid UI.<br>Defeat the monsters that keep appearing within the 5-minute time limit, and earn Guild Raid Coins based on your points.<br>Guild Raid Coins can be exchanged for items by talking to "Seres".<br><br>Enter Legion Invader from the Guild UI.	
 82119	0	Recommended: Lv. 60 or Higher<br>Boss: No Boss<br><br>Abyss Lounge is a Solo Maze.<br>Time Limit: 3 mins (Time will be Extended when Boss monsters are killed.) The maze will be auto-cleared when the time limit is over.<br><br>Abyss Lounge Access Ticket can be purchased through NPC [Zyte] in each district.	
 82501	0	Disorders	
 82502	0	Primacy	
@@ -12061,7 +12061,7 @@ Unkown1	Unkown2	Unkown3
 83208	0	Shack in the City	
 83209	0	Underground Lab	
 103111	0	Outsider	
-103115	0	Not many people know Ceres. It isn't that she has secrets or is hiding anything. She is simply a poor talker and not very close to the people around her.<br>Since she could remember everything by eating information written on paper from the start, perhaps she never needed to get close to others.	
+103115	0	Not many people know Seres. It isn't that she has secrets or is hiding anything. She is simply a poor talker and not very close to the people around her.<br>Since she could remember everything by eating information written on paper from the start, perhaps she never needed to get close to others.	
 103112	0	Guild Management Officer	
 103116	0	Seres, having received much special treatment from Starry Forest League due to her abilities to remember important information, she is showing off her skills everywhere else.<br>When there were many SoulWorkers and Supernaturals in the past, she used her abilities to manage and keep track of them all.<br>This also reigns true even though the number of SoulWorkers and Supernaturals have decreased significantly.<br><br>"... There are... quite... a lot of people... who have gained weight this year..."<br>- Seres, consuming the new profiles she received -	
 104062	0	Fortune Corps. Member	
@@ -12069,7 +12069,7 @@ Unkown1	Unkown2	Unkown3
 104063	0	A Past Life	
 104067	0	How did I live in the past?<br>Uhm... That's a difficult question... I don't think about the past, you see.<br>I can't believe you're making me think of it... You're not a good person, are you?<br>Let's see... I used to study and work a lot before the Vacuum.<br>I walked into the Vacuum myself and walked out and found myself in Rocco Town.<br>And the fact I'm saving people remains the same before and after.<br>And that's why I'm still in Rocco Town and all.<br>Plus... I wanted to be a nurse, so I went into nursing...<br>Although, now that I have the ability to heal, none of that really matters.<br>But I do think my basic knowledge helps a bit.<br>Hm... You keep asking but my past is a secret.<br>Go work now. You have a lot to do, right?	
 104064	0	Tenebris	
-104068	0	When the world becomes dark and wars are all around, that's when they say the number of people you love increases. I don't know where those statistics came from. I just remember reading it somewhere.<br>It was the same for me. I loved the one who saved us from the Vacuum. It was when SoulWorker Lord disappeared and we were waiting for someone to lead us. That's when he appeaered and showed us what justice really meant. Although it was merely envy and respect for most people.... But not to me.<br>I saw a pain deep inside of him. Screaming justice meant he never knew a world of it. Tenebris was in pain. He would've been in pain until a world of justice he so dreamed came.<br>All I wanted was to comfort that pain. And that's how I fell in love with him... The fun thing of a love story is seeing the spontaneity of it, right?	
+104068	0	When the world becomes dark and wars are all around, that's when they say the number of people you love increases. I don't know where those statistics came from. I just remember reading it somewhere.<br>It was the same for me. I loved the one who saved us from the Vacuum. It was when SoulWorker Lord disappeared and we were waiting for someone to lead us. That's when he appeared and showed us what justice really meant. Although it was merely envy and respect for most people.... But not to me.<br>I saw a pain deep inside of him. Screaming justice meant he never knew a world of it. Tenebris was in pain. He would've been in pain until a world of justice he so dreamed came.<br>All I wanted was to comfort that pain. And that's how I fell in love with him... The fun thing of a love story is seeing the spontaneity of it, right?	
 120049	0	I've never seen this kind of paper before... <br>I wonder what it tastes like...?	
 120050	0	What flavour it is...? The red one is strawberry flavored, the yellow lemon and the blue...	
 120051	0	I-I'm not seasons...	
@@ -12856,7 +12856,7 @@ Unkown1	Unkown2	Unkown3
 40928	0	Not a fan, but I'll use this newfound power!	
 40929	0	Do your best if you don't want to be ground to dust!!	
 40930	0	Oh~? So you're gonna do this? ALRIGHT! COME AT ME!	
-40931	0	Oh, great Vacuum! Give me the power to destroy those who have desetroyed Tenebris!	
+40931	0	Oh, great Vacuum! Give me the power to destroy those who have destroyed Tenebris!	
 40932	0	There's no use in rebelling! Stop it and Die!	
 40933	0	Sinner! You'll be sorry for destroying Tenebris!	
 40934	0	If it weren't for any of you, I'd be happy with Tenebris worshipping the great Vacuum! If it weren't for you all…. Why are you…	
@@ -13462,7 +13462,7 @@ Unkown1	Unkown2	Unkown3
 10714	0	Return to Comrades	
 10715	0	Falling Ship	
 10716	0	Revealed Intention	
-82178	0	Recommended Level: Lv. 82 or above<br><br>The hidden card of the Air Force has been occupied due to Lugman and Belleto's joint operation.<br>The story of SoulWalkers departing to reclaim it.	
+82178	0	Recommended Level: Lv. 82 or above<br><br>The hidden card of the Air Force has been occupied due to Lugman and Belletto's joint operation.<br>The story of SoulWalkers departing to reclaim it.	
 40535	0	Intruder detection confirmed, and the defense system has been activated.	
 83210	0	Sewer of Heavy Air	
 83211	0	Central Control Room	
@@ -13704,7 +13704,7 @@ Unkown1	Unkown2	Unkown3
 10904	0	Tragedy Fairy [Party]	
 48544	0	Activate the Temptation Stones simultaneously. It'll catch the distracted one off guard.	
 48545	0	Damn it, all units retreat!	
-48546	0	Sieg Proto is initiating an omni-directional self-destruction!	
+48546	0	Siege Proto is initiating an omni-directional self-destruction!	
 48547	0	It's activated! Finish this quickly!	
 10725	0	Broken Savior Hero [Party]	
 89021	0	* Required Soul Retention: 400<br>* Broken Savior: Hero [Party] is a 4-player weekly raid.<br><br>Having won the battle against the SoulWorkers, Tenebris eliminated the weak under his creed that "power is justice."<br>It is a world where those who could not accept Desire Energy were removed and only his worshippers survived.<br><br>The survivors organized a resistance against Tenebris,<br>but after losing the SoulWorkers, their strongest force, the situation is dire.<br><br>Then one day... the SoulWorkers who should have died appear before Tenebris.	
@@ -14356,8 +14356,8 @@ Unkown1	Unkown2	Unkown3
 10967	0	False Utopia	
 10968	0	Shadow of Silence	
 10969	0	Frenzied Heat	
-10970	0	Under Town	
-76204	0	Under Town<br>The lower district of Arcadia Realm. Its residents live out their days doing harsh labor in terrible conditions.<br>A peculiar disease has broken out, yet City Hall, which should manage and run the city, keeps exploiting the residents by taking advantage of the situation.<br>Rumor has it a group that resents the council is waiting for a chance to rebel.	
+10970	0	Undertown	
+76204	0	Undertown<br>The lower district of Arcadia Realm. Its residents live out their days doing harsh labor in terrible conditions.<br>A peculiar disease has broken out, yet City Hall, which should manage and run the city, keeps exploiting the residents by taking advantage of the situation.<br>Rumor has it a group that resents the council is waiting for a chance to rebel.	
 43714	0	Oberonia Rhea	
 43715	0	Oberonia Rhea +1	
 43716	0	Oberonia Rhea +2	

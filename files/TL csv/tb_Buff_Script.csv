@@ -122,11 +122,11 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5
 5536	Guided Shot Ability B I 	Defense -10% for 4 sec	Icon/Buff/Icon_Common_Debuff_Def	Reduced Defense	
 5537	Guided Shot Ability B II 	Defense -10% for 6 sec	Icon/Buff/Icon_Common_Debuff_Def	Reduced Defense	
 5538	Guided Shot Ability B III	Defense -10% for 8 sec	Icon/Buff/Icon_Common_Debuff_Def	Reduced Defense	
-5541	Sprinter I 	Movement Speed +5% 	Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter	Increased Movement Speed	
-5542	Sprinter II 	Movement Speed +6% 	Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter	Increased Movement Speed	
-5543	Sprinter III 	Movement Speed +7% 	Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter	Increased Movement Speed	
-5544	Sprinter IV	Movement Speed +8% 	Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter	Increased Movement Speed	
-5545	Sprinter V	Movement Speed +10% 	Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter	Increased Movement Speed	
+5541	Splinter I 	Movement Speed +5% 	Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter	Increased Movement Speed	
+5542	Splinter II 	Movement Speed +6% 	Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter	Increased Movement Speed	
+5543	Splinter III 	Movement Speed +7% 	Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter	Increased Movement Speed	
+5544	Splinter IV	Movement Speed +8% 	Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter	Increased Movement Speed	
+5545	Splinter V	Movement Speed +10% 	Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter	Increased Movement Speed	
 5551	Hide and Seek (Party) I	Recover [2%] SG per sec	Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide	SG Recovery	
 5552	Hide and Seek (Party) III	Recover [3%] SG per sec	Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide	SG Recovery	
 5553	Hide and Seek (Party) V	Recover [5%] SG per sec	Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide	SG Recovery	
@@ -1960,8 +1960,8 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5
 46016	Core - Death Guillotine	Damage increased by 10% for 2s	Icon/Buff/CoreC_03	Core - Death Guillotine	
 46020	Core - Fusion Armor	Gain 100 SV (Cooldown: 60s)	Icon/Buff/CoreD_01	Core - Fusion Armor	
 46022	Core - Dancing	Damage increased by 1% for 1s (10 stacks)	Icon/Buff/CoreE_01	Core - Dancing	
-46023	Core - Fu-chan I	Damage increased by 1% for 30s (10 stacks)	Icon/Buff/CoreE_02	Core - Fu-chan I	
-46024	Core - Fu-chan II	Damage increased by 1% for 30s (10 stacks)	Icon/Buff/CoreE_03	Core - Fu-chan II	
+46023	Core - Fuu-chan I	Damage increased by 1% for 30s (10 stacks)	Icon/Buff/CoreE_02	Core - Fuu-chan I	
+46024	Core - Fuu-chan II	Damage increased by 1% for 30s (10 stacks)	Icon/Buff/CoreE_03	Core - Fuu-chan II	
 46027	Core - Full Burst	Damage increased by 10% for 3s	Icon/Buff/CoreF_01	Core - Full Burst	
 46028	Core - Earth Quake	Damage increased by 5% for 5s	Icon/Buff/CoreF_02	Core - Earth Quake	
 46029	Core - Limit Break	Gain 100 SV (Cooldown: 60s)	Icon/Buff/CoreF_03	Core - Limit Break	
