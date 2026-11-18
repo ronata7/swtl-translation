@@ -835,7 +835,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 6019	0	Use chain skills {0} times until the end of Maze.	0	0	0	
 6020	0	Use {0} jump attacks until the end of Maze.	0	0	0	
 6021	0	Evade {0} times until the end of Maze.	0	0	0	
-6022	0	Defeat {0} air-borned enemies until the end of Maze.	0	0	0	
+6022	0	Defeat {0} airborne enemies until the end of Maze.	0	0	0	
 6023	0	Defeat {0} enemies by using jump attacks until the end of Maze.	0	0	0	
 6024	0	Defeat {0} x {1} until the end of stage.	0	0	0	
 6025	0	Destroy {0} x {1} until the end of stage.	0	0	0	
@@ -858,7 +858,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 6042	0	Use chain skills {0} times until the end of stage.	0	0	0	
 6043	0	Use {0} jump attacks until the end of stage.	0	0	0	
 6044	0	Evade {0} times until the end of stage.	0	0	0	
-6045	0	Defeat {0} air-borned enemies until the end of stage.	0	0	0	
+6045	0	Defeat {0} airborne enemies until the end of stage.	0	0	0	
 6046	0	Defeat {0} enemies by using jump attacks until the end of stage.	0	0	0	
 100001	Falling from the Sky	What awaited me after waking from a long sleep<br>was an ominous sky and a city like a ruin.<br>Where on earth was this... Before I could sort out my feelings,<br>a young child suddenly appeared before me<br>and told me to follow.<br>Confused, I decided to follow,<br>feeling that I had seen this somewhere before...	Follow [Mysterious Kid]	Auto-Complete	Auto-Complete	
 100002	Power to Stand Against	Following the child, I was attacked by a pack of black wolves.<br>A weapon appeared out of nowhere...<br>After somehow breaking through, I heard voices in the distance.<br>I climbed into their truck as I was told.<br>The moment a giant wolf closing in bared its fangs,<br>time stopped.<br>A feeling as if something was leaving my body...<br>And then I lost consciousness.	Defeat [Wolves]	Auto-Complete	Auto-Complete	
@@ -1308,7 +1308,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 1006453	Fight against [Enoch: Numberless Rings]	Fight against [Enoch] who has activated [Exceed: Numberless Rings] in [Nightmare]	0	0	0	
 1006454	Speak to [Martin]	Speak to [Martin] in [Ruin Fortress].	0	0	0	
 1006501	Investigate [Huge Construction Facility]	Investigate [Huge Construction Facility] in [The Ark]	0	0	0	
-1006551	Chase [Hicks]'s wherabouts 	Chase [Hicks]'s wherabouts in [Time to Atone]	0	0	0	
+1006551	Chase [Hicks]'s whereabouts 	Chase [Hicks]'s whereabouts in [Time to Atone]	0	0	0	
 1006552	Take down the [NED Company] Mercenaries 	Take the [NED Company] Mercenaries meeting you in [Time to Atone]	0	0	0	
 1006553	Listen to [Hicks]'s last words	Listen to [Hicks]'s last words in [Time to Atone]	0	0	0	
 1006601	Stop [Abel]	Stop [Abel] in [Clash of Destiny]	0	0	0	
@@ -3220,7 +3220,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 603655	Different Friend 	0	Speak to [Robert] in [Dawn of Fate] over [Normal]	Speak to [Allen].	Speak to [Allen] in [Dipluce Horizon]	
 603660	[Expert] For the Coverage	0	Defeat [Tenebris] in [Dawn of Fate] on [Expert]	Speak to [Perry]	Speak to [Perry] in [Dipluce Horizon].	
 603665	[Expert / Repeat] Escape Mission Support Notice 	0	Clear [Overlighted Justice] on [Expert]	Speak to [Merchants' Union Worker Kiosk] towards [Maliciouskhole]	Speak to [Merchants' Union Worker Kiosk] towards [Maliciouskhole] in [Dipluce Horizon]	
-603670	[Expert / Repeat]  Emergency Warrant of Arrest	0	Defeat [Tenebris] in [Dawn of Fate] on [Expert]	Speak to [Merchants' Union Worker Kiosk] towards [Maliciouskhole]	Speak to [Merchants' Union Worker Kiosk] towards [Maliciouskhole] in [Dipluce Horizon]	
+603670	[Expert / Repeat] Emergency Warrant of Arrest	0	Defeat [Tenebris] in [Dawn of Fate] on [Expert]	Speak to [Merchants' Union Worker Kiosk] towards [Maliciouskhole]	Speak to [Merchants' Union Worker Kiosk] towards [Maliciouskhole] in [Dipluce Horizon]	
 6035551	Obtain[Ominous Pocket] from [Doom Maker] in [Gate of Underground Mithraeum]	Obtain [Ominous Pocket] from [Doom Maker] in [Gate of Underground Mithraeum] over [Normal]	0	0	0	
 6035552	Speak to [Allen]	Speak to [Allen] in [Dipluce Horizon].	0	0	0	
 6035601	Obtain [Black Iron] from [Hell Guide] and [Polluted Guardian] in [Gate of Underground Mithraeum]	Obtain [Black Iron] from [Hell Guide] and [Polluted Guardian] in [Gate of Underground Mithraeum] over Hard	0	0	0	
@@ -4060,7 +4060,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 6041452	Speak to [Brooke] in [Junk Pool]	Speak to [Brooke] in [Heavy Breath] of [Junk Pool]	0	0	0	
 6041501	Speak to [Kane Barrel]	Speak to [Kane Barrel] in [Grace City]	0	0	0	
 6041502	Speak to [Kane Barrel] in [Wolf Cry]	Speak to [Kane Barrel] in [Black Cloud] of [Wolf Cry]	0	0	0	
-6041503	Defeat [Carmine Beast]	Defeat  Carmine Beast] in [Black Cloud]	0	0	0	
+6041503	Defeat [Carmine Beast]	Defeat Carmine Beast] in [Black Cloud]	0	0	0	
 6041551	Speak to [Brooke] in [Area 9]	Speak to [Brooke] in [Revealed Weapon] of [Area 9]	0	0	0	
 6041552	Speak to [Brooke]	Speak to [Brooke] in [Candus City].	0	0	0	
 6041601	Speak to [Brooke] in [Area 9]	Speak to [Brooke] in [Revealed Weapon] of [Area 9]	0	0	0	
@@ -4397,7 +4397,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 101400	Foundation of Liberation	We arrived at "Arcadia Realm," the center of all future operations in the east, an Air Force city and the foundation of liberation. This city's wealth and safety rest on the materialism of the wealthy from before the Vacuum, and on the suffering of the poor who are still overworked on the ground. The SoulWorkers had to accept that fact.	Investigate [Arcadia Realm]	Speak to [Rona]	Speak to [Rona] in [Arcadia Realm]	
 101405	Warm Flower Ranch	"Warming Flower Farm," once Cherry Blossom's base in the east. It has since been abandoned, but some of the Bad Kids driven out by the Good Kids and the Starry Forest League remain, and many Vacuum Junk are said to appear.	Enter [Warmingflower Farm] in [The State of Flower Garden]	Speak to [Heitz]	Speak to [Heitz] in [Arcadia Realm]	
 101410	The Ally from the North	Soon, we will meet Good Kid who is friendly to humans, and [Thomas], the Commander of the North Starry Forest League, who is in charge of the State of Flower Garden with Good Kid. And here is a question. Could there be love between a Human and a Vessi? [Thomas] and [Lyla] answer that question with action without hesitation.	Team up with [Occupation Troops] at [Warmingflower Farm]	Speak to [Thomas]	Speak to [Thomas] in [Warmingflower Farm: Ideological Conflicts]	
-101415	Man with a Cat Grass in His Mouth	Thomas and Lyla are deeply in love with each other. Human and Vessi in love? SoulWorkers can hardly understand them, but try to admit it to a certain extent.  We realize that Good Kid of North Cherry Blossom Vessi has a cooperative attitude, and Human-Vessi cooperation is also working very well here.	Ask [Thomas] about [North Cloudream]	Speak to [Thomas]	Speak to [Thomas] in [Warmingflower Farm: Delusion about Cherry Blossom]	
+101415	Man with a Cat Grass in His Mouth	Thomas and Lyla are deeply in love with each other. Human and Vessi in love? SoulWorkers can hardly understand them, but try to admit it to a certain extent. We realize that Good Kid of North Cherry Blossom Vessi has a cooperative attitude, and Human-Vessi cooperation is also working very well here.	Ask [Thomas] about [North Cloudream]	Speak to [Thomas]	Speak to [Thomas] in [Warmingflower Farm: Delusion about Cherry Blossom]	
 101420	Fairy and Human	We hear stories about an incident in the past that triggered a relationship between Thomas and Lyla. However, it is still hard to believe that humans and the Vessi can be culturally harmonized. So, Thomas and Lyla? To SoulWorkers, they are just one hell of a strange couple.	Listen to stories of [Thomas] and [Lyla] at [Warmingflower Farm]	Speak to [Heitz]	Speak to [Heitz] in [Arcadia Realm]	
 101425	Stardust Garden	In the garden full of alien plants of unknown origin, the Good Kids and the Bad Kids were fighting over the nectar of the "evening primrose." If the Good Kids occupied this strategic point, it should also be effective in keeping the Bad Kids in check.	Enter [Warmingflower Farm] in [The State of Flower Garden]	Speak to [Rona]	Speak to [Rona] in [Starlight Garden: Moonlight Flowers]	
 101430	Inside Story of the Cherry Blossoms	The prejudice and anxiety of SoulWorkers against Good Kid, the Cherry Blossom Vessi, have been somewhat resolved. Lyla provides SoulWorkers with useful information about Cherry Blossom, and she is supporting Thomas with all her heart.	Get information about [Cherry Blossom Vessi] at [Starlight Garden]	Speak to [Rona]	Speak to [Rona] in [Arcadia Realm]	
@@ -5512,7 +5512,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5	Unkown6
 1016141	[RECAPTURE ETHELDREDA: Strange Interest] Cleared	Clear [Bad Taste]	0	0	0	
 101615	Operation RECAPTURE ETHELDREDA III	SoulWalkers, feeling uncomfortable in Etheldreda's atmosphere, hear about hostages being held by Lugman.	[RECAPTURE ETHELDREDA: Unexpected Issues] Cleared	Speak to [Heitz]	Speak to [Heitz] in [Unexpected Issues]	
 1016151	[RECAPTURE ETHELDREDA: Unexpected Issues] Cleared	Clear [Variable]	0	0	0	
-101616	Hostage Rescue Operation I	Haru's group embarks on a search operation to free the hostages held by Lugman.	[RECAPTURE ETHELDREDA: Trolley Dilemma] Cleared	Speak to [Tactical Transceiver]	Speak to [Radio] in [Trolley dillema]	
+101616	Hostage Rescue Operation I	Haru's group embarks on a search operation to free the hostages held by Lugman.	[RECAPTURE ETHELDREDA: Trolley Dilemma] Cleared	Speak to [Tactical Transceiver]	Speak to [Radio] in [Trolley dilemma]	
 1016161	[RECAPTURE ETHELDREDA: Trolley Dilemma] Cleared	[Trolley Dilemma] Cleared	0	0	0	
 101617	Hostage Rescue Operation II	Haru's group, having parted ways with Heitz and Erwin's team, encounters challenges in their search operation.	[RECAPTURE ETHELDREDA: Split] Cleared	Speak to [Tactical Transceiver]	Speak to [Radio] in [Split]	
 1016171	[RECAPTURE ETHELDREDA: Split] Cleared	Clear [Split]	0	0	0	

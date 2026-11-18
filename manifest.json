@@ -1,7 +1,7 @@
 {
-  "version": "2026.1118.1300",
-  "released": "2026-11-18T04:00:05Z",
-  "notes": "fixing more text",
+  "version": "2026.1118.1613",
+  "released": "2026-11-18T07:13:38Z",
+  "notes": "fixing more text by kar",
   "files": [
     {
       "path": "TL csv/tb_Achievement_Script.csv",
@@ -17,14 +17,14 @@
     },
     {
       "path": "TL csv/tb_Buff_Script.csv",
-      "size": 236784,
-      "sha256": "d7d3b62d136f4c246d977d8d32a09054947ef01f34e1db8cfc9d5e3140ab6d6f",
+      "size": 236783,
+      "sha256": "67229b34ba5bccf749925837802957395f110148d5889dc171abab1a45e671cd",
       "kind": "translation"
     },
     {
       "path": "TL csv/tb_Cinema_String.csv",
-      "size": 1296793,
-      "sha256": "96e6de10e8d9adb15b30a8489b5da75f102c3bd1104ec0901df5a1cdbfc5448e",
+      "size": 1296775,
+      "sha256": "5ea5d3d422b6f0c1a12301499c0bc475d0b02008088bfcec50a2d3f0c40babc9",
       "kind": "translation"
     },
     {
@@ -59,8 +59,8 @@
     },
     {
       "path": "TL csv/tb_Quest_Script.csv",
-      "size": 767596,
-      "sha256": "04acbc9c9f0d10f2ebdf085f44174534b995a8b362a7236e3726838c86999938",
+      "size": 767591,
+      "sha256": "116d44fd8a44e0b99ede6a08691bd8a7683224f24de575019e0ff4b4274a2b4a",
       "kind": "translation"
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "path": "TL csv/tb_Speech_String.csv",
-      "size": 22522973,
-      "sha256": "736036e49ffc00f64cf2cd98b326a08e06a686bd06e367dcae4b164e5fbec167",
+      "size": 22522966,
+      "sha256": "beb6fd0de72f8d8499d45a77879042d9537c580f1eb307bdedd6da502cc064f5",
       "kind": "translation"
     },
     {
@@ -101,14 +101,14 @@
     },
     {
       "path": "TL csv/tb_UI_String.csv",
-      "size": 734876,
-      "sha256": "6ff9cf1dd95242ff62ff80d29f7670c31f5167735139ab734cda95f236361320",
+      "size": 734842,
+      "sha256": "16bd2c5312932fc9806fd214721599cb62ad4a7e0bd8c5ba778c027b14138a21",
       "kind": "translation"
     },
     {
       "path": "TL csv/tb_item_script.csv",
-      "size": 11856161,
-      "sha256": "a505fabb6f6f86d950d36fe041e518b5180fab9b3c5dbdbc6cb804a1ba6b4d26",
+      "size": 11855523,
+      "sha256": "13929ba6243446e1e683465592f8b1c3b59ad36e67b5a35e940bcb0399d3a871",
       "kind": "translation"
     },
     {

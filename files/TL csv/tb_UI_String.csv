@@ -298,11 +298,11 @@ Unkown1	Unkown2	Unkown3
 508	0	Used Item: {0}/{1}	
 509	0	※ You have reached maximum usage. Respawn not possible.	
 510	0	Respawn	
-511	1	<font color='#F15F5F'>Retreating from battle. You will be teleported back to the <font color='#F15F5F'>district</font> in </font><font size='15' color='#F7AE54'>{0}</font> sec.	
+511	1	<font color='#F15F5F'>Retreating from battle. You will be teleported back to the <font color='#F15F5F'>district</font> in </font><font color='#F7AE54'><font size="15">{0}</font></font> sec.	
 512	0	Abandon	
 513	1	※ Use the buff effect <font color='#5CD1E5'>[Blessing]</font> buff to resurrect yourself.	
 514	1	※ Use <font color='#F2CB61'>1x [Resurrector]</font> on dying.	
-515	1	※ You will be <font color='#F15F5F'>teleported back to the district</font> where you were last in <font size='15' color='#F7AE54'>{0}</font> sec.	
+515	1	※ You will be <font color='#F15F5F'>teleported back to the district</font> where you were last in <font color='#F7AE54'><font size="15">{0}</font></font> sec.	
 516	1	※ You were respawned with the assistance of <font color='#47C83E'>{0}</font>.	
 517	1	※ Use <font color='#FFBB00'>1x [Resurrector]</font> on dying.	
 518	1	※ You don't have any <font color='#FFBB00'>[Resurrectors]</font>.	
@@ -1235,7 +1235,7 @@ Unkown1	Unkown2	Unkown3
 5904	1	<font color='#FFFFFF'><font size="30">Tip.</font> You cannot use the Nova Skill <font color='#00D8FF'>[Erosion][Awakening]</font> in District 6.	
 5905	1	<font color='#FFFFFF'><font size="30">Tip.</font> You cannot use <font color='#00D8FF'>[Draw]</font> in District 6.	
 5910	0	<font color='#FFFFFF'><font size="30">Tip.</font> An Angelic Gruton only appears 1x per map.<br>This just makes their Items more valuable.	
-5911	0	<font color='#FFFFFF'><font size="30">Tip.</font> A Gruton army attacks  to protect ally Grutons in an Invincible state.	
+5911	0	<font color='#FFFFFF'><font size="30">Tip.</font> A Gruton army attacks to protect ally Grutons in an Invincible state.	
 5912	0	<font color='#FFFFFF'><font size="30">Tip.</font> Grutons disappear after an allotted amount<br>of time; disappearing Grutons do not drop Items.	
 6011	0	Change Deputy	
 6012	0	The summon list is updated every day at 24:00 JST.	
@@ -1323,8 +1323,8 @@ Unkown1	Unkown2	Unkown3
 6932	0	All Team Players have registered for the rematch.<br>The rematch starts in {0} sec.	
 7000	0	Preset	
 7001	0	Reset<br>Skill tree	
-7002	0	3rd Stage	
-7003	0	Stage	
+7002	0	 	
+7003	0	 Stage	
 7004	0	Please select a Skill tree.	
 7005	0	Break Skill	
 7006	0	Outburst	
@@ -1553,7 +1553,7 @@ Unkown1	Unkown2	Unkown3
 10087	0	0	
 10088	0	0	
 10089	0	Edgar prepares the final parade to cap off the attack on Rocco Town. But his cruel festival will end here.	
-10090	0	As the self-destruct button is activated, the last escape route from the N-102 laboratory opens.  Defeat the terrifying Beholder blocking the way and return safely.	
+10090	0	As the self-destruct button is activated, the last escape route from the N-102 laboratory opens. Defeat the terrifying Beholder blocking the way and return safely.	
 10091	0	The evil greed of the NED Company led to forbidden Experiments on live human subjects.<br>Stop the SoulWorker production project and grant peace to the victims.	
 10092	0	Another Acheron entry route, where the ultimate unmanned robot lay sleeping, awaiting completion. You must break through the unmanned robot, awakened from its long sleep, and make the operation a success.	
 10093	0	0	
@@ -1961,7 +1961,7 @@ Unkown1	Unkown2	Unkown3
 18063	0	The seal count of {0} has decreased by {1}.	
 18064	0	{0}: {1} cannot be used as there are still entries Available.	
 18068	0	The entry data has been reset. {0}: {1} It is possible to enter.	
-18069	0	Do you want to use {0} to change the Character Name?  By confirming you will consume 1x {0}.	
+18069	0	Do you want to use {0} to change the Character Name? By confirming you will consume 1x {0}.	
 18071	0	Purchase failed: Insufficient Zenny	
 18072	0	Purchase failed: Insufficient BP	
 18073	0	When used, all skills you have set will be reset.<br>Are you sure you want to use it?	
@@ -7460,7 +7460,7 @@ Unkown1	Unkown2	Unkown3
 60568	0	Main Reward	
 60569	0	Bonus Reward	
 60570	0	Open hours: every day at 11:00, 18:00 and 21:00 JST	
-60571	0	Time remaining untill matching: {0}:{1}:	
+60571	0	Time remaining until matching: {0}:{1}:	
 60572	0	Dimension Shutter: Team Search successful	
 60573	0	Dimension Shutter: Team Search failed	
 60574	0	Dimension Shutter: start Auto Team Search	
@@ -7624,8 +7624,8 @@ Unkown1	Unkown2	Unkown3
 20191	0	Here comes the champion of justice!	
 20192	0	Here comes the champion of justice!	
 20193	0	Military Band	
-20194	0	Playing excitedly with intruments.	
-20195	0	{0} is playing excitedly with intruments.	
+20194	0	Playing excitedly with instruments.	
+20195	0	{0} is playing excitedly with instruments.	
 20196	0	Prayer	
 20197	0	Praying to protect everyone.	
 20198	0	{0} is praying to protect everyone.	
@@ -7750,7 +7750,7 @@ Unkown1	Unkown2	Unkown3
 40738	0	You don't have to fight Fuu-chan, who attacks you.	
 40739	0	The object you use determines which monster is summoned, and each object can be used only once.<br>Iris and Jin have higher levels and stats than other monsters.	
 40740	0	The Child of Madness will appear soon. Careful!	
-40741	0	The Child of Sorrow and the old man will appear soon. Careful!	
+40741	0	The Child of Sorrow and Fuu-chan will appear soon. Careful!	
 40742	0	The Girl of Fiery Anger will appear soon. Be careful!	
 40743	0	Seeing your eyes filled with fear is exactly what I wanted. Yes, give it to me!	
 40744	0	What are you afraid of? What secrets do you keep locked away in your heart?	
@@ -8514,7 +8514,7 @@ Unkown1	Unkown2	Unkown3
 40747	0	You can now enter the Primal.<br>Only 1 player can enter an Anomalous Vacuum, and it disappears after 20 sec.<br>A total of 3 Anomalous Vacuums are created in sequence.	
 40748	0	When defeats mutant tentacle, it sprays [Purification] effect around, which allows you to resist the corrupted blood.	
 40749	0	Defeating a Primal Fragment grants a [Black Blood] effect that blocks the Primal's breath attack once.	
-40750	0	Primal's core attack grants [Gastric Acid] status.<br>When [Gastric Acid] overlaps 6 times, it changes to [Erosion] which continously give great damage.	
+40750	0	Primal's core attack grants [Gastric Acid] status.<br>When [Gastric Acid] overlaps 6 times, it changes to [Erosion] which continuously give great damage.	
 40751	0	[Callus Blood] gets deactivated when defeats corrupted blood, that has clot form.	
 710008	0	Blooming Dress Noir	
 710009	0	Blooming Dress	
@@ -9722,8 +9722,8 @@ Unkown1	Unkown2	Unkown3
 37231	0	Challenge Start	
 37232	0	Sector is cleared. Move to next sector through portal.	
 37233	0	Floor {0}, Sector {1} in progress	
-37311	0	Defeat all mosters that appears in 25 seconds.	
-37321	0	Defeat all mosters that appears in 25 seconds.	
+37311	0	Defeat all monsters that appears in 25 seconds.	
+37321	0	Defeat all monsters that appears in 25 seconds.	
 37331	0	Defeat Edgar in 45 seconds	
 37332	0	Defeat Amaryllis in 45 seconds	
 37333	0	Defeat Scar in 45 seconds	
@@ -10273,7 +10273,7 @@ Unkown1	Unkown2	Unkown3
 5535	0	Age: 14<br>Birthday: June 25<br>Epithet: Howling Guitar of Sorrow<br>Weapon: Soul Weapon Guitar<br><br>Starting location: Rocco Town	
 5536	0	Age: 18<br>Birthday: November 4<br>Epithet: Hammer Stol of Rage<br>Weapon: Soul Weapon Hammer<br><br>Starting location: Rocco Town	
 5537	0	Age: 17<br>Birthday: July 28<br>Epithet: Spirit Arms of Passion<br>Weapon: Soul Weapon Gauntlet<br><br>Starting location: Rocco Town	
-5538	0	Age: 16 (Aruel, the body's owner)<br>    1 (Soul Junk Chii)<br>Birthday: March 2<br>Epithet: DesperRoar of Aspiration<br>Weapon: Soul Weapon Katana<br><br>Starting location: Candus City	
+5538	0	Age: 16 (Aruel, the body's owner)<br> 1 (Soul Junk Chii)<br>Birthday: March 2<br>Epithet: DesperRoar of Aspiration<br>Weapon: Soul Weapon Katana<br><br>Starting location: Candus City	
 5539	0	Age: 17<br>Birthday: October 10<br>Epithet: Bombing Spear of Indomitability<br>Weapon: Soul Weapon Spear<br><br>Starting location: Candus City	
 80145	0	Promotion	
 80146	0	Basic	
@@ -10955,24 +10955,24 @@ Unkown1	Unkown2	Unkown3
 41600	0	Mission: Daily Login	
 41601	0	Mission: Character Level Up	
 41602	0	Mission: SoulPlus Upgrade	
-41603	0	Misison: Maze Clear	
+41603	0	Mission: Maze Clear	
 41604	0	Mission: Daily Mission Clear	
 41605	0	Mission: Purchase at S Coin Shop	
 41606	0	Mission: Create My Room	
 41607	0	Mission: Use FP (Cumulate)	
 41608	0	Mission: Dismantle Items	
-41609	0	Misison: Quest Clear	
+41609	0	Mission: Quest Clear	
 41610	0	Mission: Affinity Up (Any NPC)	
 41611	0	Mission: Crafting (NPC 'Janice')	
-41612	0	Misison: Get Achievement	
+41612	0	Mission: Get Achievement	
 41700	0	Mission: Daily Login	
-41701	0	Misison: Maze Clear	
+41701	0	Mission: Maze Clear	
 41702	0	Mission: Crafting (NPC 'Janice')	
 41703	0	Mission: Dismantle Items	
 41704	0	Mission: Daily Mission Clear	
 41705	0	Mission: Purchase at S Coin Shop	
 41706	0	Mission: Use FP (Cumulate)	
-41707	0	Misison: Quest Clear	
+41707	0	Mission: Quest Clear	
 41708	0	Mission: Skill Upgrade	
 41709	0	Stay Connected Mission	
 83001	0	Soul Mate Options	
@@ -12122,7 +12122,7 @@ Unkown1	Unkown2	Unkown3
 40922	0	Question… 'BP 28000' is required to purchase 'Energy Converter x1'. O for YES… X for NO…	
 40923	0	Question… A SoulWorker must be at least Lv. 25 to partake in Fireworks Festival. O for YES… X for NO…	
 40924	0	Question… Soul Mate Cheese Cat has skill 'Pit Stop'. O for YES… X for NO…	
-40925	0	Question… There are 5 Worker Support Devices (Merchants'  Union) in Grace City. O for YES… X for NO…	
+40925	0	Question… There are 5 Worker Support Devices (Merchants' Union) in Grace City. O for YES… X for NO…	
 40926	0	[Warning] Overflow Activation within 1 Minute (Monster: More Powerful & Traps Activated)	
 40927	0	[Danger] Overflow & Traps Activated.	
 9011100	0	Summer Daily Look	
@@ -13300,10 +13300,10 @@ Unkown1	Unkown2	Unkown3
 10698	0	Collateral Damage [Party]	
 10699	0	Collateral Damage [Expert]	
 10700	0	Collateral Damage [Ranking]	
-6200	0	<font color='#FFFFFF'><fontsize="30">Tip.</font> If you do not defeat Belletto within the time limit, you cannot enter Phase 2.	
-6201	0	<font color='#FFFFFF'><fontsize="30">Tip.</font> You can avoid Belletto's jump attack by jumping along with him.	
-6202	0	<font color='#FFFFFF'><fontsize="30">Tip.</font> The more of one of Belletto's attacks you take, the more the damage is split.	
-6203	0	<font color='#FFFFFF'><fontsize="30">Tip.</font> When enemies are far away, Belletto always uses wide-area attacks.	
+6200	0	<font color='#FFFFFF'><font size="30">Tip.</font> If you do not defeat Belletto within the time limit, you cannot enter Phase 2.	
+6201	0	<font color='#FFFFFF'><font size="30">Tip.</font> You can avoid Belletto's jump attack by jumping along with him.	
+6202	0	<font color='#FFFFFF'><font size="30">Tip.</font> The more of one of Belletto's attacks you take, the more the damage is split.	
+6203	0	<font color='#FFFFFF'><font size="30">Tip.</font> When enemies are far away, Belletto always uses wide-area attacks.	
 39067	0	Collateral Damage [Hard] Phase 2 Clear	
 39068	0	{0}	
 20912	0	Successful Critical Hits: More DMG to Boss / Named +[2%] (Cooldown: 1sec / Max Stack: 20 / Reset on Death)	
@@ -13521,7 +13521,7 @@ Unkown1	Unkown2	Unkown3
 89018	0	* Hidden Hideout: Hero [Party] is a 1-4 player weekly raid.<br>* Hidden Hideout: Hero [Solo] and [Party] share clear counts.<br><br>RaphaKumba, fatally wounded and defeated by the SoulWorkers, finds the remnants of the "Vacuum Faith Order" at the Unholy Sanatorium.<br><br>RaphaKumba watches them gathered together in prayer.<br>Seeing the Order's fanatical faith in the Vacuum, he realizes what "true faith" is in a shattered world.<br><br>Enlightened, RaphaKumba returns to his abandoned "hideout" and begins to pray once more.<br>As a result, his strengthened "faith" brings him even greater power, but...	
 710102	0	Talking Monkey	
 710103	0	Vista before the experiment	
-89019	0	Account Entry Count                                                 {0} / {1}	
+89019	0	Account Entry Count {0} / {1}	
 89020	0	Entry Content	
 400	0	{0} Colorless Soulmate Fragment	
 1411	0	Overclock	
@@ -13635,8 +13635,8 @@ Unkown1	Unkown2	Unkown3
 40979	0	Insects like you dare to buzz around me?!<br>Die with this!!	
 40980	0	You... you are? What the hell is this??	
 40981	0	Has that filthy druggie come wagging their tail again?	
-40982	0	I don't know what's going on, but  <br>I'll support you for now!	
-40983	0	Against this kind of trash...  <br>I...	
+40982	0	I don't know what's going on, but <br>I'll support you for now!	
+40983	0	Against this kind of trash... <br>I...	
 40984	0	Tene...bris...	
 40985	0	You're just the same trash.<br>Just die already!	
 40986	0	Aaaaagh!!	
@@ -14040,7 +14040,7 @@ Unkown1	Unkown2	Unkown3
 5165	0	You have been promoted to <Howling Guitar of Harmony>.	
 10921	0	Sweet Sugar Road	
 88310	0	Hollow	
-88406	0	※ Controls: Mouse<br>※ Rewards:<br>Defeat - x3 [EV] Assorted Can of Tuna<br>Victory with 2 Retries used  - x4 [EV] Assorted Can of Tuna<br>Victory with 1 or 0 Retries used – x5 [EV] Assorted Can of Tuna	
+88406	0	※ Controls: Mouse<br>※ Rewards:<br>Defeat - x3 [EV] Assorted Can of Tuna<br>Victory with 2 Retries used - x4 [EV] Assorted Can of Tuna<br>Victory with 1 or 0 Retries used – x5 [EV] Assorted Can of Tuna	
 710310	0	Mist Scythe of the End	
 5163	0	You have been promoted to <Mist Scythe of the Final Contract>.	
 10923	0	District 8	

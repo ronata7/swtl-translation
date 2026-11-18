@@ -449,7 +449,7 @@ Unkown1	Unkown2	Unkown3	Unkown4	Unkown5
 30205	Corrosion	Constantly loses HP	Icon/Buff/Icon_Common_Debuff_Bleed	Corrosion	
 30206	Contaminated Blood	Constantly loses HP	Icon/Buff/Icon_Common_Debuff_Poison	Contaminated Blood	
 30207	Decayed 	Constantly loses HP	0	-	
-30208	Resistance	Prevents player from poisons of polluted area for the duration of  time, 	Icon/Buff/Icon_Common_Buff_SArmor	-	
+30208	Resistance	Prevents player from poisons of polluted area for the duration of time, 	Icon/Buff/Icon_Common_Buff_SArmor	-	
 30212	Iron Wall	Received Damage almost count as Miss for the duration of time. 	Icon/Buff/Icon_Common_Debuff_Def	-	
 30217	HP Loss	0	0	HP Loss	
 30231	Dark Blood 	Covered with enemies' blood. No effects from Breath of The Primal. 	Icon/Buff/Icon_Common_Buff_SArmor	Dark Blood	
