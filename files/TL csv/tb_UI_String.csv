@@ -7314,7 +7314,7 @@ Unkown1	Unkown2	Unkown3
 5924	1	<font color='#FFFFFF'><font size="30">Tip.</font> Near SoulWorker, also the Awakeners, they<br>have powerful Skill, so please be careful.	
 5925	1	<font color='#FFFFFF'><font size="30">Tip.</font> Special reward box appears from center, if you defeat all Near SoulWorkers.	
 5926	1	<font color='#FFFFFF'><font size="30">Tip.</font> Don't forget Sky Clock Palace's Progression Reward!	
-5927	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#FF0033'>[Corrupted Soul]</font> status, recover HP of the target during attack.<br />Gives<br>buff that, Receiving damage gets reduced 60% <font color='#FF0033'>[Absorbed Power]</font>.	
+5927	1	<font color='#FFFFFF'><font size="30">Tip.</font> While in the <font color='#FF0033'>[Corrupted Soul]</font> state, attacking an enemy recovers the target's HP and<br>grants the <font color='#FF0033'>[Absorbed Power]</font> buff, which reduces damage taken by 60%.	
 5928	1	Joining a Guild grants various benefits.	
 5929	1	Make use of Brooch set effects.	
 5930	1	If you run into trouble, check the official website and contact Support.	
@@ -8845,7 +8845,7 @@ Unkown1	Unkown2	Unkown3
 33575	0	Primacy Standard Set	
 33576	0	Primacy Extend Set	
 33577	0	Primacy Accessory Set	
-10019	0	Soul Junks were discovered in a remote corner of the uninhabited island. They were worshipping something very mysterious. Defeat Raphakumba in [Hidden Hideout].	
+10019	0	Soul Junks were discovered in a remote corner of the uninhabited island. They were worshipping something very mysterious. Defeat RaphaKumba in [Hidden Hideout].	
 10113	0	Hidden Hideout	
 40644	0	Bear witness to my tremendous power! <br>Let's go! Step closer and suffer a miserable end!	
 40645	0	Bow down and worship me! <br>Raze the unworthy to the ground!	
@@ -8856,10 +8856,10 @@ Unkown1	Unkown2	Unkown3
 40650	0	I will strip away your evil power.<br>The power you believe in will torment you.	
 40651	0	I will strip away your evil power.<br>Growing stronger is what will strangle you.	
 40652	0	I will strip away your evil power.<br>Your hunger for strength will gouge out your soul.	
-5933	1	<font color='#FFFFFF'><font size="30">Tip.</font> The totems which RaphaKumba has summoned cannot be<br>destroyed.<br />They will disappear automatically after a while.	
-5934	1	<font color='#FFFFFF'><font size="30">Tip.</font> Skill Forbidden pattern gets deactivated when destroy <font color='#FF0033'>[Faith]</font><br>which is at the mental world of Raphakumpa using summoned portal.	
-5935	1	<font color='#FFFFFF'><font size="30">Tip.</font> <font color='#FF0033'>[Destruction]</font>Debuff damages all Team members within certain range except<br>himself. <br />Each Team members must stay away from each other when receiving debuff.	
-5936	1	<font color='#FFFFFF'><font size="30">Tip.</font> Totems summoned by Raphakumpa cannot be destroyed.<br /> Totem<br>disappears after certain amount of time after summoned.	
+5933	1	<font color='#FFFFFF'><font size="30">Tip.</font> The summoned stone tablet is destroyed after taking a certain amount of damage from RaphaKumba's attacks, so be careful.	
+5934	1	<font color='#FFFFFF'><font size="30">Tip.</font> Skill Forbidden pattern gets deactivated when destroy <font color='#FF0033'>[Faith]</font><br>which is at the mental world of RaphaKumba using summoned portal.	
+5935	1	<font color='#FFFFFF'><font size="30">Tip.</font> The <font color='#FF0033'>[Ruin]</font> debuff deals damage to all party members within a certain range, except the one who received it.<br>Party members who receive the debuff must move away from each other.	
+5936	1	<font color='#FFFFFF'><font size="30">Tip.</font> Totems summoned by RaphaKumba cannot be destroyed. Totems disappear after a certain amount of time has passed since they were summoned.	
 27950	0	Sprinting with under 30% stamina increases your Movement Speed for 3 sec.: +{0}%	
 27951	0	Attacking with 100% stamina increases attack speed for 3 sec.: +{0}%	
 9897	0	Dipluce Horizon Raid	
@@ -11290,7 +11290,7 @@ Unkown1	Unkown2	Unkown3
 82046	0	Recommended: Lv. 51 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: Silent Road / Concentrated Force / Rising Monster / Nightmare Return	
 82047	0	Recommended: Lv. 53 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: The Ark / Blue Heart / Time for Penance / Clashing Destiny	
 82048	0	Recommended: Lv. 55 or Higher<br>Boss: Siege Proto Zero<br><br>Casual Raids are also known as the [Alternate Vacuum] that 1 ~ 4 Players can challenge as Solo or Party.<br>Various useful items can be obtained in Casual Raids including Crafting Materials of [Darkness Born] Set (Lv. 55). <br>If "Level 55 Reward PKG" is already equipped, there is no need to obtain [Darkness Born] Set. As this Set is just entry-level equipment for entering Golden Citadel.<br>However, Casual Raids are the place to earn a lot of Zenny. So, it is recommended to enter depending on the situation.<br>Casual Raids can be found at Rocco Town, Candus City, Grace City, and Ruin Fortress.	
-82051	0	Recommended: Lv. 55 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: Fire flame reappeared / Earth to Blood / Glowing Streets / Path of Damnation	
+82051	0	Recommended: Lv. 55 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: Fire Flame Reappeared / Earth to Blood / Glowing Streets / Path of Damnation	
 82052	0	Recommended: Lv. 56 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: First Voice / Ha-Ha-Ha Square / Mould in the Darkness / Corrupted Memory	
 82053	0	Recommended: Lv. 57 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: Garden Entrance / Bloody Harvest / Fallen Path / Hunting Area of Predator	
 82054	0	Recommended: Lv. 58 or Higher<br><br>Difficulty Levels: Normal / Hard / Expert<br><br>Episode Names: Dead Meat Breeding Ground / Greed and Decline / Lost Salvation / Best Toy	
@@ -13391,7 +13391,7 @@ Unkown1	Unkown2	Unkown3
 10705	0	The [Hidden Hideout Hero], which becomes stronger and undergoes changed patterns, becomes difficult to strategize if not well coordinated with party members.	
 10706	0	Hidden Hideout Hero [Party]	
 862	0	Hard Resurrection Limit (Party)	
-48456	0	This is the [Hard] difficulty of the Hidden Hideout Hero mode. It involves battling Raphakumba, who possesses completely different strategies and new patterns.	
+48456	0	This is the [Hard] difficulty of the Hidden Hideout Hero mode. It involves battling RaphaKumba, who possesses completely different strategies and new patterns.	
 526	0	Team Resurrection Count: {0}/{1}	
 527	0	※ You cannot exceed the team's resurrection count.	
 6206	0	<font color='#FFFFFF'><font size="30">Tip.</font> When RaphaKumba slams the ground, you can avoid the attack by jumping.	
@@ -13402,7 +13402,7 @@ Unkown1	Unkown2	Unkown3
 6211	0	<font color='#FFFFFF'><font size="30">Tip.</font> RaphaKumba receives little damage while the [Crystal of<br>Faith] is present. Quickly remove the [Crystal of Faith].	
 40653	0	After 4 minutes, RaphaKumba will go into Enrage, increasing its attack power by 500%.	
 40654	0	Activate the altar's monument to counter RaphaKumba's attacks.	
-40655	0	Find and defeat the [True Followers of Raphakumba] to thwart RaphaKumba's attacks.	
+40655	0	Find and defeat the [True Followers of RaphaKumba] to thwart RaphaKumba's attacks.	
 40656	0	By breaking down RaphaKumba's pattern, all players' attack power will increase.	
 40657	0	As long as faith exists, RaphaKumba is immune to all damage.	
 40658	0	Divine judgment will be upon you!!	
@@ -14831,3 +14831,4 @@ Unkown1	Unkown2	Unkown3
 90059	0	Please select the option to apply.	
 55097	0	Failed to enter the maze.	
 59806	0	Additional jumping cannot be used on characters with a Soul Jumping usage history.	
+79	0	You cannot open your personal storage inside a maze.	

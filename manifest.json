@@ -1,7 +1,7 @@
 {
-  "version": "2026.1118.1613",
-  "released": "2026-11-18T07:13:38Z",
-  "notes": "fixing more text by kar",
+  "version": "2026.1120.1157",
+  "released": "2026-11-20T02:57:19Z",
+  "notes": "add new text translation for new BF and Haloween Box",
   "files": [
     {
       "path": "TL csv/tb_Achievement_Script.csv",
@@ -89,8 +89,8 @@
     },
     {
       "path": "TL csv/tb_Title_String.csv",
-      "size": 120660,
-      "sha256": "587b32d17a87047847acb18e513df8d4aa5794173a41d268e3b942ac6aa22700",
+      "size": 121737,
+      "sha256": "6649ce01711106241a7b2b7d9810639948b8842dfa37e7fe6bebdb27d119d0a9",
       "kind": "translation"
     },
     {
@@ -101,15 +101,31 @@
     },
     {
       "path": "TL csv/tb_UI_String.csv",
-      "size": 734842,
-      "sha256": "16bd2c5312932fc9806fd214721599cb62ad4a7e0bd8c5ba778c027b14138a21",
-      "kind": "translation"
+      "size": 734950,
+      "sha256": "73d891095387632454295905806c4774953b27b508d0789d116113cf0a390dc3",
+      "kind": "translation",
+      "patches": [
+        {
+          "from": "16bd2c5312932fc9806fd214721599cb62ad4a7e0bd8c5ba778c027b14138a21",
+          "path": "patches/TL csv/tb_UI_String.csv.16bd2c531293.rp",
+          "size": 934,
+          "sha256": "7dc29fe8e0ab4e17ee4a1a549cc71bf30581fc4c30ffd3a4be4c8aed494a2014"
+        }
+      ]
     },
     {
       "path": "TL csv/tb_item_script.csv",
-      "size": 11855523,
-      "sha256": "13929ba6243446e1e683465592f8b1c3b59ad36e67b5a35e940bcb0399d3a871",
-      "kind": "translation"
+      "size": 11861184,
+      "sha256": "31efd95df7df4c46c94c551bb6079d5f828d5750dfafa44b383cb014d8855449",
+      "kind": "translation",
+      "patches": [
+        {
+          "from": "13929ba6243446e1e683465592f8b1c3b59ad36e67b5a35e940bcb0399d3a871",
+          "path": "patches/TL csv/tb_item_script.csv.13929ba62434.rp",
+          "size": 1220,
+          "sha256": "614d1e0e19c5be3ee4276db230ce57acefbdd42cd4345be5bdf9d3dbd28988ef"
+        }
+      ]
     },
     {
       "path": "TL csv/tb_soul_metry_string.csv",
