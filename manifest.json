@@ -1,7 +1,7 @@
 {
-  "version": "2026.1120.1157",
-  "released": "2026-11-20T02:57:19Z",
-  "notes": "add new text translation for new BF and Haloween Box",
+  "version": "2026.1121.0929",
+  "released": "2026-11-20T23:29:33Z",
+  "notes": "fix JP source typos",
   "files": [
     {
       "path": "TL csv/tb_Achievement_Script.csv",
@@ -115,15 +115,21 @@
     },
     {
       "path": "TL csv/tb_item_script.csv",
-      "size": 11861184,
-      "sha256": "31efd95df7df4c46c94c551bb6079d5f828d5750dfafa44b383cb014d8855449",
+      "size": 11861182,
+      "sha256": "5fb1de4438b001aed3f75825ed03c5b87551c9521a69e074c062be1b8425f71d",
       "kind": "translation",
       "patches": [
         {
+          "from": "31efd95df7df4c46c94c551bb6079d5f828d5750dfafa44b383cb014d8855449",
+          "path": "patches/TL csv/tb_item_script.csv.31efd95df7df.rp",
+          "size": 261,
+          "sha256": "a155ece91c4a34864e94523280f9ed5967da73cf0c9ed9ec3a51f1c2825b3f42"
+        },
+        {
           "from": "13929ba6243446e1e683465592f8b1c3b59ad36e67b5a35e940bcb0399d3a871",
           "path": "patches/TL csv/tb_item_script.csv.13929ba62434.rp",
-          "size": 1220,
-          "sha256": "614d1e0e19c5be3ee4276db230ce57acefbdd42cd4345be5bdf9d3dbd28988ef"
+          "size": 1218,
+          "sha256": "4afb5db5cad3d22dda0dcc456a2f489f9c9f461b4ec1c94b20c83a5ba27fe195"
         }
       ]
     },
